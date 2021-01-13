@@ -211,11 +211,67 @@ def test_cruise_emissions
   puts ""
 end
 
+def test_ship_freight
+  puts "+++ Ship Freight +++"
+
+  test_arr = [[44.2, 2.5, 6301, 'USNYC', 'DEBER', 'dry_cargo']]
+
+  test_arr.each do |trip|
+    calculation = trip[0] * trip[1] * trip[2] * 1.15
+    api_result = request_ship_freight_emissions(trip[5], trip[1], trip[3], trip[4])
+    if calculation == api_result
+      puts "Correct! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    else
+      puts "False! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    end
+  end
+  puts ""
+  puts ""
+end
+
+def test_air_freight
+  puts "+++ Air Freight +++"
+
+  test_arr = [[2.5, 250, 50, 0.29, 'HAM', 'TXL', "belly_freighter"]]
+
+  test_arr.each do |trip|
+    calculation = trip[0] * (trip[1] + trip[2]) * trip[3] * 1000 * 3.1497
+    api_result = request_air_freight_emissions(trip[0], trip[4], trip[5], trip[6])
+    if calculation == api_result
+      puts "Correct! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    else
+      puts "False! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    end
+  end
+  puts ""
+  puts ""
+end
+
+def test_truck
+  puts "+++ Truck Address +++"
+
+  test_arr = [[282, 2.5, 'Weidenstieg 8, Hamburg, Deutschland', 'Malplaquetstraße 41, 13347 Berlin, Deutschland']]
+
+  test_arr.each do |trip|
+    calculation = 62 * trip[0] * trip[1]
+    api_result = request_truck_address_emissions(trip[1], trip[2], trip[3])
+    if calculation == api_result
+      puts "Correct! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    else
+      puts "False! Expected: #{calculation.to_i}, Received: #{api_result} (nights = #{trip})"
+    end
+  end
+  puts ""
+  puts ""
+end
 
 # test_flight
 # test_car_distance_type(car_type, car_emission_factor)
 # test_bus_emissions_distance
 # test_train_emissions_distance(train_detour_factor, train_seat_class, train_emission_factor)
 # test_parcel_emissions_distance(shipping_method)
-test_hotel_emissions(stars, room_type)
+# test_hotel_emissions(stars, room_type)
 # test_cruise_emissions
+test_ship_freight
+test_air_freight
+test_truck

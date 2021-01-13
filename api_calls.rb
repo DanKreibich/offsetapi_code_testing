@@ -20,6 +20,7 @@ end
 # extracts grams from API result
 def get_grams(result)
   res = JSON.parse(result.body)
+  # puts res --> is the API  response
   res["items_results"][0]["co2_in_grams"]
 end
 
@@ -291,8 +292,65 @@ def request_general_emissions(co2)
   res
   answer = JSON.parse(res.body)
 end
-puts request_general_emissions(100000)
+# puts request_general_emissions(100000)
 
+def request_ship_freight_emissions(type, weight, locode_start, locode_end)
+  uri = base_parameters[0]
+  request = base_parameters[1]
+  request.body = {
+    items: [
+      {
+        carbon_activity_type: "ship_freight",
+        parameters: {
+          origin_locode: locode_start,
+          destination_locode: locode_end,
+          weight_in_tonnes: weight,
+          freight_type: type },
+      }
+    ],
+  }.to_json
+  res = get_api_result(uri, request)
+  get_grams(res)
+end
+# puts request_ship_freight_emissions("dry_cargo", 2.5, 'USNYC', 'DEBER')
+
+def request_air_freight_emissions(weight, start, destination, type)
+  uri = base_parameters[0]
+  request = base_parameters[1]
+  request.body = {
+    items: [
+      {
+        carbon_activity_type: "air_freight",
+        parameters: {
+          origin_iata: start,
+          destination_iata: destination,
+          weight_in_tonnes: weight,
+          plane_type: type},
+      }
+    ],
+  }.to_json
+  puts request.body
+  res = get_api_result(uri, request)
+  get_grams(res)
+end
+
+def request_truck_address_emissions(weight, origin, destination)
+  uri = base_parameters[0]
+  request = base_parameters[1]
+  request.body = {
+    items: [
+      {
+        carbon_activity_type: "truck",
+        parameters: {
+          weight_in_tonnes: weight,
+          origin_address: origin,
+          destination_address: destination},
+      }
+    ],
+  }.to_json
+  res = get_api_result(uri, request)
+  get_grams(res)
+end
 
 # The following part deals with puchasing and offsetting carbon activities after they got calculated through the API
 def purchase_offset(id)
