@@ -1,0 +1,14 @@
+Origin-Destination;Class;NumberOfFlights
+MUC-HEL;Eco;1
+HEL-MUC;Eco;1
+MUC-TLS;Eco;2
+TLS-MUC;Eco;2
+MUC-TXL;Eco;5
+TXL-MUC;Eco;5
+CGN-TXL;Eco;1
+MUC-MRS;Eco;2
+MRS-MUC;Eco;2
+MUC-OSL;Eco;1
+OSL-MUC;Eco;1
+OSL-BDU;Eco;1
+BDU-OSL;Eco;1

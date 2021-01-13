@@ -1,0 +1,14 @@
+origin,destination,class,CO2 in grams
+MUC,HEL,economy,114918
+HEL,MUC,economy,114918
+MUC,TLS,economy,100211
+TLS,MUC,economy,100211
+MUC,BER,economy,68465
+BER,MUC,economy,68465
+CGN,TXL,economy,67215
+MUC,MRS,economy,86960
+MRS,MUC,economy,86960
+MUC,OSL,economy,120579
+OSL,MUC,economy,120579
+OSL,BDU,economy,105784
+BDU,OSL,economy,105784
