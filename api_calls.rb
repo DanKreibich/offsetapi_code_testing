@@ -5,13 +5,13 @@ require 'json'
 # defines the base parameters for calling the API
 def base_parameters
   uri = URI('https://api.offset-api.cloud/carbon_activities')
-  headers = { 'Content-Type': 'application/json', 'X-API-KEY': 'sk_test_uSTDBzdJPcvEoFvShfYfAE4U' }
+  headers = { 'Content-Type': 'application/json', 'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJjbGllbnRfa2V5IjoiYzY2ZTc5NmEtZmY1OC00ZmZhLTk5MGYtNDYyYzg4OGZhZTQxIiwiZXhwIjoxNjQ2OTIwNjkzfQ.WAluE4fAyLotjJfoi6j5FlTUCnWY20eobJb3hrZx4_Q' }
   request = Net::HTTP::Post.new(uri, headers)
   [uri, request]
 end
 
-# fetches the results ffrom the API
-def get_api_result(uri,request)
+# fetches the results from the API
+def get_api_result(uri, request)
   res = Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
     http.request(request)
   end
@@ -20,8 +20,8 @@ end
 # extracts grams from API result
 def get_grams(result)
   res = JSON.parse(result.body)
-  # puts res --> is the API  response
-  res["items_results"][0]["co2_in_grams"]
+  # puts res
+  res.dig("items_results", 0, "co2_in_grams")
 end
 
 # Following part aims to return CO2 values of the respective modes of transportation
@@ -119,7 +119,11 @@ def request_car_emissions_address_type(origin, destination, fuel_type, car_type)
     ],
   }.to_json
   res =  get_api_result(uri, request)
-  get_grams(res)
+  if res.kind_of? Net::HTTPSuccess
+    get_grams(res)
+  else
+    "-"
+  end
 end
 # puts request_car_emissions_address_type("Weidenstieg 16, 20259 Hamburg, Germany", "Rosenthalerstraße 32, 13347 Berlin, Germany", "petrol", "medium")
 
@@ -207,7 +211,8 @@ def request_train_emissions_address(origin, destination, train_type, seat_type, 
       {
         carbon_activity_type: "train",
         parameters: {
-          distance_in_km: distance,
+          origin_address: origin,
+          destination_address: destination,
           train_type: train_type,
           seat_type: seat_type,
           number_of_travelers: number_of_travelers},

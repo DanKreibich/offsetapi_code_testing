@@ -1,0 +1,2860 @@
+user_city;user_zip;offer_location;offer_region;bookings
+bocholt;46399;humboldt - gremberg;cologne;3
+münster;48161;sankt peter-ording;nordfriesland;3
+schülldorf;24790;gifhorn;gifhorn;3
+bad oldesloe;23843;brandshagen;nordvorpommern;2
+bad saarow;15526;priwall peninsula;lübeck;2
+berlin;12683;niendorf/ostsee;ostholstein;2
+berlin;14197;dümmer;ludwigslust-parchim;2
+bielefeld;33649;hohen schönberg;nordwestmecklenburg;2
+bockenem;31167;norddeich;aurich;2
+brekendorf;24811;zierow;nordwestmecklenburg;2
+delmenhorst;27755;dagebüll;nordfriesland;2
+frankfurt;60528;sachsenhausen;darmstadt;2
+garbsen;30826;boltenhagen;nordwestmecklenburg;2
+gütersloh;33332;humboldt - gremberg;cologne;2
+hamburg;21037;priwall peninsula;lübeck;2
+hannover;30457;sankt andreasberg;goslar;2
+herborn;35745;regenhütte;lower bavaria;2
+kamen;59174;wremen;cuxhaven;2
+kriftel;65830;großenbrode;ostholstein;2
+königstein;61462;faulbach;kassel;2
+langenhagen;30855;großenbrode;ostholstein;2
+leipzig;4229;zingst;nordvorpommern;2
+leonberg;71229;wiarden;friesland;2
+lingen;49811;tossens;wesermarsch;2
+lüchow;29439;priwall peninsula;lübeck;2
+meinerzhagen;58540;roggentin;mecklenburgische seenplatte;2
+münchen;80469;inzell;upper bavaria;2
+parchim;19370;zingst;nordvorpommern;2
+peine;31224;obermaiselstein;swabia;2
+philippsburg;76661;poseritz;rügen;2
+philippsburg;76661;waase;rügen;2
+reken;48734;sankt peter-ording;nordfriesland;2
+ribnitz-damgarten;18311;grömitz;ostholstein;2
+stolberg (rhld.);52222;norddeich;aurich;2
+südharz;6536;zingst;nordvorpommern;2
+walsrode;29664;grömitz;ostholstein;2
+werne;59368;alt travemünde - rönnau;lübeck;2
+wiendorf;18258;norddeich;aurich;2
+wittenberg;6888;krems ii;segeberg;2
+wittingen;29378;dagebüll;nordfriesland;2
+wolfsburg;38446;haffkrug;ostholstein;2
+35428 langgöns;35428;merzig;merzig-wadern;1
+48599 gronau;48599;ivenack;demmin;1
+48703 stadtlohn;48703;norddeich;aurich;1
+52525;heinsberg;sondernheim;germersheim;1
+58239 schwerte;58239;bannemin;ostvorpommern;1
+^niederkrüchten;41372;schönwalde;uecker-randow;1
+aachen;52062;ferienhausgebiet hillenseifen;vulkaneifel;1
+aachen;52078;norden;aurich;1
+aachen;52078;speyer;speyer;1
+aalen;73434;deggenhausertal;tübingen;1
+aasbüttel;25560;stinteck;dithmarschen;1
+abstatt;74232;dagebüll;nordfriesland;1
+achim;28832;boltenhagen;nordwestmecklenburg;1
+admannshagen;18211;glowe;rügen;1
+aerzen;31855;dornumersiel;aurich;1
+ahlerstedt;21702;großenbrode;ostholstein;1
+ahrensburg;22926;wenningstedt-braderup;nordfriesland;1
+ahrensbök;23623;dagebüll;nordfriesland;1
+ahrensfelde;16356;seebad heringsdorf;ostvorpommern;1
+aichach;86551;dörgenhausen;dresden government region;1
+alfeld;91236;sande;friesland;1
+alfter;53347;brombach;freiburg;1
+algermissen;31191;schönberger strand;plön;1
+algermissen;31191;timmendorfer strand;ostholstein;1
+algermissen;31191;wasserkoog;nordfriesland;1
+alheim;36211;arle;aurich;1
+alken;56332;grafenried;lower bavaria;1
+alpen;46519;norddeich;aurich;1
+alsbach-hähnlein;64665;roßbach;lower bavaria;1
+alsdorf;52477;buch;rhein-hunsrück-kreis;1
+alsfeld;36304;wackerballig;schleswig-flensburg;1
+alt duvenstedt;24791;dieksanderkoog;dithmarschen;1
+alt ruppin;16827;bansin;ostvorpommern;1
+altdorf;67482;badenweiler;freiburg;1
+altena;58762;fedderwardersiel;wesermarsch;1
+altenerding;85435;bad feilnbach;upper bavaria;1
+altfriesack;16818;süd;freiburg;1
+altlandsberg;15345;hohendorf;nordvorpommern;1
+altrip;67122;brigach;freiburg;1
+ammersbek;22949;schönhagen;rendsburg-eckernförde;1
+ammersbek;22949;wendtorfer strand;plön;1
+amsterdam;1056 vb;berliner innenstadt;berliner innenstadt;1
+amt wachsenburg, ot sülzenbrücken;99334;dörfles b.coburg;upper franconia;1
+amtzell;88279;losheim am see;merzig-wadern;1
+amöneburg roßdorf;35287;pelzerhaken;ostholstein;1
+anderlingen;27446;kappeln;schleswig-flensburg;1
+andernach;56626;schönhagen;rendsburg-eckernförde;1
+andervenne;49832;kappeln;schleswig-flensburg;1
+angermünde;16278;seebad heringsdorf;ostvorpommern;1
+anzing;85646;duhnen;cuxhaven;1
+apelern;31552;wernigerode;harz;1
+appen;25482;winnemark;rendsburg-eckernförde;1
+arnstadt;99310;treptow-köpenick;treptow-köpenick;1
+aschendorf;26871;bensersiel;wittmund;1
+aschersleben;6449;krakow am see;rostock;1
+auerbach;8209;altmummen;swabia;1
+auerbach;8209;peenemünde;ostvorpommern;1
+auerbach;91275;kamminke;ostvorpommern;1
+auerbach/vogtland;8209;mitte;mitte;1
+augsburg;86150;jordanshöhe;goslar;1
+augsburg;86153;burg;spree-neiße;1
+augsburg;86159;großdunsum;nordfriesland;1
+augsburg;86159;tannenberg;upper bavaria;1
+augsburg;86165;hoisdorf;stormarn;1
+augsburg;86167;glowe;rügen;1
+augsburg;86169;altstadt;erfurt;1
+augustdorf;32832;finsterbergen;gotha;1
+aulendorf;88326;heringsdorf;ostvorpommern;1
+bad schlema;8301;spremberg;spree-neiße;1
+bad belzig;14806;großenbrode;ostholstein;1
+bad bentheim;48455;lippertsreute;tübingen;1
+bad bentheim;48455;thale;harz;1
+bad berka;99438;ahrenshoop;nordvorpommern;1
+bad berleburg;57319;börgerende;rostock;1
+bad bevensen;29549;priwall peninsula;lübeck;1
+bad bramstedt;24576;goting;nordfriesland;1
+bad breisig;53498;seebad heringsdorf;ostvorpommern;1
+bad camberg;65520;friedrichskoog-spitze;dithmarschen;1
+bad essen;49152;sandbrink;diepholz;1
+bad freienwalde;16259;strasen;mecklenburgische seenplatte;1
+bad freienwalde;16259;wenningstedt-braderup;nordfriesland;1
+bad harzburg;38667;quetzin;ludwigslust-parchim;1
+bad hersfeld;36251;priwall peninsula;lübeck;1
+bad honnef;53604;borgsum;nordfriesland;1
+bad kissingen;97688;wiek;rügen;1
+bad klosterlausnitz;7639;kachlin;ostvorpommern;1
+bad kreuznach;55543;donaueschingen;freiburg;1
+bad kreuznach;55543;lehengericht;freiburg;1
+bad lauchstädt;6246;bad schmiedeberg;wittenberg;1
+bad lausick;4651;görlitz;dresden government region;1
+bad liebenstein;36448;seebad heringsdorf;ostvorpommern;1
+bad liebenstein;36448;sellin;rügen;1
+bad liebenstein;36448;titmaringhausen;arnsberg;1
+bad liebenwerda;4924;kappeln;schleswig-flensburg;1
+bad liebenzell;75378;neßmersiel;aurich;1
+bad liebenzell;75378;plön;plön;1
+bad lippspringe;33175;friedrichskoog;dithmarschen;1
+bad lippspringe;33175;priwall peninsula;lübeck;1
+bad muskau;2953;lenz-süd;mecklenburgische seenplatte;1
+bad münder;31848;grömitz;ostholstein;1
+bad münder;31848;kappeln;schleswig-flensburg;1
+bad münder;31848;priwall peninsula;lübeck;1
+bad münstereifel;53902;glowe;rügen;1
+bad nauheim;61200;sankt peter-ording;nordfriesland;1
+bad nauheim;61231;parow;nordvorpommern;1
+bad oeynhausen;32547;kappeln;schleswig-flensburg;1
+bad oeynhausen;32549;wyk auf föhr;nordfriesland;1
+bad oldesloe;23843;gosdorf;ostholstein;1
+bad oldesloe;23843;priwall peninsula;lübeck;1
+bad oldesloe;23843;sobrigau;dresden government region;1
+bad orb;63619;rudow;neukölln;1
+bad reichenhall;83435;frauendorf;upper franconia;1
+bad rothenfelde;49084;timmendorfer strand;ostholstein;1
+bad rothenfelde;49214;priwall peninsula;lübeck;1
+bad salzdetfurth;31162;wilsche;gifhorn;1
+bad salzuflen;32105;olpenitzdorf;schleswig-flensburg;1
+bad salzuflen;32107;achtrup;nordfriesland;1
+bad salzuflen;32107;boltenhagen;nordwestmecklenburg;1
+bad salzuflen;32107;kühlungsborn-west;rostock;1
+bad salzuflen;32107;schwarzbach;upper bavaria;1
+bad salzuflen;32108;priwall peninsula;lübeck;1
+bad segeberg;23795;sellin;rügen;1
+bad staffelstein;96231;wiek;rügen;1
+bad tölz;82646;zandt;upper palatinate;1
+bad urach;72574;altefähr;rügen;1
+bad vilbel;61118;hörnum;nordfriesland;1
+bad waldsee;88339;list;nordfriesland;1
+bad wildbad;75323;rutenberg;uckermark;1
+bad zwesten;34596;sandbrink;diepholz;1
+baddeckenstedt;38271;sellin;rügen;1
+baiersbronn;72270;baiersbronn;karlsruhe;1
+ballenstedt;6493;prora;rügen;1
+bamberg;96052;mühlwinkl;upper bavaria;1
+banzkow;19079;boltenhagen;nordwestmecklenburg;1
+barleben;39179;gleichamberg;hildburghausen;1
+barmstedt;25355;niendorf/ostsee;ostholstein;1
+barnstorf;49406;karschau;schleswig-flensburg;1
+bartholomä;73566;zingst;nordvorpommern;1
+barßel;26676;schonnebeck;düsseldorf;1
+bautzen;2625;lemkenhafen;ostholstein;1
+bayreuth;95444;luitpolderhöfe;upper bavaria;1
+bayreuth;95448;schönhagen;rendsburg-eckernförde;1
+bechhofen;91572;nienhagen;rostock;1
+beckingen;66701;haustadt;merzig-wadern;1
+beckum;59269;rerik;rostock;1
+bedburg;50181;morscheid-riedenburg;bernkastel-wittlich;1
+bedburg-hau;47551;isny im allgäu;tübingen;1
+beeskow;15848;leisten;ludwigslust-parchim;1
+beilrode;4886;altwarp siedlung;uecker-randow;1
+beilstein;71717;preming;lower bavaria;1
+belm;49191;neuendorf;rügen;1
+bendestorf;21227;karlshagen;ostvorpommern;1
+bendorf;56170;mußbach;neustadt;1
+bendorf;56170;neustadt;neustadt;1
+bendorf;56170;prora;rügen;1
+bennewitz;4828;poel;nordwestmecklenburg;1
+bensheim;64625;wenningstedt-braderup;nordfriesland;1
+bentwisch;18182;born a. darß;nordvorpommern;1
+bentwisch;19322;eckernförde;rendsburg-eckernförde;1
+berg/pfalz;76768;waren;müritz;1
+bergen;29303;blankenburg;harz;1
+bergheim;50127;büsum;dithmarschen;1
+bergheim;50129;merzalben;südwestpfalz;1
+bergheim;50129;sobernheim;bad kreuznach;1
+bergisch gladbach;51427;hooksiel;friesland;1
+bergisch gladbach;51427;kamschlacken;landkreis osterode am harz;1
+bergisch gladbach;51427;wyk auf föhr;nordfriesland;1
+bergisch gladbach;51467;niedersfeld;arnsberg;1
+bergkamen;59192;surendorf;rendsburg-eckernförde;1
+berlin;10115;althagen;nordvorpommern;1
+berlin;10115;baabe;rügen;1
+berlin;10115;kappel;freiburg;1
+berlin;10115;karlshagen;ostvorpommern;1
+berlin;10117;bad salzuflen;detmold;1
+berlin;10117;gosdorf;ostholstein;1
+berlin;10117;lenzinghausen;detmold;1
+berlin;10178;karlshagen;ostvorpommern;1
+berlin;10179;entfelden;upper bavaria;1
+berlin;10243;kölpinsee;ostvorpommern;1
+berlin;10243;sankt peter-ording;nordfriesland;1
+berlin;10243;vieregge;rügen;1
+berlin;10245;rutenberg;uckermark;1
+berlin;10247;gartenstadt;märkisch-oderland;1
+berlin;10247;kappeln;schleswig-flensburg;1
+berlin;10247;schlepkow;uckermark;1
+berlin;10247;schönhagen;rendsburg-eckernförde;1
+berlin;10249;zerpenschleuse;barnim;1
+berlin;10315;gerolstein;vulkaneifel;1
+berlin;10315;hafendorf;mecklenburgische seenplatte;1
+berlin;10318;schnarrtanne;chemnitz;1
+berlin;10319;friedrichskoog-spitze;dithmarschen;1
+berlin;10319;hafendorf;mecklenburgische seenplatte;1
+berlin;10365;rankwitz;ostvorpommern;1
+berlin;10367;glowe;rügen;1
+berlin;10367;hohendorf;nordvorpommern;1
+berlin;10367;priwall peninsula;lübeck;1
+berlin;10405;groß nemerow;mecklenburgische seenplatte;1
+berlin;10405;ostseebad;rügen;1
+berlin;10407;zingst;nordvorpommern;1
+berlin;10409;ehlenbogen;karlsruhe;1
+berlin;10437;priwall peninsula;lübeck;1
+berlin;10439;oranienburg;oberhavel;1
+berlin;10555;frohnhausen;düsseldorf;1
+berlin;10557;zingst;nordvorpommern;1
+berlin;10559;bad saarow;oder-spree;1
+berlin;10559;born a. darß;nordvorpommern;1
+berlin;10559;priwall peninsula;lübeck;1
+berlin;10585;bad saarow;oder-spree;1
+berlin;10709;süder-waygaard;nordfriesland;1
+berlin;10709;wenningstedt-braderup;nordfriesland;1
+berlin;10717;wustrow;nordvorpommern;1
+berlin;10777;burhave;wesermarsch;1
+berlin;10777;schlicht;mecklenburgische seenplatte;1
+berlin;10785;köln-altstadt-nord;cologne;1
+berlin;10785;neukalen;demmin;1
+berlin;10825;braunlage;goslar;1
+berlin;10829;dörgenhausen;dresden government region;1
+berlin;10965;rerik;rostock;1
+berlin;10965;warnemünde;rostock;1
+berlin;10967;zechlinerhütte;ostprignitz-ruppin;1
+berlin;10997;priwall peninsula;lübeck;1
+berlin;10999;dieksanderkoog;dithmarschen;1
+berlin;10999;thiessow;rügen;1
+berlin;11111;alt travemünde - rönnau;lübeck;1
+berlin;11111;bahnhofsviertel;darmstadt;1
+berlin;12043;bayerisch gmain;upper bavaria;1
+berlin;12045;babelsberg nord;potsdam-mittelmark;1
+berlin;12047;dahmsdorf;oder-spree;1
+berlin;12047;rutenberg;uckermark;1
+berlin;12055;schlettau;chemnitz;1
+berlin;12055;wandlitz;barnim;1
+berlin;12103;alt travemünde - rönnau;lübeck;1
+berlin;12103;thomsdorf;uckermark;1
+berlin;12105;kühlungsborn ost;rostock;1
+berlin;12105;spahl;wartburgkreis;1
+berlin;12107;dagebüll;nordfriesland;1
+berlin;12107;röbel;mecklenburgische seenplatte;1
+berlin;12109;kühlungsborn ost;rostock;1
+berlin;12159;westerland;nordfriesland;1
+berlin;12163;ahrenshoop;nordvorpommern;1
+berlin;12163;büsum;dithmarschen;1
+berlin;12163;fehmarn;ostholstein;1
+berlin;12163;priwall peninsula;lübeck;1
+berlin;12165;bansin;ostvorpommern;1
+berlin;12167;gronenberg;ostholstein;1
+berlin;12167;innenstadt;lübeck;1
+berlin;12167;ketelsby;schleswig-flensburg;1
+berlin;12205;ostseebad;rügen;1
+berlin;12205;weimar;weimarer land;1
+berlin;12209;britten;merzig-wadern;1
+berlin;12209;krakow am see;rostock;1
+berlin;12277;zirchow;ostvorpommern;1
+berlin;12279;ueckermünde;uecker-randow;1
+berlin;12279;zinnowitz;ostvorpommern;1
+berlin;12309;binz;rügen;1
+berlin;12347;malchow;müritz;1
+berlin;12347;sandbrink;diepholz;1
+berlin;12351;tossens;wesermarsch;1
+berlin;12357;schönberger strand;plön;1
+berlin;12359;kölpinsee;ostvorpommern;1
+berlin;12435;ilversgehofen;erfurt;1
+berlin;12439;rittersgrün;chemnitz;1
+berlin;12459;jordanshöhe;goslar;1
+berlin;12459;loddin;ostvorpommern;1
+berlin;12459;torgau;leipzig;1
+berlin;12487;graal;rostock;1
+berlin;12524;bad saarow;oder-spree;1
+berlin;12526;jamitzow;ostvorpommern;1
+berlin;12555;sobrigau;dresden government region;1
+berlin;12555;thale;harz;1
+berlin;12557;boltenhagen;nordwestmecklenburg;1
+berlin;12557;karlshagen;ostvorpommern;1
+berlin;12557;wildemann;goslar;1
+berlin;12559;bodenmais;lower bavaria;1
+berlin;12559;tetenbüll;nordfriesland;1
+berlin;12559;wustrow;nordvorpommern;1
+berlin;12587;wangern;nordwestmecklenburg;1
+berlin;12589;großenbrode;ostholstein;1
+berlin;12589;sankt peter-ording;nordfriesland;1
+berlin;12589;seebad heringsdorf;ostvorpommern;1
+berlin;12621;zingst;nordvorpommern;1
+berlin;12623;boltenhagen;nordwestmecklenburg;1
+berlin;12623;bärenfels;dresden government region;1
+berlin;12623;zempin;ostvorpommern;1
+berlin;12627;bergen auf rügen;rügen;1
+berlin;12627;hafendorf;mecklenburgische seenplatte;1
+berlin;12627;kappeln;schleswig-flensburg;1
+berlin;12629;struckum;nordfriesland;1
+berlin;12679;farchant;upper bavaria;1
+berlin;12679;rhoda;erfurt;1
+berlin;12683;zingst;nordvorpommern;1
+berlin;12685;ostseebad;rügen;1
+berlin;12685;pepelow;rostock;1
+berlin;12685;warnemünde;rostock;1
+berlin;12687;steinheid;sonneberg;1
+berlin;13051;sellin;rügen;1
+berlin;13053;bad sachsa;landkreis osterode am harz;1
+berlin;13053;bansin;ostvorpommern;1
+berlin;13053;feichten;upper bavaria;1
+berlin;13053;sellin;rügen;1
+berlin;13055;bad saarow;oder-spree;1
+berlin;13055;gollendorf;ostholstein;1
+berlin;13055;mönkebüll;nordfriesland;1
+berlin;13059;waren;müritz;1
+berlin;13059;zierow;nordwestmecklenburg;1
+berlin;13088;frohnau;chemnitz;1
+berlin;13088;hohegeiß;goslar;1
+berlin;13088;karlshagen;ostvorpommern;1
+berlin;13088;treptow-köpenick;treptow-köpenick;1
+berlin;13089;baabe;rügen;1
+berlin;13125;ahlbeck;ostvorpommern;1
+berlin;13125;ostseebad;rügen;1
+berlin;13125;renholding;lower bavaria;1
+berlin;13125;wieck a. darß;nordvorpommern;1
+berlin;13156;glowe;rügen;1
+berlin;13158;kappeln;schleswig-flensburg;1
+berlin;13158;vordergeiersberg;upper franconia;1
+berlin;13187;bad schmiedeberg;wittenberg;1
+berlin;13187;dierkow-west;rostock;1
+berlin;13187;jordanshöhe;goslar;1
+berlin;13187;kappeln;schleswig-flensburg;1
+berlin;13187;mitte;mitte;1
+berlin;13189;heiligenhafen;ostholstein;1
+berlin;13347;priwall peninsula;lübeck;1
+berlin;13349;binz;rügen;1
+berlin;13353;malchow;müritz;1
+berlin;13355;sellin;rügen;1
+berlin;13403;priwall peninsula;lübeck;1
+berlin;13403;sassnitz;rügen;1
+berlin;13409;treptow-köpenick;treptow-köpenick;1
+berlin;13435;altenhof;barnim;1
+berlin;13435;zingst;nordvorpommern;1
+berlin;13439;sassnitz;rügen;1
+berlin;13503;hafendorf;mecklenburgische seenplatte;1
+berlin;13507;scharbeutz;ostholstein;1
+berlin;13507;zingst;nordvorpommern;1
+berlin;13509;priwall peninsula;lübeck;1
+berlin;13509;staberdorf;ostholstein;1
+berlin;13509;tinnum;nordfriesland;1
+berlin;13581;lohme;rügen;1
+berlin;13587;sankt andreasberg;goslar;1
+berlin;13589;dahmsdorf;oder-spree;1
+berlin;13593;grambin;uecker-randow;1
+berlin;13593;jordanshöhe;goslar;1
+berlin;13595;wüstensachsen;kassel;1
+berlin;13597;hafendorf;mecklenburgische seenplatte;1
+berlin;13599;retzow;uckermark;1
+berlin;13599;schmölz;upper bavaria;1
+berlin;13599;soderstorf;lüneburg;1
+berlin;14057;prerow;nordvorpommern;1
+berlin;14059;otterndorf;cuxhaven;1
+berlin;14089;krummsee;mecklenburgische seenplatte;1
+berlin;14129;ostseebad;rügen;1
+berlin;14165;göhren-lebbin;mecklenburgische seenplatte;1
+berlin;14165;sankt andreasberg;goslar;1
+berlin;14167;zirchow;ostvorpommern;1
+berlin;14193;ahlbeck;ostvorpommern;1
+berlin;14193;zinnowitz;ostvorpommern;1
+berlin;14195;rerik;rostock;1
+berlin spandau;13595;wyk auf föhr;nordfriesland;1
+bernau;16321;freest;ostvorpommern;1
+bernau;16321;glücksburg;schleswig-flensburg;1
+bernau;16321;hohenfelde;rostock;1
+bernburg;6406;müritz;rostock;1
+bernburg;6406;wieck a. darß;nordvorpommern;1
+bernburg;6406;zingst;nordvorpommern;1
+bernstadt;2748;roßbach;neuwied;1
+bersenbrück;49593;haldern;düsseldorf;1
+bestensee;15741;dagebüll;nordfriesland;1
+betzdorf;57518;waddens;wesermarsch;1
+bevern;37639;waren;müritz;1
+biberach;88400;deggenhausertal;tübingen;1
+bickenbach;64404;schilksee;plön;1
+bickenbach;64404;silberberg;lower bavaria;1
+biedenkopf;35216;fedderwardersiel;wesermarsch;1
+bielefeld;33602;burhave;wesermarsch;1
+bielefeld;33605;büsum;dithmarschen;1
+bielefeld;33611;rankwitz;ostvorpommern;1
+bielefeld;33617;jordanshöhe;goslar;1
+bielefeld;33619;zingst;nordvorpommern;1
+bielefeld;33647;gstadt am chiemsee;upper bavaria;1
+bielefeld;33659;niederaula;kassel;1
+bielefeld;33689;saalfeld;saalfeld-rudolstadt;1
+bielefeld;33699;laboe;plön;1
+bielefeld;33719;großenbrode;ostholstein;1
+bielefeld;33719;grömitz;ostholstein;1
+bielefeld;33729;grömitz;ostholstein;1
+bielefeld;33739;büsum;dithmarschen;1
+bielefeld;33739;ditzumerverlaat;leer;1
+bielefeld;33739;olpenitzdorf;schleswig-flensburg;1
+bielefeld;33739;tossens;wesermarsch;1
+bielefeld jöllenbeck;33739;schluchsee;freiburg;1
+bingen am rhein;55411;frohnhausen;düsseldorf;1
+birkenfeld;75217;prechtal;freiburg;1
+birkenwerder;16547;kühlungsborn-west;rostock;1
+birkenwerder;16547;rerik;rostock;1
+birlenbach;65626;telgte;münster;1
+bismark/ot schinne;39628;jamitzow;ostvorpommern;1
+bitburg-mötsch;54634;lenzkirch;freiburg;1
+bitterfeld-wolfen;6766;zirchow;ostvorpommern;1
+blankenfelde-mahlow;15827;alt travemünde - rönnau;lübeck;1
+blankenfelde-mahlow;15827;diesdorf;magdeburg;1
+blankenfelde-mahlow;15831;zingst;nordvorpommern;1
+bleckede;21354;stickhausen;leer;1
+bleicherode;99752;rerik;rostock;1
+bliedersdorf;21640;mockritz;dresden government region;1
+blieskastel;66440;steinbergkirche;schleswig-flensburg;1
+blumenthsl;24241;sankt peter-ording;nordfriesland;1
+bocholt;46397;nordhorn;bentheim;1
+bocholt;46399;glowe;rügen;1
+bocholt;46399;höhenberg;cologne;1
+bocholt;46399;stammheim;cologne;1
+bochum;44789;krakow am see;rostock;1
+bochum;44795;au;swabia;1
+bochum;44795;grömitz;ostholstein;1
+bochum;44797;burhave;wesermarsch;1
+bochum;44801;alt travemünde - rönnau;lübeck;1
+bochum;44803;dorumer neufeld;cuxhaven;1
+bochum;44805;langewiese;arnsberg;1
+bochum;44807;kühlungsborn;rostock;1
+bochum;44809;beningafehn;leer;1
+bochum;44809;mittelnkirchen;stade;1
+bochum;44809;wremen;cuxhaven;1
+bochum;44867;dissen;kassel;1
+bochum;44867;priwall peninsula;lübeck;1
+bochum;44867;sandbrink;diepholz;1
+bochum;44867;sankt peter-ording;nordfriesland;1
+bochum;44869;neuastenberg;arnsberg;1
+bochum;44869;wissinghausen;arnsberg;1
+bochum;44879;burhafe;wittmund;1
+bochum;44892;minsen;friesland;1
+bochum;44894;wilhelmshaven;wilhelmshaven;1
+bockenem;31167;zirchow;ostvorpommern;1
+bockhorn;26345;norderteil;cuxhaven;1
+bodenwöhr;92439;hofstetten;freiburg;1
+bohmte;49163;süderwisch;cuxhaven;1
+boizenburg;19258;cumbach;saalfeld-rudolstadt;1
+boizenburg;19258;heringsdorf;ostholstein;1
+boizenburg;19258;hohe;holzminden;1
+boizenburg/ elbe;19258;boltenhagen;nordwestmecklenburg;1
+bonn;53111;schönau am königssee;upper bavaria;1
+bonn;53117;burg auf fehmarn;ostholstein;1
+bonn;53117;timmendorfer strand;ostholstein;1
+bonn;53121;langfurth;lower bavaria;1
+bonn;53175;wieck a. darß;nordvorpommern;1
+bonn;53179;hooksiel;friesland;1
+bonn;53179;lierfeld;bitburg-prüm;1
+bonn;53227;feriendorf freilingen;cologne;1
+bonn;53227;goting;nordfriesland;1
+boostedt;24598;kappeln;schleswig-flensburg;1
+boostedt;24598;wackerballig;schleswig-flensburg;1
+boostedt;24598;zinnowitz;ostvorpommern;1
+borgholzhausen;33829;wesseloh;heidekreis;1
+borgwedel;24857;kappeln;schleswig-flensburg;1
+borken;46325;wenningstedt-braderup;nordfriesland;1
+borkheide;14822;vieregge;rügen;1
+borkum;26757;ahrenshoop;nordvorpommern;1
+borna;4552;bad gögging;lower bavaria;1
+borna;4552;rechenberg-bienenmühle;chemnitz;1
+bornheim;53332;medebach;arnsberg;1
+bornhöved;24619;tönning;nordfriesland;1
+bottrop;46238;hafendorf;mecklenburgische seenplatte;1
+bottrop;46242;nesse;aurich;1
+bottrop;46242;neuastenberg;arnsberg;1
+bovenden;37120;pelzerhaken;ostholstein;1
+brackel;21438;sandwehle;nordfriesland;1
+brackenheim;74336;cranzahl;chemnitz;1
+brakel;33034;großenbrode;ostholstein;1
+brandenburg;14770;ostseebad;rügen;1
+brandenburg;14772;ahlbeck;ostvorpommern;1
+brandenburg;14776;carolinensiel;wittmund;1
+brandenburg;14776;saal;nordvorpommern;1
+brandenburg an der havel;14770;prora;rügen;1
+brandenburg an der havel;14770;stralsund;nordvorpommern;1
+brandis;4821;vitzdorf;ostholstein;1
+brandis;4821;zingst;nordvorpommern;1
+braunfels;35619;friedrichskoog-spitze;dithmarschen;1
+braunschweig;38100;wiek;rügen;1
+braunschweig;38102;osterode;nordhausen;1
+braunschweig;38104;waren;müritz;1
+braunschweig;38106;beckerwitz;nordwestmecklenburg;1
+braunschweig;38108;cuxhaven;cuxhaven;1
+braunschweig;38108;kopendorf;ostholstein;1
+braunschweig;38108;pelzerhaken;ostholstein;1
+braunschweig;38108;tossens;wesermarsch;1
+braunschweig;38108;warsingsfehn;leer;1
+braunschweig;38110;kappeln;schleswig-flensburg;1
+braunschweig;38112;jordanshöhe;goslar;1
+braunschweig;38118;priwall peninsula;lübeck;1
+braunschweig;38122;boltenhagen;nordwestmecklenburg;1
+braunschweig;38122;siedlung neu borstel;heidekreis;1
+braunschweig;38122;zingst;nordvorpommern;1
+braunschweig;38124;großenbrode;ostholstein;1
+braunschweig;38124;hafendorf;mecklenburgische seenplatte;1
+breckerfeld;58339;zingst;nordvorpommern;1
+bredstedt;25821;wenningstedt-braderup;nordfriesland;1
+breese;19322;vieregge;rügen;1
+breitenfelde;23881;sassnitz;rügen;1
+bremen;28197;balm;ostvorpommern;1
+bremen;28199;fehrenbach;hildburghausen;1
+bremen;28203;glowe;rügen;1
+bremen;28207;burhafe;wittmund;1
+bremen;28209;sandbrink;diepholz;1
+bremen;28213;binz;rügen;1
+bremen;28215;jamitzow;ostvorpommern;1
+bremen;28217;dümmer;ludwigslust-parchim;1
+bremen;28217;zingst;nordvorpommern;1
+bremen;28237;ockholm;nordfriesland;1
+bremen;28239;harleshausen;kassel;1
+bremen;28239;kappel;freiburg;1
+bremen;28239;ribnitz;rostock;1
+bremen;28259;fehmarn;ostholstein;1
+bremen;28259;sterdebüll;nordfriesland;1
+bremen;28277;kappeln;schleswig-flensburg;1
+bremen;28309;schwerin;ludwigslust-parchim;1
+bremen;28329;schönhagen;rendsburg-eckernförde;1
+bremen;28357;priwall peninsula;lübeck;1
+bremen;28717;münster-altstadt;münster;1
+bremen;28755;bippen;osnabrück;1
+bremen;28757;wilhelmshausen;kassel;1
+bremen;28779;humboldt - gremberg;cologne;1
+bremerhaven;27570;redewisch;nordwestmecklenburg;1
+bremerhaven;27572;hildfeld;arnsberg;1
+bremerhaven;27580;heligoland;pinneberg;1
+bremervörde;27432;bad harzburg;goslar;1
+bremervörde;27432;braunlage;goslar;1
+bremervörde;27432;hörnum;nordfriesland;1
+bremervörde;27432;niendorf/ostsee;ostholstein;1
+bretten;75015;dagebüll;nordfriesland;1
+bretzenheim;55559;hinang;swabia;1
+brieselang;14656;ahlbeck;ostvorpommern;1
+brilon;59929;brilon;arnsberg;1
+brilon;59929;dierkow-west;rostock;1
+britz;16230;hornstorf;nordwestmecklenburg;1
+brotdorf;66663;kaimt;cochem-zell;1
+bruchköbel;63486;mannebach;rhein-hunsrück-kreis;1
+bruchköbel;63486;ostseebad;rügen;1
+bruchsal;76646;norddeich;aurich;1
+bruchsal;76646;obergrainau;upper bavaria;1
+brunsbek;22946;husum;nordfriesland;1
+brunsbek;22946;sankt peter-ording;nordfriesland;1
+brüel;19412;hohendorf;nordvorpommern;1
+brühl;5021;greetsiel;aurich;1
+buchholz;21244;ashausen;harburg;1
+buchholz;21244;eisenach;wartburgkreis;1
+buchholz i.d. nordheide;21244;glowe;rügen;1
+buchholz in der nordheide;21244;arle;aurich;1
+budenheim;55257;kappeln;schleswig-flensburg;1
+burg;25712;oberselk;schleswig-flensburg;1
+burg;39288;ilmenau;ilm-kreis;1
+burg stargard;17094;dewichow;ostvorpommern;1
+burgdorf;31303;kappeln;schleswig-flensburg;1
+burgstädt;9217;kreuzfeld;upper bavaria;1
+burgwald;35099;hofstetten;freiburg;1
+burgwedel;30938;alt travemünde - rönnau;lübeck;1
+butjadingen;26969;großwürden;wesermarsch;1
+buxtehude;21614;boltenhagen;nordwestmecklenburg;1
+buxtehude;21614;pelzerhaken;ostholstein;1
+buxtehude;21614;wyk auf föhr;nordfriesland;1
+böblingen;71032;obermaiselstein;swabia;1
+bönen;5919;lensterstrand;ostholstein;1
+bönen;59199;kappeln;schleswig-flensburg;1
+börßum;38312;schönhagen;rendsburg-eckernförde;1
+büchlberg;94124;bodenwöhr;upper palatinate;1
+bückeburg;31675;priwall peninsula;lübeck;1
+bünde;32257;hemer;arnsberg;1
+bünde;32257;sankt peter-ording;nordfriesland;1
+bünde;32257;sasbach am kaiserstuhl;freiburg;1
+bürgstadt;63927;deudesfeld;vulkaneifel;1
+bützow;18246;gifhorn;gifhorn;1
+calberlah;38547;sankt peter-ording;nordfriesland;1
+callenberg;9337;willingen;kassel;1
+calw;75365;heringsdorf;ostvorpommern;1
+castrop rauxel;44579;heringsdorf;ostholstein;1
+castrop-rauxel;44575;ferienpark kronenburger see;cologne;1
+castrop-rauxel;44581;priwall peninsula;lübeck;1
+celle;29223;großenbrode;ostholstein;1
+celle;29225;dahme;ostholstein;1
+celle;29227;thale;harz;1
+celle;29229;großenbrode;ostholstein;1
+celle;29229;sandbrink;diepholz;1
+chemnitz;9112;glashütt;lower bavaria;1
+chemnitz;9113;balm;ostvorpommern;1
+chemnitz;9114;grube;ostholstein;1
+chemnitz;9114;koserow;ostvorpommern;1
+chemnitz;9114;prerow;nordvorpommern;1
+chemnitz;9117;emsetal;gotha;1
+chemnitz;9117;hafendorf;mecklenburgische seenplatte;1
+chemnitz;9117;lenggries;upper bavaria;1
+chemnitz;9125;lockwitz;dresden government region;1
+chemnitz;9125;zschieren;dresden government region;1
+chemnitz;9126;zempin;ostvorpommern;1
+chemnitz;9131;boltenhagen;nordwestmecklenburg;1
+cloppenburg;49661;hooksiel;friesland;1
+cloppenburg;49661;oldenburg;oldenburg;1
+coesfeld;48653;jedutenberg;bremerhaven;1
+coesfeld;48653;lehe;ammerland;1
+coswig;1640;titisee;freiburg;1
+coswig (anhalt);6868;warnemünde;rostock;1
+cottbus;3042;schilksee;plön;1
+cottbus;3051;kurort oybin;dresden government region;1
+crailsheim;11;bad bergzabern;südliche weinstraße;1
+crailsheim;74564;altglashütten;freiburg;1
+cremlingen;38162;sellin;ostvorpommern;1
+crivitz;19089;ostseebad;rügen;1
+crottendorf;9474;warnemünde;rostock;1
+cuxhaven;27476;hohendorf;nordvorpommern;1
+dagebüll;25899;goting;nordfriesland;1
+dahlenburg;21368;waase;rügen;1
+dallgow-döberitz;14624;wustrow;nordvorpommern;1
+dankmarshausen;99837;ofterschwang;swabia;1
+dannewerk;24867;schönwald im schwarzwald;freiburg;1
+darmstadt;64283;fischen;swabia;1
+darmstadt;64295;niederaula;kassel;1
+darmstadt;64297;bensheim;darmstadt;1
+darmstadt;64297;helpt;mecklenburg-strelitz;1
+dasing;86453;baabe;rügen;1
+datteln;45711;friedrichskoog;dithmarschen;1
+datteln;45711;güntersberge;harz;1
+datteln;45711;liesen;arnsberg;1
+dautphetal;35232;großenbrode;ostholstein;1
+deggendorf;94469;baabe;rügen;1
+deinstedt;27446;hafendorf;mecklenburgische seenplatte;1
+deinstedt;27446;rerik;rostock;1
+deisel;34388;zirchow;ostvorpommern;1
+delbrück-ostenland;33129;grömitz;ostholstein;1
+delitzsch;4509;dändorf;nordvorpommern;1
+delmenhorst;27751;gronau;cologne;1
+delmenhorst;27751;zingst;nordvorpommern;1
+delmenhorst;27753;neuringe;emsland;1
+demitz-thumitz;1877;bansin;ostvorpommern;1
+dessau - roßlau;6844;zingst;nordvorpommern;1
+dessau-roßlau;6846;kurort oberwiesenthal;chemnitz;1
+dessau-roßlau;6849;seebad heringsdorf;ostvorpommern;1
+dessau-roßlau;6862;karlshagen;ostvorpommern;1
+detmold;32756;rott;detmold;1
+detmold;32756;westerhever;nordfriesland;1
+detmold;32758;graal;rostock;1
+detmold;32760;niedersalwey;arnsberg;1
+detmold;32760;niendorf/ostsee;ostholstein;1
+dettenhausen;72135;priwall peninsula;lübeck;1
+diedorf;86420;blossersberg;lower bavaria;1
+diepholz;49356;borkum;leer;1
+diepholz;49356;kappeln;schleswig-flensburg;1
+diessen am ammersee;86911;bühl a.alpsee;swabia;1
+diessen am ammersee;86911;viechtach;lower bavaria;1
+dietzenbach;63128;pelzerhaken;ostholstein;1
+dillingen;66763;haustadt;merzig-wadern;1
+dingolfing;84130;frohnhausen;düsseldorf;1
+dinslaken;46537;borkum;leer;1
+dinslaken;46537;gammendorf;ostholstein;1
+dinslaken;46537;ostseebad;rügen;1
+dinslaken;46539;haffkrug;ostholstein;1
+dissen;49201;ahlbeck;ostvorpommern;1
+dissen;49201;dagebüll;nordfriesland;1
+dissen;49201;montroyal;bernkastel-wittlich;1
+doberschau;2692;stubbenfelde;ostvorpommern;1
+doberschütz;4838;altenholz-klausdorf;rendsburg-eckernförde;1
+doberschütz;4838;haffkrug;ostholstein;1
+dohna;1809;grünheide;chemnitz;1
+dommitzsch;4880;thale;harz;1
+donaustauf;93093;kühlungsborn;rostock;1
+dormagen;41542;friedrichskoog-spitze;dithmarschen;1
+dornum;26553;neßmersiel;aurich;1
+dornum;26553;wangerooge;friesland;1
+dornum;26553;weitendorf-hof;nordwestmecklenburg;1
+dorsten;46282;cranzahl;chemnitz;1
+dorsten;46282;hooksiel;friesland;1
+dorsten;46284;rudow;neukölln;1
+dorsten;46286;staberdorf;ostholstein;1
+dortmund;44122;hemer;arnsberg;1
+dortmund;44139;rinnthal;südliche weinstraße;1
+dortmund;44139;surendorf;rendsburg-eckernförde;1
+dortmund;44141;medebach;arnsberg;1
+dortmund;44141;tjücher äcker;aurich;1
+dortmund;44143;carolinensiel;wittmund;1
+dortmund;44143;hooksiel;friesland;1
+dortmund;44143;koogsreihe;nordfriesland;1
+dortmund;44143;norddeich;aurich;1
+dortmund;44143;speyer;speyer;1
+dortmund;44143;süderhafen;nordfriesland;1
+dortmund;44147;glowe;rügen;1
+dortmund;44147;oland;nordfriesland;1
+dortmund;44149;norden;aurich;1
+dortmund;44225;schillig;friesland;1
+dortmund;44229;niendorf/ostsee;ostholstein;1
+dortmund;44263;vadersdorf;ostholstein;1
+dortmund;44265;esens;wittmund;1
+dortmund;44267;boltenhagen;nordwestmecklenburg;1
+dortmund;44269;eibenstock;chemnitz;1
+dortmund;44287;dagebüll;nordfriesland;1
+dortmund;44309;friedrichskoog-spitze;dithmarschen;1
+dortmund;44309;habischried;lower bavaria;1
+dortmund;44319;elkeringhausen;arnsberg;1
+dortmund;44328;kleinern;kassel;1
+dortmund;44328;niedersfeld;arnsberg;1
+dortmund;44328;schillig;friesland;1
+dortmund;44339;humboldt - gremberg;cologne;1
+dortmund;44369;usedom;ostvorpommern;1
+dortmund;44379;norddeich;aurich;1
+dortmund;44379;sandbrink;diepholz;1
+dossenheim;69221;schausende;schleswig-flensburg;1
+dossenheim;69221;süderbrarup;schleswig-flensburg;1
+dreetz;16845;warnemünde;rostock;1
+dreieich;63303;weyer;giessen;1
+drensteinfurt;48317;greetsiel;aurich;1
+drensteinfurt;48317;wissinghausen;arnsberg;1
+dresden;1097;nordwerdum;wittmund;1
+dresden;1097;rankwitz;ostvorpommern;1
+dresden;1099;baabe;rügen;1
+dresden;1099;binz;rügen;1
+dresden;1099;hohendorf;nordvorpommern;1
+dresden;1108;parow;nordvorpommern;1
+dresden;1109;silberberg;lower bavaria;1
+dresden;1109;ummanz;rügen;1
+dresden;1129;rankwitz;ostvorpommern;1
+dresden;1129;untergöhren;mecklenburgische seenplatte;1
+dresden;1129;zingst;nordvorpommern;1
+dresden;1139;lietzow;rügen;1
+dresden;1139;olpenitzdorf;schleswig-flensburg;1
+dresden;1139;remplin;demmin;1
+dresden;1157;glowe;rügen;1
+dresden;1189;priwall peninsula;lübeck;1
+dresden;1189;pöhla;chemnitz;1
+dresden;1189;zingst;nordvorpommern;1
+dresden;1219;hasselfelde;harz;1
+dresden;1257;staberdorf;ostholstein;1
+dresden;1259;priwall peninsula;lübeck;1
+dresden;1259;zingst;nordvorpommern;1
+dresden;1277;bad saarow;oder-spree;1
+dresden;1277;rittersgrün;chemnitz;1
+dresden;1307;fuhlendorf;nordvorpommern;1
+dresden;1309;glowe;rügen;1
+duderstadt;37115;binz;rügen;1
+duingen;31089;gifhorn;gifhorn;1
+duisburg;47057;kurort oberwiesenthal;chemnitz;1
+duisburg;47057;priwall peninsula;lübeck;1
+duisburg;47137;norddeich;aurich;1
+duisburg;47139;sandbrink;diepholz;1
+duisburg;47166;heessen;schaumburg;1
+duisburg;47167;ahrenshoop;nordvorpommern;1
+duisburg;47167;osteel;aurich;1
+duisburg;47226;eisenach;wartburgkreis;1
+duisburg;47226;schönhagen;rendsburg-eckernförde;1
+duisburg;47228;merl;cochem-zell;1
+duisburg;47239;deudesfeld;vulkaneifel;1
+duisburg;47239;korweiler;rhein-hunsrück-kreis;1
+duisburg;47249;heiligenhafen;ostholstein;1
+duisburg;47259;bansin;ostvorpommern;1
+duisburg;47259;niedersfeld;arnsberg;1
+duisburg;47269;kampen;nordfriesland;1
+duisburg;47269;rickenbach;freiburg;1
+duisburg;47269;zachenberg;lower bavaria;1
+duisburg;47279;schwalenberg;detmold;1
+durmersheim;76448;innerlehen;freiburg;1
+durmersheim;76448;köndringen;freiburg;1
+durmersheim;76448;stahlbrode;nordvorpommern;1
+dusseldorf;40547;midlum;leer;1
+dänischenhagen;24229;kappeln;schleswig-flensburg;1
+döbeln;4720;boltenhagen;nordwestmecklenburg;1
+döbeln;4720;oberwössen;upper bavaria;1
+döhlau;95182;bernkastel-kues;bernkastel-wittlich;1
+dülmen;48249;priwall peninsula;lübeck;1
+dülmen;48249;thale;harz;1
+düren;52351;karschau;schleswig-flensburg;1
+düren;52351;wyk auf föhr;nordfriesland;1
+düsseldorf;40221;büsum;dithmarschen;1
+düsseldorf;40221;woldegk;woldegk;1
+düsseldorf;40229;winterberg;arnsberg;1
+düsseldorf;40233;rohren;cologne;1
+düsseldorf;40235;friedrichskoog-spitze;dithmarschen;1
+düsseldorf;40235;priwall peninsula;lübeck;1
+düsseldorf;40237;zilsdorf;vulkaneifel;1
+düsseldorf;40472;niendorf/ostsee;ostholstein;1
+düsseldorf;40472;oberemmel;trier-saarburg;1
+düsseldorf;40472;seehof;nordwestmecklenburg;1
+düsseldorf;40479;wenningstedt-braderup;nordfriesland;1
+düsseldorf;40545;kappeln;schleswig-flensburg;1
+düsseldorf;40547;manderscheid;bernkastel-wittlich;1
+düsseldorf;40549;heiligenhafen;ostholstein;1
+düsseldorf;40549;huppenbroich;cologne;1
+düsseldorf;40549;langeoog;wittmund;1
+düsseldorf;40549;seepark kirchheim;kassel;1
+düsseldorf;40597;lehe;ammerland;1
+düsseldorf;40625;hooksiel;friesland;1
+eberswalde;16225;wernigerode;harz;1
+ebsdorfergrund;35085;feriendorf frankenau;kassel;1
+eckental;90542;arnbruck;lower bavaria;1
+eckental;90542;süderende;nordfriesland;1
+eckernförde;24340;abwinkl;upper bavaria;1
+edenkoben;67480;prerow;nordvorpommern;1
+edermünde;34295;friedrichskoog-spitze;dithmarschen;1
+edingen-neckarhausen;68535;ofterschwang;swabia;1
+egelsbach;63329;lüneburg;lüneburg;1
+eggenstein;76344;knielingen;karlsruhe;1
+eggermühlen;49577;werdern;arnsberg;1
+eggersdorf;15345;zermützel;ostprignitz-ruppin;1
+egling a.d. paar;86492;jaderaltendeich;wesermarsch;1
+ehlscheid;56581;klein labenz;rostock;1
+ehringshausen;35630;giessen;giessen;1
+einbeck;37574;sandbrink;diepholz;1
+eisenach;99817;brückrachdorf;neuwied;1
+eisenach;99817;trent;rügen;1
+eisenach;99817;zingst;nordvorpommern;1
+eisenberg;7607;krakow am see;rostock;1
+eisenberg;67304;ferienpark heilbachsee;vulkaneifel;1
+eisfeld;98673;einberg;upper franconia;1
+eisingen;97249;ditzum;leer;1
+eisingen;97249;königssee;upper bavaria;1
+eisleben;6295;zinnowitz;ostvorpommern;1
+eitorf;53783;fedderwardersiel;wesermarsch;1
+ellwangen;73479;leutkirch im allgäu;tübingen;1
+elmenhorst;18107;kappeln;schleswig-flensburg;1
+elmshorn;25335;boren;schleswig-flensburg;1
+elmshorn;25335;olpenitzdorf;schleswig-flensburg;1
+elsdorf;50189;dagebüll;nordfriesland;1
+elsdorf;50189;osterreinen;swabia;1
+elsdorf;50189;schönhagen;rendsburg-eckernförde;1
+elsterheide;2979;zerpenschleuse;barnim;1
+elstertrebnitz;4523;klingenthal;chemnitz;1
+eltville;65343;kappeln;schleswig-flensburg;1
+eltville;65343;moormerland;leer;1
+elz;65604;neustadt am rennsteig;langer berg;1
+embsen;21409;großenbrode;ostholstein;1
+emden;26723;röbel;mecklenburgische seenplatte;1
+emden;26725emden;ostseebad;rügen;1
+emlichheim;49824;butjadingen;wesermarsch;1
+emlichheim;49824;wernigerode;harz;1
+emsdetten;48282;bockholt;münster;1
+emsdetten;48282;heimbach;cologne;1
+engehausen;29690;steinwarder;ostholstein;1
+ense;59469;niedersalwey;arnsberg;1
+eppertshausen;64859;zingst;nordvorpommern;1
+eppstein;65817;müritz;rostock;1
+eppstein;65817;zingst;nordvorpommern;1
+erbach;64711;monreal;mayen-koblenz;1
+erftstadt;50374;alt travemünde - rönnau;lübeck;1
+erftstadt;50374;au;upper bavaria;1
+erftstadt;50374;bansin;ostvorpommern;1
+erftstadt;50374;hatshausen;leer;1
+erftstadt;50374;norddeich;aurich;1
+erftstadt;50374;sillens;wesermarsch;1
+erfurt;99085;prerow;nordvorpommern;1
+erfurt;99085;roes;cochem-zell;1
+erfurt;99086;ribnitz;rostock;1
+erfurt;99096;bansin;ostvorpommern;1
+erfurt;99096;zingst;nordvorpommern;1
+erfurt;99097;hinternah;hildburghausen;1
+erfurt;99099;groß zicker;rügen;1
+ergolding;84030;prerow;nordvorpommern;1
+eriskirch;88097;neudes;upper franconia;1
+erkelenz;41812;dangast;friesland;1
+erkner;15537;mauth;lower bavaria;1
+erkrath;40699;küstelberg;arnsberg;1
+erlangen;91056;dagebüll;nordfriesland;1
+erlangen;91058;zingst;nordvorpommern;1
+erlangen;91058;zirchow;ostvorpommern;1
+erpel;53579;rudow;neukölln;1
+eschborn;65760;gudendorf;dithmarschen;1
+eschborn;65760;neßmersiel;aurich;1
+escheburg;21039;westerdeichstrich;dithmarschen;1
+eschershausen;37632;burhave;wesermarsch;1
+eschweiler;52249;bensersiel;wittmund;1
+espelkamp;32339;thale;harz;1
+essen;45127;köllerbach;saarbrücken;1
+essen;45134;falkau;freiburg;1
+essen;45138;frohnhausen;düsseldorf;1
+essen;45139;dagebüll;nordfriesland;1
+essen;45141;kronenburg;cologne;1
+essen;45144;altstadt;freiburg;1
+essen;45144;haffkrug;ostholstein;1
+essen;45219;bad urach;tübingen;1
+essen;45259;priwall peninsula;lübeck;1
+essen;45276;rennerod;westerwaldkreis;1
+essen;45277;burhave;wesermarsch;1
+essen;45289;eisenschmitt;bernkastel-wittlich;1
+essen;45326;jemgum;leer;1
+essen;45327;carolinensiel;wittmund;1
+essen;45329;jordanshöhe;goslar;1
+essen;45356;wyk auf föhr;nordfriesland;1
+essen;45359;steinwarder;ostholstein;1
+essen;45359;zingst;nordvorpommern;1
+essen;49632;bad harzburg;goslar;1
+essen, ruhr;45326;laboe;plön;1
+etschberg;66871;kalterherberg;cologne;1
+ettringen;56729;bettenfeld;bernkastel-wittlich;1
+euskirchen;53881;timmendorfer strand;ostholstein;1
+eutin;23701;jordanshöhe;goslar;1
+eutin;23701;obermaiselstein;swabia;1
+everswinkel;48351;münster;münster;1
+falkenberg ot kruge;16259;wendtorfer strand;plön;1
+falkensee;14612;sellin;ostvorpommern;1
+falkensee;14612;teßmannsdorf;rostock;1
+falkensee;14612;vieregge;rügen;1
+faßberg;29328;norderteil;cuxhaven;1
+feilitzsch;95183;glowe;rügen;1
+feldafing;82340;bad könig;darmstadt;1
+felde;24242;kappeln;schleswig-flensburg;1
+fellbach;70736;mühlenbach;freiburg;1
+feuchtwangen;91555;bargebur;aurich;1
+finnentrop;57413;grömitz;ostholstein;1
+finsterwalde;3238;jabel;mecklenburgische seenplatte;1
+flechtingen;39345;graal;rostock;1
+flensburg;24939;sankt peter-ording;nordfriesland;1
+flensburg;24944;wackerballig;schleswig-flensburg;1
+fockbek;24787;sankt peter-ording;nordfriesland;1
+frankfurt;60316;sankt peter-ording;nordfriesland;1
+frankfurt;60318;wismar;nordwestmecklenburg;1
+frankfurt;60326;niedersfeld;arnsberg;1
+frankfurt;60326;oldenburg;oldenburg;1
+frankfurt;60329;hollern;stade;1
+frankfurt;60385;kühlungsborn;rostock;1
+frankfurt;60487;heiligenhafen;ostholstein;1
+frankfurt;60488;sandbrink;diepholz;1
+frankfurt;60528;nordend-ost;darmstadt;1
+frankfurt;65931;altefähr;rügen;1
+frankfurt (oder);15236;lancken;rügen;1
+frankfurt am main;60320;glowe;rügen;1
+frankfurt am main;60320;jordanshöhe;goslar;1
+frankfurt am main;60329;bahnhofsviertel;darmstadt;1
+frankfurt am main;60329;strotzbüsch;vulkaneifel;1
+frankfurt am main;60388;börgerende;rostock;1
+frankfurt am main;60388;südwinsen;celle;1
+frankfurt am main;60528;schönenbach;freiburg;1
+frankfurt am main;60598;humboldt - gremberg;cologne;1
+frankfurt am main;60599;dorfmark;heidekreis;1
+frankfurt am main;65933;walchum;emsland;1
+frauendorf;1945;börgerende;rostock;1
+frechen;50226;feriendorf freilingen;cologne;1
+frechen;50226;heringsdorf;ostholstein;1
+frechen;50226;kappeln;schleswig-flensburg;1
+frechen;50226;norddeich;aurich;1
+fredenbeck;21717;olpenitzdorf;schleswig-flensburg;1
+fredersdorf;15370;rott;detmold;1
+fredersdorf;15370;wernigerode;harz;1
+fredersdorf-vogelsdorf;15370;priwall peninsula;lübeck;1
+fredersdorf-vogelsdorf;15370;tanne;harz;1
+freiberg;9599;groß schwansee;nordwestmecklenburg;1
+freiburg;79106;tinnum;nordfriesland;1
+freiburg;79112;speyer;speyer;1
+freiburg im breisgau;79117;alpirsbach;karlsruhe;1
+freigericht;63579;hillesheim;vulkaneifel;1
+freising;85354;eckernförde;rendsburg-eckernförde;1
+freising;85356;bad reichenhall;upper bavaria;1
+freital;1705;büsum;dithmarschen;1
+freital;1705;sellin;rügen;1
+freyburg;6632;thale;harz;1
+frickenhausen;72636;schollach;freiburg;1
+frickenhausen;97252;ostseebad;rügen;1
+friedberg;61169;oberasberg;lower bavaria;1
+friedrichsruhe;19089;prora;rügen;1
+frielendorf;34621;großenbrode;ostholstein;1
+frielendorf;34621;zingst;nordvorpommern;1
+friesoythe;26169;bansin;ostvorpommern;1
+friesoythe;26169;börgerende;rostock;1
+friesoythe;26169;staberdorf;ostholstein;1
+fritzlar;34560;olpenitzdorf;schleswig-flensburg;1
+fronhausen;35112;korswandt;ostvorpommern;1
+fuchshain;4683;göhren;rügen;1
+fulda;36037;radisleben;harz;1
+fulda;36041;westerland;nordfriesland;1
+fuldabrück;34277;burhave;wesermarsch;1
+fuldabrück;34277;drei;schleswig-flensburg;1
+fuldabrück;34277;kaimt;cochem-zell;1
+fürstenwalde;15517;büsum;dithmarschen;1
+fürth;90763;mühlheim;upper bavaria;1
+gachenbach;86565;nienkattbek;rendsburg-eckernförde;1
+gaggenau;76571;luft;upper bavaria;1
+gaggenau;76571;mauth;lower bavaria;1
+gailingen;78262;west;freiburg;1
+ganderkesee;27777;grömitz;ostholstein;1
+ganderkesee;27777;heiligenhafen;ostholstein;1
+ganderkesee;27777;sandbrink;diepholz;1
+ganderkesee;27777;westerland;nordfriesland;1
+garbsen;30827;steinhude;hanover region;1
+garching;85748;bohnsdorf;treptow-köpenick;1
+gardelegen;39638;norderteil;cuxhaven;1
+gardelegen;39638;stralsund;nordvorpommern;1
+garding;25836;priwall peninsula;lübeck;1
+garmisch-partenkirchen;82467;borkum;leer;1
+gaustritz;1728;niehagen;nordvorpommern;1
+geeste;49744;wangerland;friesland;1
+geesthacht;21502;großenbrode;ostholstein;1
+geesthacht;21502;kühlungsborn ost;rostock;1
+gefrees;95482;dambach;middle franconia;1
+gehrden;30989;schilksee;plön;1
+geilenkirchen;52511;bad münster am stein-ebernburg;bad kreuznach;1
+geilenkirchen;52511;feriendorf venekotensee;düsseldorf;1
+geisa;36419;reithamm;aurich;1
+geisenheim;65366;brückrachdorf;neuwied;1
+geithain;4643;vieregge;rügen;1
+gelnhausen;63571;funnix;wittmund;1
+gelnhausen;63571;haffkrug;ostholstein;1
+gelnhausen;63571;treuen;chemnitz;1
+gelsenkirchen;45879;burhave;wesermarsch;1
+gelsenkirchen;45881;löcknitz;uecker-randow;1
+gelsenkirchen;45881;schweighausen;freiburg;1
+gelsenkirchen;45886;zierow;nordwestmecklenburg;1
+gelsenkirchen;45888;nesse;aurich;1
+gelsenkirchen;45889;borken;münster;1
+gelsenkirchen;45891;bürgerpark;bremerhaven;1
+gelsenkirchen;45891;norddeich;aurich;1
+gelsenkirchen;45892;husum;nordfriesland;1
+gelsenkirchen;45892;niendorf/ostsee;ostholstein;1
+gelsenkirchen;45892;olpenitzdorf;schleswig-flensburg;1
+gelsenkirchen;45896;stolberg (rhineland);cologne;1
+gelsenkirchen;45897;ediger-eller;cochem-zell;1
+gelsenkirchen;45897;westerland;nordfriesland;1
+gelsenkirchen;45899;burg auf fehmarn;ostholstein;1
+georgenthal;99887;höfen;cologne;1
+georgsmarienhütte;49124;wangerooge;friesland;1
+georgsmarienhütte;49124;waren;müritz;1
+gera;7548;groschwitz;saalfeld-rudolstadt;1
+gera;7549;lobbe;rügen;1
+geratal;99331;zingst;nordvorpommern;1
+gerau;4683;sandbrink;diepholz;1
+gerbrunn;97218;schwarzenbach am wald;upper franconia;1
+germany;10965;schwöb;upper bavaria;1
+germering;82100;tretting;upper palatinate;1
+germering;82110;altstadt;middle franconia;1
+germering;82110;stellichte;heidekreis;1
+gersdorf;1920;altefähr;rügen;1
+gersfeld;36129;ediger-eller;cochem-zell;1
+gersheim;66453;marquartstein;upper bavaria;1
+gerstetten-heuchlingen;89547;obereßfeld;lower franconia;1
+gescher;48712;westerhever;nordfriesland;1
+gettorf;24214;hohwacht;plön;1
+giessen;35390;fuchsberg;upper palatinate;1
+giessen;35398;aschersleben;salzlandkreis;1
+gießen;35390;sandbrink;diepholz;1
+gießen;35396;niendorf/ostsee;ostholstein;1
+gifhorn;38518;burhave;wesermarsch;1
+gifhorn;38518;gifhorn;gifhorn;1
+gifhorn;38518;heringsdorf;ostholstein;1
+gifhorn;38618;gifhorn;gifhorn;1
+gladbeck;45964;norddeich;aurich;1
+gladbeck;45966;born;detmold;1
+gladbeck;45968;heringsdorf;ostholstein;1
+gladenbach-weidenhausen;35075;dittishausen;freiburg;1
+gleschendorf;23684;jordanshöhe;goslar;1
+glienicke/nordbahn;16548;hohwacht;plön;1
+glienicke/nordbahn;16548;osterdeich;nordfriesland;1
+glindenberg;39326;jordanshöhe;goslar;1
+glindenberg;39326;pouch;anhalt-bitterfeld;1
+glindenberg;39326;zirchow;ostvorpommern;1
+glückstadt;25348;ahlbeck;ostvorpommern;1
+glückstadt;25348;alt travemünde - rönnau;lübeck;1
+glückstadt;25348;niendorf;nordwestmecklenburg;1
+glückstadt;25348;ostseebad;rügen;1
+goch;47574;kappeln;schleswig-flensburg;1
+gochsheim;97469;dießen am ammersee;upper bavaria;1
+goerlitz;2826;blankenburg;harz;1
+gommern;39245;ahlbeck;ostvorpommern;1
+gornau;9405;eibenstock;chemnitz;1
+goslar;38640;alt travemünde - rönnau;lübeck;1
+goslar;38642;hüttenbusch;osterholz;1
+gotha;99867;krakow am see;rostock;1
+gotha;99867;thal;wartburgkreis;1
+grambow;19071;kappeln;schleswig-flensburg;1
+grammetal;99428;bastorf;rostock;1
+greifswald;17489;winterberg;arnsberg;1
+grevenbroich;41515;carolinensiel;wittmund;1
+grevenbroich;41516;esens;wittmund;1
+grevenbroich;41516;hooksiel;friesland;1
+grevenbroich;41516;höfen;cologne;1
+grevenbroich;41516;winterberg;arnsberg;1
+grevesmühlen;23936;schlettau;chemnitz;1
+griesheim;64347;reimboldshausen;kassel;1
+grimma ot mutzschen;4668;häusles;upper franconia;1
+gronau;48599;epe;münster;1
+gronau;48599;seibranz;tübingen;1
+grossvargula;99958;blankenburg;harz;1
+groß kreutz (havel);14550;kühlungsborn;rostock;1
+groß wokern;17166;prerow;nordvorpommern;1
+groß-zimmern;64846;hafendorf;mecklenburgische seenplatte;1
+groß-zimmern;64846;sandbrink;diepholz;1
+großbottwar;71723;bach;upper bavaria;1
+großbreitenbach ot altenfeld;98701;stessen;düsseldorf;1
+großefehn;26629;ruhpolding;upper bavaria;1
+großenbrode;23775;heiligenhafen;ostholstein;1
+großfriesen;8541;wustrow;nordvorpommern;1
+großräschen;1983;altenau;goslar;1
+großschwabhausen;99441;rückeberg;schleswig-flensburg;1
+gräfenhainichen;6773;eckernförde;rendsburg-eckernförde;1
+grömitz;23743;zingst;nordvorpommern;1
+grömitz / ot cismar;23743;emmelsbüll-horsbüll;nordfriesland;1
+grünenplan;31073;vadersdorf;ostholstein;1
+gummersbach;51645;seriem;wittmund;1
+gummersbach;51647;dümmer;ludwigslust-parchim;1
+gusow;15306;dagebüll;nordfriesland;1
+gutersloh;33335;rheda;detmold;1
+gutglück;16356;bad bevensen;uelzen;1
+guxhagen;34302;priwall peninsula;lübeck;1
+gäufelden;71126;bad sachsa;landkreis osterode am harz;1
+göggingen (württemberg);73571;roes;cochem-zell;1
+göppingen;73035;steibis;swabia;1
+görlitz;2826;baabe;rügen;1
+görlitz;2826;ostseebad damp;rendsburg-eckernförde;1
+görlitz;2827;schaufling;lower bavaria;1
+göttingen;37073;altenau;goslar;1
+göttingen;37073;zingst;nordvorpommern;1
+göttingen;37075;quilitz;ostvorpommern;1
+göttingen;37075;westerland;nordfriesland;1
+göttingen;37077;niendorf/ostsee;ostholstein;1
+göttingen;37079;wackerballig;schleswig-flensburg;1
+göttingen;37083;hohen wieschendorf;nordwestmecklenburg;1
+güsten;39439;bubesheim;swabia;1
+güstrow;18273;boltenhagen;nordwestmecklenburg;1
+güstrow;18273;ostseebad;rügen;1
+gütersloh;33332;haffkrug;ostholstein;1
+gütersloh;33332;priwall peninsula;lübeck;1
+gütersloh;33334;bad malente-gremsmühlen;ostholstein;1
+gütersloh;33334;friedrichskoog-spitze;dithmarschen;1
+gütersloh;33334;laboe;plön;1
+gütersloh;33335;großenbrode;ostholstein;1
+ha;20249;süderholm;dithmarschen;1
+haan;42781;boltenhagen;nordwestmecklenburg;1
+haan;42781;reifferscheid;cologne;1
+hagen;58091;usseln;kassel;1
+hagen;58091;vadersdorf;ostholstein;1
+hagen;58091;westerland;nordfriesland;1
+hagen;58098;blissenbach;cologne;1
+hagen;58099;burg auf fehmarn;ostholstein;1
+hagen;58099;staberdorf;ostholstein;1
+hagen;58135;bröckel;celle;1
+hagen;58135;hohwacht;plön;1
+hagenow;19230;schönhagen;rendsburg-eckernförde;1
+haiger;35708;hausen;neuwied;1
+hainburg;63512;dittishausen;freiburg;1
+hainichen;9661;ostseebad;rügen;1
+halle;6110;bad herrenalb;karlsruhe;1
+halle;6110;prerow;nordvorpommern;1
+halle;6116;rerik;rostock;1
+halle;6120;großpösna;leipzig;1
+halle;6128;lechhausen-ost;swabia;1
+halle;6130;ostseebad;rügen;1
+halle;6132;koserow;ostvorpommern;1
+halle (saale);6110;müritz;rostock;1
+halle (saale);6122;keppeln;düsseldorf;1
+hallerndorf;91352;seriem;wittmund;1
+haltern am see;45721;lennestadt;arnsberg;1
+halver;58553;eilsum;aurich;1
+hamburg;20099;tinnum;nordfriesland;1
+hamburg;20144;achtrup;nordfriesland;1
+hamburg;20146;jaderaltendeich;wesermarsch;1
+hamburg;20149;garding;nordfriesland;1
+hamburg;20249;seebad heringsdorf;ostvorpommern;1
+hamburg;20251;grömitz;ostholstein;1
+hamburg;20253;alt travemünde - rönnau;lübeck;1
+hamburg;20255;hörnum;nordfriesland;1
+hamburg;20255;karschau;schleswig-flensburg;1
+hamburg;20255;röbel;mecklenburgische seenplatte;1
+hamburg;20357;bad rothenfelde;osnabrück;1
+hamburg;20357;groß schwansee;nordwestmecklenburg;1
+hamburg;20357;gröbern;anhalt-bitterfeld;1
+hamburg;20357;lensterstrand;ostholstein;1
+hamburg;20357;timmendorfer strand;ostholstein;1
+hamburg;20357;wyk auf föhr;nordfriesland;1
+hamburg;20359;thale;harz;1
+hamburg;20535;born a. darß;nordvorpommern;1
+hamburg;20535;dagebüll;nordfriesland;1
+hamburg;20535;garz;rügen;1
+hamburg;20537;sankt peter-ording;nordfriesland;1
+hamburg;20539;kappeln;schleswig-flensburg;1
+hamburg;21031;alt travemünde - rönnau;lübeck;1
+hamburg;21031;olpenitzdorf;schleswig-flensburg;1
+hamburg;21033;hafendorf;mecklenburgische seenplatte;1
+hamburg;21077;wremen;cuxhaven;1
+hamburg;21107;kappeln;schleswig-flensburg;1
+hamburg;21109;schönhagen;rendsburg-eckernförde;1
+hamburg;21129;hohendorf;nordvorpommern;1
+hamburg;22041;karschau;schleswig-flensburg;1
+hamburg;22041;sankt peter-ording;nordfriesland;1
+hamburg;22045;fehmarn;ostholstein;1
+hamburg;22045;innenstadt;lübeck;1
+hamburg;22047;priwall peninsula;lübeck;1
+hamburg;22049;lübbenow;uckermark;1
+hamburg;22083;langwedel;gifhorn;1
+hamburg;22085;glowe;rügen;1
+hamburg;22111;dankerode;harz;1
+hamburg;22111;grömitz;ostholstein;1
+hamburg;22111;papenburg;emsland;1
+hamburg;22111;zingst;nordvorpommern;1
+hamburg;22113;lancken;rügen;1
+hamburg;22117;fedderwardersiel;wesermarsch;1
+hamburg;22117;jordanshöhe;goslar;1
+hamburg;22119;innenstadt;lübeck;1
+hamburg;22119;seebad heringsdorf;ostvorpommern;1
+hamburg;22143;haffkrug;ostholstein;1
+hamburg;22143;kappeln;schleswig-flensburg;1
+hamburg;22145;friedrichskoog-spitze;dithmarschen;1
+hamburg;22145;priwall peninsula;lübeck;1
+hamburg;22147;burg auf fehmarn;ostholstein;1
+hamburg;22147;kappeln;schleswig-flensburg;1
+hamburg;22147;rantum;nordfriesland;1
+hamburg;22149;olpenitzdorf;schleswig-flensburg;1
+hamburg;22159;nordgeorgsfehn;leer;1
+hamburg;22177;alt travemünde - rönnau;lübeck;1
+hamburg;22179;wenningstedt-braderup;nordfriesland;1
+hamburg;22299;sankt peter-ording;nordfriesland;1
+hamburg;22301;börgerende;rostock;1
+hamburg;22303;kappeln;schleswig-flensburg;1
+hamburg;22303;schönhagen;rendsburg-eckernförde;1
+hamburg;22303;timmendorfer strand;ostholstein;1
+hamburg;22307;blankenburg;harz;1
+hamburg;22307;bodstedt;nordvorpommern;1
+hamburg;22307;priwall peninsula;lübeck;1
+hamburg;22309;grömitz;ostholstein;1
+hamburg;22309;sankt peter-ording;nordfriesland;1
+hamburg;22335;priwall peninsula;lübeck;1
+hamburg;22337;wernigerode;harz;1
+hamburg;22339;althagen;nordvorpommern;1
+hamburg;22395;niendorf/ostsee;ostholstein;1
+hamburg;22395;pellworm;nordfriesland;1
+hamburg;22415;baabe;rügen;1
+hamburg;22419;damperhof;plön;1
+hamburg;22459;dagebüll;nordfriesland;1
+hamburg;22523;priwall peninsula;lübeck;1
+hamburg;22525;wenningstedt-braderup;nordfriesland;1
+hamburg;22527;schönhagen;rendsburg-eckernförde;1
+hamburg;22529;drochtersen;stade;1
+hamburg;22529;haffkrug;ostholstein;1
+hamburg;22529;kirchberg;rhein-hunsrück-kreis;1
+hamburg;22529;oldsum;nordfriesland;1
+hamburg;22547;eckernförde;rendsburg-eckernförde;1
+hamburg;22547;kopendorf;ostholstein;1
+hamburg;22547;timmendorfer strand;ostholstein;1
+hamburg;22559;heringsdorf;ostholstein;1
+hamburg;22587;wyk auf föhr;nordfriesland;1
+hamburg;22589;grömitz;ostholstein;1
+hamburg;22589;kühlungsborn ost;rostock;1
+hamburg;22607;eckernförde;rendsburg-eckernförde;1
+hamburg;22607;graal;rostock;1
+hamburg;22609;feldberg;freiburg;1
+hamburg;22761;olpenitzdorf;schleswig-flensburg;1
+hamburg;22765;kappeln;schleswig-flensburg;1
+hamburg;22767;baabe;rügen;1
+hamburg;22769;hohendorf;nordvorpommern;1
+hamburg;22851;sankt peter-ording;nordfriesland;1
+hameln;31787;niedersfeld;arnsberg;1
+hameln;31787;olpenitzdorf;schleswig-flensburg;1
+hameln;31787;sankt peter-ording;nordfriesland;1
+hameln;31789;friedrichskoog;dithmarschen;1
+hamm;59069;ditzum;leer;1
+hamm;59069;rudow;neukölln;1
+hamm;59075;fedderwardersiel;wesermarsch;1
+hamm;59075;kühlungsborn ost;rostock;1
+hamm;59077;neuenkirchen;heidekreis;1
+hammah;21714;sandbrink;diepholz;1
+hammersbach;63546;dagebüll;nordfriesland;1
+hanau;63454;berliner innenstadt;berliner innenstadt;1
+handorf;21447;grömitz;ostholstein;1
+hankensbuettel;29386;kappeln;schleswig-flensburg;1
+hankensbüttel;29386;dagebüll;nordfriesland;1
+hann. münden;34346;friedrichskoog-spitze;dithmarschen;1
+hann.münden;34346;jordanshöhe;goslar;1
+hann.münden;34346;sankt peter-ording;nordfriesland;1
+hannover;30161;kappeln;schleswig-flensburg;1
+hannover;30161;lübbenow;uckermark;1
+hannover;30161;thale;harz;1
+hannover;30163;fedderwardersiel;wesermarsch;1
+hannover;30163;marienleuchte;ostholstein;1
+hannover;30163;steingaden;upper bavaria;1
+hannover;30163;stralsund;nordvorpommern;1
+hannover;30165;zirchow;ostvorpommern;1
+hannover;30167;friedrichskoog;dithmarschen;1
+hannover;30167;langeoog;wittmund;1
+hannover;30171;rutenberg;uckermark;1
+hannover;30175;rutenberg;uckermark;1
+hannover;30177;großwürden;wesermarsch;1
+hannover;30179;grömitz;ostholstein;1
+hannover;30419;priwall peninsula;lübeck;1
+hannover;30419;schönhagen;rendsburg-eckernförde;1
+hannover;30419;waren;müritz;1
+hannover;30419;zinnowitz;ostvorpommern;1
+hannover;30453;burhave;wesermarsch;1
+hannover;30457;jordanshöhe;goslar;1
+hannover;30457;ummanz;rügen;1
+hannover;30459;aschendorf;osnabrück;1
+hannover;30519;prerow;nordvorpommern;1
+hannover;30539;jordanshöhe;goslar;1
+hannover;30559;feichten;upper bavaria;1
+hannover;30559;kappeln;schleswig-flensburg;1
+hannover;30625;priwall peninsula;lübeck;1
+hannover;30625;prora;rügen;1
+hannover;30627;großenbrode;ostholstein;1
+hannover;30627;parow;nordvorpommern;1
+hannover;30627;timmendorfer strand;ostholstein;1
+hannover;30629;büsum;dithmarschen;1
+hannover;30629;seriem;wittmund;1
+hannover;30655;dagebüll;nordfriesland;1
+hannover;30657;jordanshöhe;goslar;1
+hannover;30659;hage;aurich;1
+hannover;30659;sahlenburg;cuxhaven;1
+harsefeld;21698;olpenitzdorf;schleswig-flensburg;1
+harsewinkel;33428;mönkebüll;nordfriesland;1
+hasbergen;49205;grömitz;ostholstein;1
+hasbergen;49205;thale;harz;1
+haselünne;49740;fedderwardersiel;wesermarsch;1
+hasenkrug;24616;prerow;nordvorpommern;1
+haslach;77716;hofstetten;freiburg;1
+hassendorf;27367;göhren-lebbin;mecklenburgische seenplatte;1
+hattenhofen;73110;großheirath;upper franconia;1
+hattingen;45525;ettensberg;swabia;1
+hattingen;45527;sögel;emsland;1
+hatzfeld (eder);35116;unterbränd;freiburg;1
+haßfurt;97437;karlshagen;ostvorpommern;1
+heddesheim;68542;bärental;freiburg;1
+heede;26892;winterberg;arnsberg;1
+heeßen;31707;medebach;arnsberg;1
+heide;25746;gelting;schleswig-flensburg;1
+heideblick;15926;kühlungsborn-west;rostock;1
+heidelberg;69121;großschirma;chemnitz;1
+heidelberg;69124;unter-mossau;darmstadt;1
+heiden;46359;bischofsreut;lower bavaria;1
+heidenau;1809;selchow;oder-spree;1
+heidesee;15754;ückeritz;ostvorpommern;1
+heikendorf;24226;thorstorf;nordwestmecklenburg;1
+heilbronn;74081;quetzin;ludwigslust-parchim;1
+heiligenhafen;23774;norddeich;aurich;1
+heiligenhaus;42579;baasem;cologne;1
+heimertingen;87751;happach;swabia;1
+heinsberg;52525;altstadt;erfurt;1
+heist;25492;dieksanderkoog;dithmarschen;1
+heldburg;98663;sandbrink;diepholz;1
+hemer;58675;bad münster am stein-ebernburg;bad kreuznach;1
+hemer;58675;prerow;nordvorpommern;1
+hemmingen;30966;jordanshöhe;goslar;1
+hemmingen;30966;olpenitzdorf;schleswig-flensburg;1
+hemmingen;71282;grömitz;ostholstein;1
+hemmingen;71282;ostbense;wittmund;1
+hemslingen;27386;hohendorf;nordvorpommern;1
+hennef/sieg;53773;westerland;nordfriesland;1
+hennigsdorf;16761;bansin;ostvorpommern;1
+hennigsdorf;16761;haffkrug;ostholstein;1
+hennigsdorf;16761;olpenitzdorf;schleswig-flensburg;1
+hennigsdorf;16761;thorstorf;nordwestmecklenburg;1
+henstedt-ulzburg;24558;kappeln;schleswig-flensburg;1
+henstedt-ulzburg;24558;lancken;rügen;1
+henstedt-ulzburg;24558;rerik;rostock;1
+henstedt-ulzburg;24558;tossens;wesermarsch;1
+hentern;54314;dagebüll;nordfriesland;1
+heppenheim;64646;trollenhagen;mecklenburgische seenplatte;1
+hepstedt;27412;bettenbach;darmstadt;1
+herbsleben;99955;serrig;trier-saarburg;1
+herbstein;36358;dagebüll;nordfriesland;1
+herdecke;58313;borkum;leer;1
+herne;44623;trent;rügen;1
+herne;44623;willingen;kassel;1
+herne;44625;niedersfeld;arnsberg;1
+herne;44627;neßmersiel;aurich;1
+herne;44628;schieder;detmold;1
+herne;44649;landschaftspolder;leer;1
+herne;44649;vitzdorf;ostholstein;1
+herne;44652;gossersweiler;südliche weinstraße;1
+herren steinfeld;19071;schönhagen;rendsburg-eckernförde;1
+herrenberg;71083;hessigheim;stuttgart;1
+herrieden;91567;sasbach am kaiserstuhl;freiburg;1
+herten;45699;burhave;wesermarsch;1
+herten;45701;ostseebad damp;rendsburg-eckernförde;1
+herzogenaurach;91074;weckersdorf;greiz;1
+herzogenrath;52134;breit;bernkastel-wittlich;1
+hettstadt;97265;isenbüttel;gifhorn;1
+hettstedt;6333;vordorfermühle;upper franconia;1
+heudeber;38855;bad lausick;leipzig;1
+hiddenhausen;32120;anwanden;middle franconia;1
+hildburghausen;98646;zingst;nordvorpommern;1
+hilden;40721;dahme;ostholstein;1
+hilden;40721;kappeln;schleswig-flensburg;1
+hilden;40723;dagebüll;nordfriesland;1
+hilden;40723;rott;detmold;1
+hilden;40723;werdern;arnsberg;1
+hildesheim;31134;timmendorfer strand;ostholstein;1
+hildesheim;31135;jordanshöhe;goslar;1
+hildesheim;31137;feichten;upper bavaria;1
+hildesheim;31137;tossens;wesermarsch;1
+hildesheim;31139;braunlage;goslar;1
+hildesheim;31139;timmendorfer strand;ostholstein;1
+hildesheim;31141;großenbrode;ostholstein;1
+hochheim;65239;priwall peninsula;lübeck;1
+hof;95030;dreislar;arnsberg;1
+hof;95032;glowe;rügen;1
+hofgeismar;34369;kappeln;schleswig-flensburg;1
+hofgeismar;34369;westerland;nordfriesland;1
+hohen neuendorf ot bergfelde;16562;oertzenhof;nordwestmecklenburg;1
+hohenahr;35644;norden;aurich;1
+hohenbrunn;85662;wackerballig;schleswig-flensburg;1
+hohenbucko;4936;prora;rügen;1
+hohenlinden;85664;scharling;upper bavaria;1
+hohenstein-ernstthal;9337;dahmsdorf;oder-spree;1
+hohenwestedt;24594;eckernförde;rendsburg-eckernförde;1
+hohne;29362;elmenhorst;nordwestmecklenburg;1
+hohne;29362;gollwitz;nordwestmecklenburg;1
+hohne;29362;meißendorf;celle;1
+hohne;29362;zingst;nordvorpommern;1
+holzgerlingen;71088;mühlenbach;freiburg;1
+holzhausen;56357;schillig;friesland;1
+holzminden;37603;norddeich;aurich;1
+homberg efze;34576;reithamm;aurich;1
+homburg;66424;tannenberg;upper bavaria;1
+hopsten;48496;sandbrink;diepholz;1
+horgau;86497;nienkattbek;rendsburg-eckernförde;1
+horstmar;48612;burhave;wesermarsch;1
+hoyerswerda;2977;wilsche;gifhorn;1
+hude;27798;teßmannsdorf;rostock;1
+hude (oldenburg);27798;rerik;rostock;1
+husum;25813;ramsau bei berchtesgaden;upper bavaria;1
+husum;25813;riddorf;nordfriesland;1
+hörstel;48477;baabe;rügen;1
+hörstel;48477;eckwarden;wesermarsch;1
+hörstel;48477;jordanshöhe;goslar;1
+hörstel;48477;wiegboldsbur;aurich;1
+hörstel;48477;zingst;nordvorpommern;1
+hövelhof;33161;sankt peter-ording;nordfriesland;1
+höxter;37671;gilgenhöfe;upper bavaria;1
+höxter;37671;wyk auf föhr;nordfriesland;1
+hückelhoven;41836;cochem;cochem-zell;1
+hückelhoven;41836;schobüll;nordfriesland;1
+hückeswagen;42499;norderteil;cuxhaven;1
+hüllhorst;32609;großenbrode;ostholstein;1
+hünfeld;36088;fehmarn;ostholstein;1
+hünfeld;36088;marktrodach;upper franconia;1
+hünfelden;65597;friedrichskoog-spitze;dithmarschen;1
+hürth;50354;carolinensiel;wittmund;1
+hütschenhausen;66882;krähenberg;südwestpfalz;1
+hüttenberg;35625;sobernheim;bad kreuznach;1
+hüttigweiler;66557;schneverdingen;heidekreis;1
+ibbenbüren;49477;alme;arnsberg;1
+idstein;65510;urspring;upper bavaria;1
+illingen;66557;dagebüll;nordfriesland;1
+illingen;66557;speyer;speyer;1
+ilmenau;98693;ilmenau;ilm-kreis;1
+ilsede;31241;zingst;nordvorpommern;1
+ingelheim;55218;monreal;mayen-koblenz;1
+ise5;58642;harlesiel;wittmund;1
+isenbüttel;38550;radisleben;harz;1
+iserlohn;58640;ockholm;nordfriesland;1
+isernhagen;30916;jordanshöhe;goslar;1
+issigau;95188;neuendorf;ostvorpommern;1
+issing;86946;westerland;nordfriesland;1
+issum;47661;winterberg;arnsberg;1
+jena;7745;finsterbergen;gotha;1
+jena;7747;waldseite;bentheim;1
+jena;7749;karlstadt am main;lower franconia;1
+jessen (elster);6917;mitte;mitte;1
+jever;26441;koogsreihe;nordfriesland;1
+jockgrim;76751;niedersfeld;arnsberg;1
+jößnitz;8547;kühlungsborn;rostock;1
+jüchen;41363;carolinensiel;wittmund;1
+kaarst;41465;wilhelmshaven;wilhelmshaven;1
+kaarst;41564;dahme;ostholstein;1
+kaarst;41564;filz;cochem-zell;1
+kaarst;41564;kühlungsborn ost;rostock;1
+kaarst;41564;neßmersiel;aurich;1
+kaarst;41564;sandbrink;diepholz;1
+kaarst;41564;stolpe;ostvorpommern;1
+kaarst;41564;westerland;nordfriesland;1
+kaiserslautern;67655;osburg;trier-saarburg;1
+kaiserslautern;67659;odernheim am glan;bad kreuznach;1
+kaisheim;86687;mühlberg;lower bavaria;1
+kalkar;47546;buckow;neukölln;1
+kaltenkirchen;24568;boltenhagen;nordwestmecklenburg;1
+kaltenkirchen;24568;jordanshöhe;goslar;1
+kaltenkirchen;24568;priwall peninsula;lübeck;1
+kamen;59174;krakow am see;rostock;1
+kamen;59174;neuringe;emsland;1
+kamp lintfort;47475;burgaltendorf;düsseldorf;1
+kamp-lintfort;47475;haffkrug;ostholstein;1
+kamp-lintfort;47475;harlesiel;wittmund;1
+kapellen-drustweiler;76889;kutenholz;stade;1
+karben;61184;seriem;wittmund;1
+karlsfeld;85757;wilhelmshaven;wilhelmshaven;1
+karlsruhe;76131;schonach im schwarzwald;freiburg;1
+karlsruhe;76133;lauterbach;freiburg;1
+karlsruhe;76135;reichenhofen;tübingen;1
+karlsruhe;76135;wittenbeck;rostock;1
+karlsruhe;76137;lindau;swabia;1
+karlsruhe;76139;haßloch;bad dürkheim;1
+karlsruhe;76185;eichwalde;dahme-spreewald;1
+karlsruhe;76185;taufkirchen;lower bavaria;1
+karlsruhe;76185;wilhelmshaven;wilhelmshaven;1
+karlsruhe;76227;althagen;nordvorpommern;1
+karlsruhe;76229;wyk auf föhr;nordfriesland;1
+karlsruhr;76131;baiersbronn;karlsruhe;1
+karlstein;63791;priwall peninsula;lübeck;1
+kassel;34119;burhave;wesermarsch;1
+kassel;34130;grömitz;ostholstein;1
+kassel;34134;edertal;kassel;1
+kassel;34134;schwalefeld;kassel;1
+kassel , hess;34123;veckerhagen;kassel;1
+katlenburg-lindau;37191;großenbrode;ostholstein;1
+kaufbeuren;87600;thale;harz;1
+kaufungen;34260;priwall peninsula;lübeck;1
+kehl;77694;dornhan;freiburg;1
+kehl;77694;mühlenbach;freiburg;1
+kelkheim;65779;sachrang;upper bavaria;1
+kempen;47906;lissendorf;vulkaneifel;1
+kempen;47906;niedersfeld;arnsberg;1
+kempenich;56746;neugarmssiel;friesland;1
+kempten;87437;waren;müritz;1
+kerken;47647;bernkastel;bernkastel-wittlich;1
+kerken;47647;carolinensiel;wittmund;1
+kerpen;50170;kalterherberg;cologne;1
+kerpen;50170;lierfeld;bitburg-prüm;1
+kevelaer;47623;hollstadt;lower franconia;1
+kevelaer;47623;kappeln;schleswig-flensburg;1
+kiel;24113;eckernförde;rendsburg-eckernförde;1
+kiel;24116;list;nordfriesland;1
+kiel;24118;krems ii;segeberg;1
+kiel;24143;vorstadt;plön;1
+kiel;24145;kappeln;schleswig-flensburg;1
+kirchardt;74912;bad wildbad;karlsruhe;1
+kirchberg;8107;kaltenhof;nordwestmecklenburg;1
+kirchberg;8107;westermarkelsdorf;ostholstein;1
+kirchberg;71737;jaderaltendeich;wesermarsch;1
+kirchheim;85551;zandt;upper palatinate;1
+kirchheim unter teck;73230;oberkirch;freiburg;1
+kirchlengern;32278;grömitz;ostholstein;1
+kirchlengern;32278;göhren;rügen;1
+kirchlengern;32278;sandbrink;diepholz;1
+kirchlinteln;27308;dagebüll;nordfriesland;1
+kitzingen;97318;nieblum;nordfriesland;1
+klein lenden;37130;niendorf/ostsee;ostholstein;1
+klein rogahn;19073;wiek;rügen;1
+kleinen linden;35398;wandlitz;barnim;1
+kleinostheim;63801;waldau;hildburghausen;1
+klinkrade;23898;staberdorf;ostholstein;1
+kloster lehnin;14797;zirchow;ostvorpommern;1
+klostermansfeld;6308;haltern am see;münster;1
+klostermansfeld;6308;hullern;münster;1
+klötze;38486;klein bollhagen;rostock;1
+koblenz;56068;kappeln;schleswig-flensburg;1
+koblenz;56076;norddeich;aurich;1
+kohlberg;92702;niederklutz;nordwestmecklenburg;1
+kolkwitz;3099;altefähr;rügen;1
+konz-könen;54329;kinzigtal;freiburg;1
+korb;71404;pantow;rügen;1
+kornhochheim;99192;sassnitz;rügen;1
+kornwestheim;70806;friedrichskoog-spitze;dithmarschen;1
+korschenbroich;41352;rieden;mayen-koblenz;1
+krefeld;47798;wittscheid;cologne;1
+krefeld;47799;niedersfeld;arnsberg;1
+krefeld;47802;oberstdorf;swabia;1
+krefeld;47805;dreislar;arnsberg;1
+krefeld;47805;sandbrink;diepholz;1
+krefeld;47809;wilhelmshaven;wilhelmshaven;1
+krefeld;47839;griesbach;lower bavaria;1
+krempermoor;25569;heiligenhafen;ostholstein;1
+kronach;96317;kappeln;schleswig-flensburg;1
+kronberg;61476;schönhagen;rendsburg-eckernförde;1
+kronberg;61476;teßmannsdorf;rostock;1
+kronshagen;24119;wyk auf föhr;nordfriesland;1
+krugsdorf;17309;karlshagen;ostvorpommern;1
+krumhermersdorf;9434;juliusruh;rügen;1
+krumhermersdorf;9434;vieregge;rügen;1
+krölpa bei pößneck;7387;serrig;trier-saarburg;1
+kuckssee;17217;stralsund;nordvorpommern;1
+kumhausen;84036;hohenhameln;peine;1
+kurort oberwiesenthal;9484;windesheim;bad kreuznach;1
+kurort seiffen;9548;nienhagen;harz;1
+kusel;66869;eckernförde;rendsburg-eckernförde;1
+kyllburg;54655;neßmersiel;aurich;1
+käbschütztal;1665;schwarbe;rügen;1
+kölln-reisiek;25337;wienrode;harz;1
+köln;50667;kappeln;schleswig-flensburg;1
+köln;50668;gerolstein;vulkaneifel;1
+köln;50670;köln-altstadt-nord;cologne;1
+köln;50674;hillesheim;vulkaneifel;1
+köln;50676;reifferscheid;cologne;1
+köln;50676;sessenbach;westerwaldkreis;1
+köln;50677;uelsen;bentheim;1
+köln;50678;bad saarow;oder-spree;1
+köln;50678;wahlrod;westerwaldkreis;1
+köln;50678;wangerooge;friesland;1
+köln;50735;boltenhagen;nordwestmecklenburg;1
+köln;50735;burhave;wesermarsch;1
+köln;50737;winterberg;arnsberg;1
+köln;50739;heißer stein;bernkastel-wittlich;1
+köln;50739;kerschenbach;vulkaneifel;1
+köln;50769;polchow;rügen;1
+köln;50769;ummanz;rügen;1
+köln;50823;brauneberg;bernkastel-wittlich;1
+köln;50823;carolinensiel;wittmund;1
+köln;50829;höfen;cologne;1
+köln;50829;jemgum;leer;1
+köln;50859;grömitz;ostholstein;1
+köln;50931;olpenitzdorf;schleswig-flensburg;1
+köln;50939;wremen;cuxhaven;1
+köln;50968;rieden;mayen-koblenz;1
+köln;50997;wremen;cuxhaven;1
+köln;51061;groß wokern;rostock;1
+köln;51063;wickerode;mansfeld-südharz;1
+köln;51103;sandbrink;diepholz;1
+köln;51105;berliner innenstadt;berliner innenstadt;1
+köln;51107;burgaltendorf;düsseldorf;1
+köln;51109;immerath;vulkaneifel;1
+köln;51109;prüm;bitburg-prüm;1
+köln;51145;süderholm;dithmarschen;1
+köln;51147;altastenberg;arnsberg;1
+königs wusterhausen;15711;bansin;ostvorpommern;1
+königs wusterhausen;15711;gelbensande;rostock;1
+königsbach-stein;75203;tossens;wesermarsch;1
+königsbrunn;86343;rheda;detmold;1
+königshain-wiederau;9306;letzau;upper palatinate;1
+königslutter;38154;burhave;wesermarsch;1
+königslutter;38154;dietrichstal;landkreis osterode am harz;1
+königslutter;38154;warnemünde;rostock;1
+königslutter am elm;38154;neuwerk;harz;1
+königsmoos;86669;stamsried;upper palatinate;1
+königstein;61462;lobbe;rügen;1
+königswinter;53639;kempten;swabia;1
+köthen;6366;ediger-eller;cochem-zell;1
+kühren;24211;schilksee;plön;1
+kürten;51515;besch;merzig-wadern;1
+kürten;51515;norddeich;aurich;1
+laatzen;30880;jordanshöhe;goslar;1
+laatzen;30880;streek;friesland;1
+ladbergen;49549;elpe;arnsberg;1
+ladenburg;68526;thale;harz;1
+lage;32791;norderteil;cuxhaven;1
+lahnstein;56112;norddeich;aurich;1
+lahntal;35094;priwall peninsula;lübeck;1
+lahr;77933;lehengericht;freiburg;1
+lambsheim;67245;bodman;freiburg;1
+landau in der pfalz;76829;innenstadt;lübeck;1
+landkreis;ehringshausen;wetzlar;giessen;1
+landsberg;86888;kühlungsborn;rostock;1
+landsberg am lech;86899;witzenhausen;kassel;1
+landstuhl;66849;korweiler;rhein-hunsrück-kreis;1
+langen (hessen);63225;dangast;friesland;1
+langenfeld;40764;börgerende;rostock;1
+langenfeld;40764;pulheim;cologne;1
+langenfeld;40764;schönhagen;rendsburg-eckernförde;1
+langenfeld;40764;süderbusch;cuxhaven;1
+langenfeld;40764;wacken;steinburg;1
+langenhagen;30851;grömitz;ostholstein;1
+langenhagen;30855;ahlbeck;ostvorpommern;1
+langenhagen;30855;fehmarn;ostholstein;1
+langwedel;27299;tossens;wesermarsch;1
+langwedel;27299;westerland;nordfriesland;1
+lathen;49762;papenburg;emsland;1
+laubach;35321;krems ii;segeberg;1
+lauenbrück;27389;wolfshagen im harz;goslar;1
+lauf;77886;dornhan;freiburg;1
+lauf;91207;rehbach;kassel;1
+lauingen;89415;wiek;rügen;1
+laupheim;88471;reichenau;freiburg;1
+laupheim;88471;zummeterhof;trier-saarburg;1
+lauterbach;36341;westerland;nordfriesland;1
+lauterbach (hessen);36341;zierow;nordwestmecklenburg;1
+leck;25917;garding;nordfriesland;1
+leegebruch;16767;worpswede;osterholz;1
+leezen;23816;sankt peter-ording;nordfriesland;1
+lehma;4617;canow;mecklenburgische seenplatte;1
+lehmkuhlen;24211;zingst;nordvorpommern;1
+lehre;38165;tossens;wesermarsch;1
+lehrte;31275;dorumer neufeld;cuxhaven;1
+lehrte;31275;tecklenburg;münster;1
+lehrte;31275;westerland;nordfriesland;1
+leimen;69181;ruhlsdorf;barnim;1
+leinfelden-echterdingen;70771;reimboldshausen;kassel;1
+leipzig;4103;ahlbeck;ostvorpommern;1
+leipzig;4103;cranzahl;chemnitz;1
+leipzig;4103;hatzenbühl;germersheim;1
+leipzig;4103;wildenthal;chemnitz;1
+leipzig;4105;lubmin;ostvorpommern;1
+leipzig;4105;untergöhren;mecklenburgische seenplatte;1
+leipzig;4109;priwall peninsula;lübeck;1
+leipzig;4109;wieck a. darß;nordvorpommern;1
+leipzig;4155;hirschbach;dresden government region;1
+leipzig;4155;hohendorf;nordvorpommern;1
+leipzig;4155;loddin;ostvorpommern;1
+leipzig;4155;olpenitzdorf;schleswig-flensburg;1
+leipzig;4155;ribnitz;rostock;1
+leipzig;4157;stahlbrode;nordvorpommern;1
+leipzig;4159;bibelöd;upper bavaria;1
+leipzig;4159;röbel;mecklenburgische seenplatte;1
+leipzig;4177;zinnowitz;ostvorpommern;1
+leipzig;4178;bibelöd;upper bavaria;1
+leipzig;4178;rerik;rostock;1
+leipzig;4179;klein belitz;rostock;1
+leipzig;4179;schlettau;chemnitz;1
+leipzig;4179;zempin;ostvorpommern;1
+leipzig;4207;hottingen;freiburg;1
+leipzig;4229;baunach;upper franconia;1
+leipzig;4229;hohendorf;nordvorpommern;1
+leipzig;4229;klingenthal;chemnitz;1
+leipzig;4249;olbersdorf;dresden government region;1
+leipzig;4249;sievershagen;rostock;1
+leipzig;4275;glowe;rügen;1
+leipzig;4275;hamma;nordhausen;1
+leipzig;4275;vitte;rügen;1
+leipzig;4289;waren;müritz;1
+leipzig;4299;walthersdorf;chemnitz;1
+leipzig;4315;priwall peninsula;lübeck;1
+leipzig;4316;neßmersiel;aurich;1
+leipzig;4318;rutenberg;uckermark;1
+leipzig;4318;thale;harz;1
+leipzig;4319;altenfeld;ilm-kreis;1
+leipzig;4319;stützerbach;ilm-kreis;1
+leipzig;4356;dahmsdorf;oder-spree;1
+lemgo;32657;zinnowitz;ostvorpommern;1
+lemgow;29485;rabenkirchen;schleswig-flensburg;1
+lengerich;49525;behringen;heidekreis;1
+lengerich;49525;norderteil;cuxhaven;1
+lengerich;49525;wenningstedt-braderup;nordfriesland;1
+lennestadt;57368;dornumersiel;aurich;1
+lenningen;73252;nieblum;nordfriesland;1
+leopoldshöhe;33818;bockholm;schleswig-flensburg;1
+leveluden;51375;gollwitz;nordwestmecklenburg;1
+leverkusen;51373;burhave;wesermarsch;1
+leverkusen;51373;lutterbek;plön;1
+leverkusen;51375;friedrichskoog-spitze;dithmarschen;1
+lichtenau;77839;schönwald im schwarzwald;freiburg;1
+liebenburg;38704;friedrichshöhe;harz;1
+liebenburg;38704;großenbrode;ostholstein;1
+liebenburg;38704;winterberg;arnsberg;1
+liederbach;65835;grömitz;ostholstein;1
+lilienthal;28865;sulzbach am main;lower franconia;1
+lilienthal;28865;wangerooge;friesland;1
+limbach-o.;9212;berliner innenstadt;berliner innenstadt;1
+limbach-oberfrohna;9212;niendorf/ostsee;ostholstein;1
+linau;22959;priwall peninsula;lübeck;1
+lindau;88131;klockries;nordfriesland;1
+linden;35440;kreuzberg;lower bavaria;1
+lindenberg;88161;günzburg;swabia;1
+lindenberg;88161;unterschwarzach;tübingen;1
+lindig;7768;laboe;plön;1
+lingen;49809;burhave;wesermarsch;1
+lingen;49809;duhnen;cuxhaven;1
+lingen;49809;feriendorf freilingen;cologne;1
+lingen;49809;groß charlottengroden;wittmund;1
+lingen;49809;jordanshöhe;goslar;1
+lingen;49809;landsatz;lüchow-dannenberg;1
+lingen;49811;hörnum;nordfriesland;1
+lingen;49811;hösjekamp;ammerland;1
+lingenfeld;67360;bad dürkheim;bad dürkheim;1
+linkenheim-hochstetten;76351;insel;swabia;1
+linkenheim-hochstetten;76351;lieg;cochem-zell;1
+lippstadt;59555;friedrichskoog-spitze;dithmarschen;1
+lippstadt;59557;kühlungsborn-west;rostock;1
+lippstadt;59559;dahme;ostholstein;1
+lohmar;53797;norddeich;aurich;1
+luckenwalde;14943;zinnowitz;ostvorpommern;1
+ludwigshafen;67069;friedrichskoog;dithmarschen;1
+ludwigshafen;67071;auerbach;upper bavaria;1
+luebeck;23552;eschach;swabia;1
+luhden;31711;priwall peninsula;lübeck;1
+lunden;25774;haffkrug;ostholstein;1
+löbau;2708;lautenthal;goslar;1
+löbejün;6193;zingst;nordvorpommern;1
+löhnberg;35792;horn;freiburg;1
+löhne;32584;minfeld;germersheim;1
+löningen;49624;vollbüttel;gifhorn;1
+lörrach;79540;fröhnd;freiburg;1
+lübbecke;32312;kappeln;schleswig-flensburg;1
+lübbecke;32312;rechlin;mecklenburgische seenplatte;1
+lübbecke;32312;trassenheide;ostvorpommern;1
+lübben;15907;wildemann;goslar;1
+lübeck;23552;innenstadt;lübeck;1
+lübeck;23556;westerland;nordfriesland;1
+lübeck;23560;waldkatzenbach;karlsruhe;1
+lübeck;23564;karschau;schleswig-flensburg;1
+lübeck;23564;schilksee;plön;1
+lübeck;23566;priwall peninsula;lübeck;1
+lübeck travemünde;23570;scharbeutz;ostholstein;1
+lübz;19386;zingst;nordvorpommern;1
+lüdenscheid;58507;dragun;nordwestmecklenburg;1
+lüdenscheid;58509;sandbrink;diepholz;1
+lüdersfeld;31702;bentwisch;cuxhaven;1
+lüdinghausen;59348;bensersiel;wittmund;1
+lüdinghausen;59348;oberjoch;swabia;1
+lügde;32676;fehmarnsund;ostholstein;1
+lüneburg;21335;großenbrode;ostholstein;1
+lüneburg;21335;sahlenburg;cuxhaven;1
+lüneburg;21335;wustrow;nordvorpommern;1
+lüneburg;21337;sandbrink;diepholz;1
+lüneburg;21337;thale;harz;1
+lüneburg;21339;alt travemünde - rönnau;lübeck;1
+lünen;44536;olpenitzdorf;schleswig-flensburg;1
+lürschau;24850;pelzerhaken;ostholstein;1
+magdeburg;39108;hohenkirchen;nordwestmecklenburg;1
+magdeburg;39110;bensersiel;wittmund;1
+magdeburg;39110;kappeln;schleswig-flensburg;1
+magdeburg;39110;vieregge;rügen;1
+magdeburg;39110;wilhelmshaven;wilhelmshaven;1
+magdeburg;39114;borstendorf;chemnitz;1
+magdeburg;39114;tarnewitz;nordwestmecklenburg;1
+magdeburg;39116;manschnow;märkisch-oderland;1
+magdeburg;39120;elend;harz;1
+magdeburg;39120;rathmannsdorf;dresden government region;1
+magdeburg;39122;ostseebad;rügen;1
+magdeburg;d-39108;oberdorf;swabia;1
+mahlow-waldblick;15831;warnemünde;rostock;1
+maintal;63477;neubau;upper franconia;1
+maintal;63477;schönsee;upper palatinate;1
+mainz;55126;echtershausen;bitburg-prüm;1
+mainz;55129;balm;ostvorpommern;1
+mainz;55131;wannsee;steglitz-zehlendorf;1
+mainz finthen;55116;kühlungsborn-west;rostock;1
+mainz kostheim;55246;duhnen;cuxhaven;1
+malk göhren;19294;ahlbeck;ostvorpommern;1
+malsch;69254;westerland;nordfriesland;1
+mannheim;68159;hohenreuth;upper bavaria;1
+mannheim;68163;reinerzau;karlsruhe;1
+mannheim;68199;erkenbollingen;swabia;1
+mannheim;68199;unterlohwies;lower bavaria;1
+mannheim;68259;reimboldshausen;kassel;1
+mannheim;68259;seepark kirchheim;kassel;1
+mannheim;68305;stanggaß;upper bavaria;1
+mannheim;68305;trent;rügen;1
+mannheim;68307;waldkatzenbach;karlsruhe;1
+mannheim;68309;udler;vulkaneifel;1
+marburg;35037;binz;rügen;1
+marburg;35037;jordanshöhe;goslar;1
+marburg;35041;vadersdorf;ostholstein;1
+march;79232;böhlen;ilm-kreis;1
+marienberg;9496;buggingen;freiburg;1
+marienmünster;37696;sandbrink;diepholz;1
+markkleeberg;4416;dagebüll;nordfriesland;1
+markkleeberg;4416;glowe;rügen;1
+markkleeberg;4416;wustrow;nordvorpommern;1
+markranstädt;4420;storkow;oder-spree;1
+markt schwaben;85570;kröslin;ostvorpommern;1
+marl;45768;bensersiel;wittmund;1
+marl;45772;meschede;arnsberg;1
+marpingen;66646;wallgau;upper bavaria;1
+marsberg;34431;olpenitzdorf;schleswig-flensburg;1
+marsberg;34431;priwall peninsula;lübeck;1
+marschacht;21436;nordhorn;bentheim;1
+martinsthal;65344;netze;kassel;1
+md;39112;prerow;nordvorpommern;1
+mechernich;53894;wangerland;friesland;1
+mechtersen;21358;borgsum;nordfriesland;1
+meckenheim;53340;sankt johann;saarbrücken;1
+meckenheim;53340;wichterich;cologne;1
+meerbusch;40667;bürgstadt;lower franconia;1
+meerbusch;40667;weidenbach;vulkaneifel;1
+meerbusch;40667;wyk auf föhr;nordfriesland;1
+meerbusch;40668;wiek;rügen;1
+meine;38126;groß charlottengroden;wittmund;1
+meine;38527;süderwisch;cuxhaven;1
+meinerzhagen;58540;norddeich;aurich;1
+meiningen;98617;schönlind;upper franconia;1
+melbeck;21406;dargun;mecklenburgische seenplatte;1
+melle;49328;ediger-eller;cochem-zell;1
+melsungen;34212;hohwacht;plön;1
+menden;58708;grömitz;ostholstein;1
+menden;58708;priwall peninsula;lübeck;1
+menden;58710;altenilpe;arnsberg;1
+mertensdorf;16949;jordanshöhe;goslar;1
+merzenich;52399;dagebüll;nordfriesland;1
+meschede;59872;westeraccumersiel;aurich;1
+mespelbrunn;63875;alt travemünde - rönnau;lübeck;1
+messingen;49832;hooksiel;friesland;1
+metelen;48629;ahlbeck;ostvorpommern;1
+mettingen;49497;carolinensiel;wittmund;1
+mettingen;49497;harlesiel;wittmund;1
+mettingen;49497;kappeln;schleswig-flensburg;1
+mettmann;40822;anzenbach;upper bavaria;1
+michendorf;14552;bayerisch eisenstein;lower bavaria;1
+michendorf;14552;prora;rügen;1
+miesbach;83714;bad feilnbach;upper bavaria;1
+mildenau ot arnsfeld;9456;goyatz;dahme-spreewald;1
+minden;32423;duhnen;cuxhaven;1
+minfeld;76872;veenhusen;leer;1
+moers;47441;kappeln;schleswig-flensburg;1
+moers;47441;medebach;arnsberg;1
+moers;47443;altenahr;ahrweiler;1
+moers;47443;bernkastel;bernkastel-wittlich;1
+moers;47445;carolinensiel;wittmund;1
+mommenheim;55278;hinterzarten;freiburg;1
+monheim;40789;norddeich;aurich;1
+moorgrund;36433;ostseebad;rügen;1
+moormerland;26802;braunlage;goslar;1
+much;53804;prüm;bitburg-prüm;1
+muldestausee;6774;börgerende;rostock;1
+murnau;82418;lahnstein;rhein-lahn-kreis;1
+märkisch buchholz;15748;neukirchen;ostholstein;1
+märkisch-linden;16818;dierhagen;nordvorpommern;1
+mölln;23879;kappeln;schleswig-flensburg;1
+mömlingen;63853;röhl;bitburg-prüm;1
+mönchengladbach;41063;norderteil;cuxhaven;1
+mönchengladbach;41069;kattersdorf;lower bavaria;1
+mönchengladbach;41199;wasserburg am bodensee;swabia;1
+mönchengladbach;41236;cochem;cochem-zell;1
+mügeln;4769;markdorf;tübingen;1
+mühlacker;75417;morsbach;upper bavaria;1
+mühlacker;75417;unterjoch;swabia;1
+mühldorf am inn;84453;ostseebad;rügen;1
+mühlheim;63165;reimboldshausen;kassel;1
+mülheim;45473;see;upper bavaria;1
+mülheim;45478;kühlungsborn;rostock;1
+mülheim an der ruhr;45468;wissinghausen;arnsberg;1
+mülheim an der ruhr;45470;fehmarnsund;ostholstein;1
+mülheim an der ruhr;45476;kappeln;schleswig-flensburg;1
+mülheim an der ruhr;45476;warsingsfehn;leer;1
+mülheim an der ruhr;45481;wangerland;friesland;1
+mülheim-kärlich;56218;bendorf;mayen-koblenz;1
+münchen;80333;nienstedten;altona;1
+münchen;80339;schwarzach bei nabburg;upper palatinate;1
+münchen;80637;schaprode;rügen;1
+münchen;80686;mossendorf;upper palatinate;1
+münchen;80997;klanxbüll;nordfriesland;1
+münchen;81245;oy;swabia;1
+münchen;81369;söcking;upper bavaria;1
+münchen;81475;witsum;nordfriesland;1
+münchen;81477;rerik;rostock;1
+münchen;81541;loipl;upper bavaria;1
+münchen;81667;bad feilnbach;upper bavaria;1
+münchen;81669;hörnum;nordfriesland;1
+münchen;81669;wilhelmsthal;upper franconia;1
+münchen;81671;ostseebad;rügen;1
+münchen;81673;lüneburg;lüneburg;1
+münchen;81739;laubach;cochem-zell;1
+münchen;81827;zerpenschleuse;barnim;1
+münchen;81927;blossersberg;lower bavaria;1
+münchen;89339;daxstein;lower bavaria;1
+münchen - untergiesing-harlaching;81543;eschach;swabia;1
+münster;48145;carolinensiel;wittmund;1
+münster;48149;frenkhausen;arnsberg;1
+münster;48157;dahme;ostholstein;1
+münster;48159;freital;dresden government region;1
+münster;48159;telgte;münster;1
+münster;48161;heimbach;cologne;1
+münster;48161;wyk auf föhr;nordfriesland;1
+münster;48163;altenholz-klausdorf;rendsburg-eckernförde;1
+münster;64839;kappeln;schleswig-flensburg;1
+nachrodt-wiblingwerde;58769;kellenhusen;ostholstein;1
+nachrodt-wiblingwerde;58769;ühlingen-birkendorf;freiburg;1
+nagold;72202;berliner innenstadt;berliner innenstadt;1
+nagold;72202;märkisches viertel;reinickendorf;1
+nalbach;66809;obermünstertal;freiburg;1
+nauen;14641;garz;ostvorpommern;1
+neresheim;73450;weiher;karlsruhe;1
+nettetal;41334;esens;wittmund;1
+nettetal;41334;feriendorf freilingen;cologne;1
+nettetal;41334;roßbach;neuwied;1
+neu wulmstorf;21629;middelhagen;rügen;1
+neu-anspach;61267;battenhausen;kassel;1
+neu-isenburg;63263;steinwand;kassel;1
+neu-isenburg;63263;wallersdorf;lower bavaria;1
+neubrandenburg;17033;bad saarow;oder-spree;1
+neubrandenburg;17033;sankt andreasberg;goslar;1
+neubrandenburg;17033;zirchow;ostvorpommern;1
+neubrandenburg;17034;alt travemünde - rönnau;lübeck;1
+neubrandenburg;17034;zinnowitz;ostvorpommern;1
+neubrandenburg;17036;haltern am see;münster;1
+neubukow;18233;prora;rügen;1
+neuenstein;36286;kappeln;schleswig-flensburg;1
+neuhaus;98724;altstadt;erfurt;1
+neuhofen;67141;dornhan;freiburg;1
+neuhofen;67141;markgrafenheide;rostock;1
+neukirchen/erzgeb.;9221;zöblitz;chemnitz;1
+neukloster;23992;barnekow;nordwestmecklenburg;1
+neumarkt in der oberpfalz;92318;zirchow;ostvorpommern;1
+neumünster;24536;friedrichshöhe;harz;1
+neumünster;24536;niendorf/ostsee;ostholstein;1
+neumünster;24537;drei;schleswig-flensburg;1
+neumünster;24539;olpenitzdorf;schleswig-flensburg;1
+neunburg vorm wald;92431;hopferau;swabia;1
+neunkirchen-seelscheid;53819;gröbern;anhalt-bitterfeld;1
+neuruppin;16816;friedrichskoog;dithmarschen;1
+neuss;41460;hohenkirchen;friesland;1
+neuss;41462;sandbrink;diepholz;1
+neuss;41462;winterberg;arnsberg;1
+neuss;41464;kellenhusen;ostholstein;1
+neuss;41464;scherleinsöd;lower bavaria;1
+neuss;41468;bad doberan;rostock;1
+neustadt;7806;boltenhagen;nordwestmecklenburg;1
+neustadt;96465;altenberg;middle franconia;1
+neustadt am rübenberge / mardorf;31535;sommerhausen;lower franconia;1
+neustadt an der weinstrasse;67433;unterkirnach;freiburg;1
+neustadt an der weinstraße;67433;imsbacherhof;südwestpfalz;1
+neustadt weinstrasse;67433;flammersfeld;altenkirchen (westerwald);1
+neustadt-duttweiler;67435;düsseldorf-rath;düsseldorf;1
+neustadt-langburkersdorf;1844;timmendorfer strand;ostholstein;1
+neustadt/ dosse;16845;zwenzow;mecklenburgische seenplatte;1
+neustrelitz;17235;allrode;harz;1
+neustrelitz;17235;wesseloh;heidekreis;1
+neuwied;56564;echtershausen;bitburg-prüm;1
+neuwied;56564;frorath;neuwied;1
+neuwied;56567;neuruppin;ostprignitz-ruppin;1
+nidda-koden;63667;neuringe;emsland;1
+nideggen;52385;grömitz;ostholstein;1
+nieder -olm;55268;nordenau;arnsberg;1
+niederahr;56414;rhens;mayen-koblenz;1
+niederau ot jessen;1689;koserow;ostvorpommern;1
+niederkassel;53859;ahrenshoop;nordvorpommern;1
+niederkassel;53859;großwürden;wesermarsch;1
+niederneuching;85467;chieming;upper bavaria;1
+niedernhausen;65527;altenbruch;cuxhaven;1
+niedernhausen;65527;schönhagen;rendsburg-eckernförde;1
+niedernhausen;65527;unterschönau;upper bavaria;1
+niedernhausen;65527;wüstensachsen;kassel;1
+niedernwöhren;31712;sankt peter-ording;nordfriesland;1
+niedersachsen - bad rothenfelde;49214;ostbevern;münster;1
+niedersachsen - wolfsburg;38442;twielenfleth;stade;1
+nienburg;31582;wackerballig;schleswig-flensburg;1
+niendorf;23669;niendorf/ostsee;ostholstein;1
+nobitz;4603;bad saarow;oder-spree;1
+nobitz;4603;borgsum;nordfriesland;1
+nonnweiler;66620;hilbringen;merzig-wadern;1
+nordenham;26954;unterau;upper bavaria;1
+norderstedt;22844;großenbrode;ostholstein;1
+norderstedt;22846;vollerwiek;nordfriesland;1
+norderstedt;22850;grömitz;ostholstein;1
+norderstedt;22850;schönhagen;rendsburg-eckernförde;1
+norderstedt;22851;simonswald;freiburg;1
+nordhausen;99734;ahlbeck;ostvorpommern;1
+nordhausen;99734;göhren;rügen;1
+nordhausen;99734;radolfzell;freiburg;1
+nordhausen;99734;wienrode;harz;1
+nordhorn;48529;wangerooge;friesland;1
+nordhorn;48531;altharlingersiel;wittmund;1
+nordrhein-westfalen - harsewinkel;33428;röhl;bitburg-prüm;1
+nordrhein-westfalen - wülfrath;42489;neuharlingersiel;wittmund;1
+northeim;37154;wienrode;harz;1
+nottuln;48301;grafenried;lower bavaria;1
+nördlingen;86720;wernigerode;harz;1
+nümbrecht;51588;ibbenbüren;münster;1
+nümbrecht;51588;taufkirchen;lower bavaria;1
+nürnberg;90402;wandlitz;barnim;1
+nürnberg;90451;kollnburg;lower bavaria;1
+nürnberg;90453;mühlheim;upper bavaria;1
+nürnberg;90473;riedheim;swabia;1
+nürnberg;90475;horn;freiburg;1
+nürnberg;90491;hörnum;nordfriesland;1
+nürnberg;90491;schauenstein;upper franconia;1
+nürtingen;72622;harlesiel;wittmund;1
+ober-flörsheim;55234;zirchow;ostvorpommern;1
+oberaula;36280;laboe;plön;1
+oberfell;56332;ingersheim;stuttgart;1
+obergurig;2692;wildenthal;chemnitz;1
+oberhausen;46047;tossens;wesermarsch;1
+oberhausen;46049;ramsbeck;arnsberg;1
+oberhausen;46049;wyk auf föhr;nordfriesland;1
+oberhausen;46117;dreislar;arnsberg;1
+oberhausen;46119;fehmarnsund;ostholstein;1
+oberhausen;46119;priwall peninsula;lübeck;1
+oberhausen;46119;zirkow;rügen;1
+oberhausen;46147;olpenitzdorf;schleswig-flensburg;1
+oberkrämer;16727;jordanshöhe;goslar;1
+obermaßfeld-grimmenthal;98617;fuchshain;leipzig;1
+obernaundorf;1734;finsterbergen;gotha;1
+obernberg am inn;4982;stamsried;upper palatinate;1
+oberreichenbach;75394;pleystein;upper palatinate;1
+oberreichenbach;75394;taufkirchen;lower bavaria;1
+oberstadion;89613;ulm;tübingen;1
+oberstenfeld;71720;priwall peninsula;lübeck;1
+oberstenfeld;71720;willsbach;stuttgart;1
+obertshausen;63179;feichten;upper bavaria;1
+obertshausen;63179;mitte;cologne;1
+ochtrup;48607;medebach;arnsberg;1
+odenthal;51519;kirchhof;kassel;1
+odenthal;51519;priwall peninsula;lübeck;1
+oelde;59302;niendorf/ostsee;ostholstein;1
+oelde;59302;sahlenburg;cuxhaven;1
+oer-erkenschwick;45739;kappeln;schleswig-flensburg;1
+oer-erkenschwick;45739;unterlehen;freiburg;1
+oering;23845;lenzkirch;freiburg;1
+oestrich-winkel;65375;glowe;rügen;1
+oettelin;18246;treptow-köpenick;treptow-köpenick;1
+offenbach;63071;priwall peninsula;lübeck;1
+offenbach;63075;olpenitzdorf;schleswig-flensburg;1
+offenbach am main;63069;bad marienberg;westerwaldkreis;1
+offenburg;77654;bayerbach;lower bavaria;1
+ohrdruf;99885;lubmin;ostvorpommern;1
+oldenburg;26122;wesenberg;mecklenburgische seenplatte;1
+oldenburg;26127;priwall peninsula;lübeck;1
+oldenburg;26133;kappeln;schleswig-flensburg;1
+oldenburg;26133;nuttel;ammerland;1
+oldenburg;26133;westerstede;ammerland;1
+oldenburg;26135;boltenhagen;nordwestmecklenburg;1
+oldenburg;26135;mitte-süd;bremerhaven;1
+oldenburg;26135;vieregge;rügen;1
+olfen;59399;bensersiel;wittmund;1
+olpe;57462;münster;münster;1
+olpe;57462;norddeich;aurich;1
+olpe;57462;sankt peter-ording;nordfriesland;1
+oranienburg;16515;kappeln;schleswig-flensburg;1
+oranienburg;16515;seebad heringsdorf;ostvorpommern;1
+oranienburg;16515;trassenheide;ostvorpommern;1
+oranienburg;16515;zingst;nordvorpommern;1
+oranienburg;16515 oranienburg;trassenheide;ostvorpommern;1
+ortenberg;77799;sankt peter-ording;nordfriesland;1
+oschersleben;39387;eiserfey;cologne;1
+oschersleben;39387;güntersberge;harz;1
+oschersleben;39387;kühlungsborn ost;rostock;1
+osnabrück;49076;kappeln;schleswig-flensburg;1
+osnabrück;49078;rückeberg;schleswig-flensburg;1
+osnabrück;49080;quedlinburg;harz;1
+osnabrück;49082;sankt peter-ording;nordfriesland;1
+osnabrück;49084;wernigerode;harz;1
+osnabrück;49090;bartolfelde;landkreis osterode am harz;1
+osnanrück;49078;westerland;nordfriesland;1
+osterholz - scharmbeck;27711;prora;rügen;1
+osterholz-scharmbeck;27711;gehrden;detmold;1
+osterholz-scharmbeck;27711;malchow;müritz;1
+osterode;37520;hooksiel;friesland;1
+osterode am harz;37520;vieregge;rügen;1
+ottenhofen;85570;karlstadt am main;lower franconia;1
+otterndorf;21762;sahlenburg;cuxhaven;1
+overath;51491;harscheid;ahrweiler;1
+overath;51491;olpenitzdorf;schleswig-flensburg;1
+oyten;28876;duhnen;cuxhaven;1
+oyten;28876;priwall peninsula;lübeck;1
+oyten;28876;winterberg;arnsberg;1
+paderborn;33098;dornumersiel;aurich;1
+paderborn;33098;kappeln;schleswig-flensburg;1
+paderborn;33098;parow;nordvorpommern;1
+paderborn;33100;vieregge;rügen;1
+paderborn;33102;olpenitzdorf;schleswig-flensburg;1
+paderborn;33102;sankt peter-ording;nordfriesland;1
+paderborn;33104;werdum;wittmund;1
+paderborn;33106;kappeln;schleswig-flensburg;1
+pahlen;25794;kappeln;schleswig-flensburg;1
+panketal;16341;cranzahl;chemnitz;1
+panketal;16341;kölpinsee;ostvorpommern;1
+panketal;16341;rittersgrün;chemnitz;1
+panketal;16341;vieregge;rügen;1
+panketal;16341;wustrow;nordvorpommern;1
+parchim;19370;priwall peninsula;lübeck;1
+parkstein;92711;lechbruck;swabia;1
+parsau;38470;dänschendorf;ostholstein;1
+parthenstein;4668;schlettau;chemnitz;1
+pasewalk;17309;boltenhagen;nordwestmecklenburg;1
+pausa;7952;fischen;swabia;1
+peine;31228;niendorf/ostsee;ostholstein;1
+peine;31228;norddeich;aurich;1
+perl;66706;besch;merzig-wadern;1
+perleberg;19348;ahlbeck;ostvorpommern;1
+perleberg;19348;nienhagen;rostock;1
+petersberg;6193;wangen;freiburg;1
+petersberg;36100;reimboldshausen;kassel;1
+petersdorf;15526;groß nemerow;mecklenburgische seenplatte;1
+petershagen;32469;olpenitzdorf;schleswig-flensburg;1
+peterswald-löffelscheid;56858;hambach;neustadt;1
+pforzheim;75181;kappeln;schleswig-flensburg;1
+pinneberg;25421;altenau;goslar;1
+pinneberg;25421;karwe;ostprignitz-ruppin;1
+pinneberg;25421;kühlungsborn;rostock;1
+pinneberg;25421;tarnewitz;nordwestmecklenburg;1
+pinneberg;25421;tetenbüll;nordfriesland;1
+pinnow;16278;peenemünde;ostvorpommern;1
+pirna;1796;viereth;upper franconia;1
+plauen;8523;zingst;nordvorpommern;1
+plauen;8525;juliusruh;rügen;1
+plauen;8527;sobrigau;dresden government region;1
+plettenberg;58840;schillig;friesland;1
+plettenberg;58840;stadtlohn;münster;1
+plochingen;73207;gilgenhöfe;upper bavaria;1
+pogeez;23911;dagebüll;nordfriesland;1
+pohlheim;35415;dümmer;ludwigslust-parchim;1
+pohlheim;35415;olpenitzdorf;schleswig-flensburg;1
+pollenfeld;85131;oberzent;darmstadt;1
+poppenhausen;97490;kühlungsborn-west;rostock;1
+porta westfalica;32457;kappeln;schleswig-flensburg;1
+potsdam;14467;alt travemünde - rönnau;lübeck;1
+potsdam;14467;glowe;rügen;1
+potsdam;14469;bärenfels;dresden government region;1
+potsdam;14469;ostseebad;rügen;1
+potsdam;14469;treptow-köpenick;treptow-köpenick;1
+potsdam;14469;wannsee;steglitz-zehlendorf;1
+potsdam;14471;friedrichskoog;dithmarschen;1
+potsdam;14473;dagebüll;nordfriesland;1
+potsdam;14476;glowe;rügen;1
+potsdam;14480;bad saarow;oder-spree;1
+potsdam;14482;hohenkirchen;nordwestmecklenburg;1
+pr. oldendorf;32361;harlesiel;wittmund;1
+puchheim;82178;enzisweiler;swabia;1
+puchheim;82178;kollnburg;lower bavaria;1
+pößneck;7381;singen;freiburg;1
+quedlinburg;6485;norden;aurich;1
+quickborn;25451;priwall peninsula;lübeck;1
+quierschied;66287;dittishausen;freiburg;1
+quierschied;66287;schönwald im schwarzwald;freiburg;1
+quierschied;66287;vorauf;upper bavaria;1
+qukckborn;25451;grömitz;ostholstein;1
+radbruch;21449;altenmedingen;uelzen;1
+radeberg;1454;wichmannsdorf;nordwestmecklenburg;1
+radebeul;1445;selchow;oder-spree;1
+radebeul;1445;ummanz;rügen;1
+radebeul;1445;zachenberg;lower bavaria;1
+radevormwald;42477;born;detmold;1
+radevormwald;42477;büsum;dithmarschen;1
+radevormwald;42477;glowe;rügen;1
+radevormwald;42477;sellin;rügen;1
+radevormwamd;42477;sandbrink;diepholz;1
+radibor;2627;königssee;upper bavaria;1
+rastatt;76437;deggenhausertal;tübingen;1
+rastatt;76437;hochhausen;stuttgart;1
+rastede;26180;oeventrop;arnsberg;1
+ratekau;23626;binz;rügen;1
+ratekau;23626;heiligenhafen;ostholstein;1
+rathenow;14712;graal-müritz;rostock;1
+rathenow;14712;ühlingen-birkendorf;freiburg;1
+ratingen;40878;haffkrug;ostholstein;1
+ratingen;40878;munzingen;freiburg;1
+ratingen;40880;göhren;rügen;1
+ratingen;40880;wetterburg;kassel;1
+ratingen;40882;cochem;cochem-zell;1
+ratingen;40882;gelting;schleswig-flensburg;1
+ratingen;40882;ulmen;cochem-zell;1
+ratingen;40885;kappeln;schleswig-flensburg;1
+recke;49509;gosdorf;ostholstein;1
+recklinghausen;45659;priwall peninsula;lübeck;1
+rees;46459;cappel;cuxhaven;1
+rees;46459;juliusruh;rügen;1
+regensburg;93049;gifhorn;gifhorn;1
+regensburg;93049;vorderreckenberg;lower bavaria;1
+regensburg;93051;luitpolderhöfe;upper bavaria;1
+regensburg;93051;woppenrieth;upper palatinate;1
+regensburg;93055;krakow am see;rostock;1
+rehfelde;15345;bansin;ostvorpommern;1
+reichenbach;8468;wachenheim;bad dürkheim;1
+reichenberg;1468;dargersdorf;uckermark;1
+reichenberg;97234;dießen am ammersee;upper bavaria;1
+reilingen;68799;battenhausen;kassel;1
+reinardshagen;34359;rottweil;freiburg;1
+reinbek;21465;kappeln;schleswig-flensburg;1
+reinbek;21465;priwall peninsula;lübeck;1
+reinbek;21465;wittdün;nordfriesland;1
+reinbek;22465;wall;nordfriesland;1
+reinfeld;23858;sankt peter-ording;nordfriesland;1
+reinhardshagen;34359;olpenitzdorf;schleswig-flensburg;1
+reinsbüttel;25764;buchenberg;swabia;1
+reiskirchen;35447;klingenthal;chemnitz;1
+reiskirchen;35447;röhrnbach;lower bavaria;1
+reiskirchen;35447;teßmannsdorf;rostock;1
+reken;48734;lehe;ammerland;1
+reken;48734;wyk auf föhr;nordfriesland;1
+rellingen;25462;ostseebad;rügen;1
+rellingen;25462;sellin;rügen;1
+remagen;53424;mitte-süd;bremerhaven;1
+remagen;53424;ummanz;rügen;1
+remlingen;38319;dagebüll;nordfriesland;1
+remscheid;42897;sophienthal;westerwaldkreis;1
+remscheid;42899;lenzkirch;freiburg;1
+remseck;71686;greetsiel;aurich;1
+remseck;71686;lubmin;ostvorpommern;1
+rendsburg;24768;jordanshöhe;goslar;1
+renkenberge;49762;blomberg;aurich;1
+rethwisch;23847;benneckenstein;harz;1
+reutlingen;72762;grunern;freiburg;1
+reutlingen;72762;jechtingen;freiburg;1
+rhauderfehn;26817;landschaftspolder;leer;1
+rheda-wiedenbrück;33378;oberlahr;altenkirchen (westerwald);1
+rheda-wiedenbrück;33378;scharbeutz;ostholstein;1
+rheda-wiedenbrück;33378;schönberger strand;plön;1
+rhede;46414;blaustein;tübingen;1
+rhede;46414;nordheim;stuttgart;1
+rheinbach;53359;goldhausen;kassel;1
+rheine;48429;fedderwardersiel;wesermarsch;1
+rheine;48431;stinteck;dithmarschen;1
+rheinsberg;16831;altefähr;rügen;1
+rheinsetten;76287;barnekow;nordwestmecklenburg;1
+rickling;24635;fuhlendorf;nordvorpommern;1
+riedenburg;93339;poel;nordwestmecklenburg;1
+riedern;63928;bürgstadt;lower franconia;1
+riedern;63928;hambrunn;lower franconia;1
+riedern;63928;waldbrunn;karlsruhe;1
+riegelsberg;66292;briedel;cochem-zell;1
+riesa;1589;wieck a. darß;nordvorpommern;1
+rieste;49597;priwall peninsula;lübeck;1
+rinteln;31737;großenbrode;ostholstein;1
+rinteln;31737;schönhagen;rendsburg-eckernförde;1
+rinteln;31737;thale;harz;1
+risum-lindholm;25920;ehlbeck;lüneburg;1
+rittersdorf;54636;reichenbach;freiburg;1
+rockenberg;35519;jordanshöhe;goslar;1
+rockenberg;35519;ummanz;rügen;1
+rodewisch;8228;burhave;wesermarsch;1
+rodgau;63110;berliner innenstadt;berliner innenstadt;1
+rodgau;63110;lichtenberg;upper franconia;1
+rodgau;63110;neßmersiel;aurich;1
+roetgen;52159;ditzumerverlaat;leer;1
+roggentin;18184;bad stuer;mecklenburgische seenplatte;1
+roggentin;18184;stinteck;dithmarschen;1
+ronnemberg;30952;hooksiel;friesland;1
+ronnenberg;30952;jordanshöhe;goslar;1
+ronnenberg;30952;neuharlingersiel;wittmund;1
+rosengarten;21224;juliusruh;rügen;1
+rosengarten;21224;zingst;nordvorpommern;1
+rosenthal am rennsteig;7366;zingst;nordvorpommern;1
+roskow;14778;kühlungsborn;rostock;1
+rosswein;4741;ostseebad;rügen;1
+rostock;18055;juliusruh;rügen;1
+rostock;18055;krakow am see;rostock;1
+rostock;18069;heringsdorf;ostvorpommern;1
+rostock;18069;prohn;nordvorpommern;1
+rostock;18069;sepel;plön;1
+rostock;18109;wienrode;harz;1
+rotenburg;36199;lindig;saale-holzland-kreis;1
+rottenburg;72108;jemgum;leer;1
+rottenburg;72108;priwall peninsula;lübeck;1
+rottendorf;97228;neustadt am rennsteig;langer berg;1
+rottweil;78628;markelfingen;freiburg;1
+rumohr;24254;eichet;upper bavaria;1
+ruppertsweiler;66957;niederkail;bernkastel-wittlich;1
+rustow;17121;hohen wieschendorf;nordwestmecklenburg;1
+rägelin;16818;alt travemünde - rönnau;lübeck;1
+rägelin;16818;sankt peter-ording;nordfriesland;1
+rödental;96472;edersee;kassel;1
+röderland ot saathain;4932;quetzin;ludwigslust-parchim;1
+rödinghausen;32289;greetsiel;aurich;1
+rödinghausen;32289;schwittersum;aurich;1
+rösrath;51503;tossens;wesermarsch;1
+rösrath;51503;wetterburg;kassel;1
+rüdesheim am rhein;65385;inzell;upper bavaria;1
+rühen;38471;kühlungsborn ost;rostock;1
+rüsselsheim;65428;edersee;kassel;1
+rüsselsheim;65428;hohen wieschendorf;nordwestmecklenburg;1
+rüsselsheim;65428;merzalben;südwestpfalz;1
+saalfeld;7318;neppermin;ostvorpommern;1
+saalfeld/saale;7318;herrenkrug;magdeburg;1
+saarbrücken;66115;losheim am see;merzig-wadern;1
+saarbrücken;66121;ostseebad damp;rendsburg-eckernförde;1
+saarbrücken;66123;bad dürkheim;bad dürkheim;1
+saarbrücken;66125;ockfen;trier-saarburg;1
+sachsen - delitzsch;4509;selbig;freiburg;1
+sachsen-anhalt - braunsbedra;6242;scheuern;karlsruhe;1
+sachsenheim;74343;altstadt;freiburg;1
+sachsenheim;74343;rodt;karlsruhe;1
+salach;73084;feldafing;upper bavaria;1
+salem;88682;greifswald;ostvorpommern;1
+salzatal;6198;frauenwald;ilm-kreis;1
+salzgitter;38239;bastorf;rostock;1
+salzgitter;38258;sahlenburg;cuxhaven;1
+salzgitter;38259;bichl;upper bavaria;1
+salzgitter;38259;holm;plön;1
+salzkotten;33154;thiessow;rügen;1
+salzkotten;33154;wendtorfer strand;plön;1
+sangerhausen;6526;milbertshofen-am hart;upper bavaria;1
+sangerhausen;6526;prerow;nordvorpommern;1
+sankt augustin;53757;grimersum;aurich;1
+sankt augustin;53757;prora;rügen;1
+sarbish;stuttgart;sondernheim;germersheim;1
+sarstedt;31157;alt travemünde - rönnau;lübeck;1
+sarstedt;31157;klanxbüll;nordfriesland;1
+sassenberg;48336;groß zicker;rügen;1
+sassenburg;38524;surendorf;rendsburg-eckernförde;1
+satteldorf;74589;oberbirken;freiburg;1
+sauerlach;82054;zandt;upper palatinate;1
+schacht audorf;24790;priwall peninsula;lübeck;1
+schauenburg;34270;kopendorf;ostholstein;1
+scheden;37127;arle;aurich;1
+schenefeld;22869;priwall peninsula;lübeck;1
+schenefeld;22869;sassnitz;rügen;1
+schenefeld;22869;westerland;nordfriesland;1
+schieder schwalenberg;32816;burhave;wesermarsch;1
+schiffdorf;27619;retzow;uckermark;1
+schifferstadt;67105;esthal;bad dürkheim;1
+schifferstadt;67105;neßmersiel;aurich;1
+schirgiswalde-kirschau;2681;wyk auf föhr;nordfriesland;1
+schkeuditz;4435;geierswalde;dresden government region;1
+schlangenbad;65388;frankengut;upper franconia;1
+schlangenbad;65388;nienhagen;rostock;1
+schleswig;24837;birkenfeld;birkenfeld;1
+schleswig-holstein - rickling;24635;neustadt;ostholstein;1
+schlitz;36110;hinterzarten;freiburg;1
+schloss holte stukenbrock;33758;burhave;wesermarsch;1
+schloß holte;33758;westerdeich;nordfriesland;1
+schlöben;7646;prora;rügen;1
+schlüchtern;36381;kappeln;schleswig-flensburg;1
+schlüchtern;36381;priwall peninsula;lübeck;1
+schmelz;66839;bokel;gifhorn;1
+schneeberg;8289;eußenheim;lower franconia;1
+schongau;86956;trainmeusel;upper franconia;1
+schonungen;97453;bischberg;upper franconia;1
+schonungen;97453;norddeich;aurich;1
+schorndorf;73614;lichtenau;karlsruhe;1
+schortens;26419;neuruppin;ostprignitz-ruppin;1
+schortens;26419;scharbeutz;ostholstein;1
+schrecksbach;34647;wenningstedt-braderup;nordfriesland;1
+schuby;24850;bremm;cochem-zell;1
+schwabach;91126;schwarbe;rügen;1
+schwaförden;27252;blankenburg;harz;1
+schwaig;90571;zachenberg;lower bavaria;1
+schwaig bei nürnberg;90571;bad peterstal-griesbach;freiburg;1
+schwaigern;74193;eckernförde;rendsburg-eckernförde;1
+schwalmtal;41366;dangast;friesland;1
+schwanstetten;90480;meersburg;tübingen;1
+schwarzach;97359;friesenried;swabia;1
+schwarzenbach a.wald;95131;ruhpolding;upper bavaria;1
+schwedeneck;24229;alkersum;nordfriesland;1
+schwedt;16303;seebad heringsdorf;ostvorpommern;1
+schweppenhausen;55444;lünebach;bitburg-prüm;1
+schwerin;19055;seebad heringsdorf;ostvorpommern;1
+schwerin;19057;priwall peninsula;lübeck;1
+schwerin;19057;wernigerode;harz;1
+schwerin;19061;göhren;rügen;1
+schwerte;58239;heiligenhafen;ostholstein;1
+schwerte;58239;kating;nordfriesland;1
+schwerte;58239;oeventrop;arnsberg;1
+schwerte;58239;schönhagen;rendsburg-eckernförde;1
+schwetzingen;68723;sasbach am kaiserstuhl;freiburg;1
+schwielowsee;14548;groß schwansee;nordwestmecklenburg;1
+schöffengrund;35641;borghorst;münster;1
+schömberg;75328;baabe;rügen;1
+schönebeck;39218;melzingen;altes amt ebstorf;1
+schönefeld;12529;berchtesgaden;upper bavaria;1
+schönefeld;12529;zerpenschleuse;barnim;1
+schöneiche;15566;altefähr;rügen;1
+schönstedt;99947;waren;müritz;1
+schönstedt;99947;wieck a. darß;nordvorpommern;1
+schönwald;78141;rietheim;freiburg;1
+schönwalde-glien;14621;ahlbeck;ostvorpommern;1
+schöppenstedt;38170;dierhagen strand;nordvorpommern;1
+schöppenstedt;38170;rerik;rostock;1
+schöppingen;48624;olpenitzdorf;schleswig-flensburg;1
+schülldorf;24790;wilsche;gifhorn;1
+seebad bansin;17429;sellin;rügen;1
+seedorf;23883;ostseebad;rügen;1
+seegebiet mansfelder land;6317;ahlbeck;ostvorpommern;1
+seeland ot nachterstedt;6469;sellin;rügen;1
+seeligstadt;1909;müritz;rostock;1
+seelze;30926;sandbrink;diepholz;1
+seelze;30926;schonach im schwarzwald;freiburg;1
+seesen;38723;dagebüll;nordfriesland;1
+seesen;38723;olpenitzdorf;schleswig-flensburg;1
+seesen;38723;ortmühle;ostholstein;1
+seevetal;21217;poel;nordwestmecklenburg;1
+seevetal;21220;eckernförde;rendsburg-eckernförde;1
+seevetal;21220;heiligenhafen;ostholstein;1
+seevetal;21220;mittenwald;upper bavaria;1
+seevetal;21220;priwall peninsula;lübeck;1
+seevetal;21220;wyk auf föhr;nordfriesland;1
+sehnde;31319;großenbrode;ostholstein;1
+sehnde;31319;koserow;ostvorpommern;1
+sehnde;31319;pelzerhaken;ostholstein;1
+sehnde;31319;scharbeutz;ostholstein;1
+sehnde;31319;zingst;nordvorpommern;1
+selben;4509;zingst;nordvorpommern;1
+selfkant-höngen;52538;kronenburg;cologne;1
+seligenstadt;63500;brigach;freiburg;1
+seligenstadt;63500;wyk auf föhr;nordfriesland;1
+seligenstadt;63500;zellhausen;darmstadt;1
+selm;59379;borkum;leer;1
+selm- bork;59379;lehe;ammerland;1
+selsingen;27446;vieregge;rügen;1
+senden;48308;sandbrink;diepholz;1
+senden;48308;winterberg;arnsberg;1
+sibbesse;31079;vieregge;rügen;1
+siegburg;53721;heiligenhafen;ostholstein;1
+siegburg;53721;roes;cochem-zell;1
+siegburg;53721;schillig;friesland;1
+siegen;57072;osterby;rendsburg-eckernförde;1
+siestedt;39356;schönhagen;rendsburg-eckernförde;1
+simmern;55469;großenbrode;ostholstein;1
+sindelfingen;71063;schillig;friesland;1
+sinsheim;74889;frankengut;upper franconia;1
+sinsheim;74889;waldbrunn;karlsruhe;1
+soderstorf/ ot rolfsen;21388;börgerende;rostock;1
+soest;59494;föhrental;freiburg;1
+sogel;49751;neukirchen;kassel;1
+sohland a.r.;2894;zirchow;ostvorpommern;1
+solingen;42651;veldenz;bernkastel-wittlich;1
+solingen;42655;burhave;wesermarsch;1
+solingen;42697;suderburg;uelzen;1
+solingen;42719;neßmersiel;aurich;1
+sondershausen;99706;montabaur;westerwaldkreis;1
+sondershausen;99706;zirchow;ostvorpommern;1
+sonstiges baugewerbe;98646;knittelsheim;germersheim;1
+sonthofen;87527;karlshagen;ostvorpommern;1
+sossenheim;65936;priwall peninsula;lübeck;1
+sottrum;27367;zingst;nordvorpommern;1
+spangenberg;34286;alt travemünde - rönnau;lübeck;1
+spenge;32139;mömlingen;lower franconia;1
+speyer;67346;wilhelmshaven;wilhelmshaven;1
+springe;31832;kappeln;schleswig-flensburg;1
+springe;31832;norddeich;aurich;1
+springe;31832;waren;müritz;1
+st augustin;53757;niedersfeld;arnsberg;1
+st. ingbert;66386;kappeln;schleswig-flensburg;1
+st. leon-rot;68789;waldkatzenbach;karlsruhe;1
+st.ingbert;66836;sachsenhausen;darmstadt;1
+stade;21680;heligoland;pinneberg;1
+stade;21682;rankwitz;ostvorpommern;1
+stade;21682;sandbrink;diepholz;1
+stadtallendorf;35260;frielendorf;kassel;1
+stadthagen;31655;grömitz;ostholstein;1
+stadtilm;99326;rerik;rostock;1
+stadtoldendorf;37627;kappeln;schleswig-flensburg;1
+stapelburg;38871;tossens;wesermarsch;1
+staufenberg;34355;reinerzau;karlsruhe;1
+stavern;49777;dangast;friesland;1
+steffenberg;35239;dierhagen strand;nordvorpommern;1
+stegaurach;96135;stralsund;nordvorpommern;1
+stegaurach;96135;söcking;upper bavaria;1
+stein;83371;kaiserslautern;kaiserslautern;1
+steinfurt;48565;kühlungsborn;rostock;1
+steinfurt;48565;sankt peter-ording;nordfriesland;1
+steinhagen;33803;kappeln;schleswig-flensburg;1
+steinhagen;33803;scharbeutz;ostholstein;1
+steinhagne;33803;dornumersiel;aurich;1
+steißlingen;78256;großwaabs;rendsburg-eckernförde;1
+stelle;21435;oberstdorf;swabia;1
+stemwede;32351;neuringe;emsland;1
+stendal;39576;kellenhusen;ostholstein;1
+stendal;39576;stiege;harz;1
+stipsdorf;23795;pelzerhaken;ostholstein;1
+stockelsdorf;23617;alt travemünde - rönnau;lübeck;1
+stockelsdorf;23617;todendorf;ostholstein;1
+stockstadt am rhein;64589;dagebüll;nordfriesland;1
+stolpe;24601;haffkrug;ostholstein;1
+storkow;15859;großwürden;wesermarsch;1
+storkow;15859;wilhelmsthal;upper franconia;1
+stralsund;18439;binz;rügen;1
+stralsund;18439;schierke;harz;1
+stralsund;18439;stralsund;nordvorpommern;1
+strausberg;15344;priwall peninsula;lübeck;1
+stuhr;28816;boltenhagen;nordwestmecklenburg;1
+stuhr;28816;deggenhausertal;tübingen;1
+stuhr;28816;jordanshöhe;goslar;1
+stuhr;28816;priwall peninsula;lübeck;1
+stuttgart;6553;rerik;rostock;1
+stuttgart;70178;bad wurzach;tübingen;1
+stuttgart;70180;unterkirnach;freiburg;1
+stuttgart;70184;friedrichshafen;tübingen;1
+stuttgart;70184;mundelfingen;freiburg;1
+stuttgart;70192;oberperlasberg;lower bavaria;1
+stuttgart;70378;sankt peter-ording;nordfriesland;1
+stuttgart;70469;insel;swabia;1
+stuttgart;70563;berchtesgaden;upper bavaria;1
+stuttgart;70563;breitbrunn am chiemsee;upper bavaria;1
+stuttgart;70569;neutrauchburg;tübingen;1
+stuttgart;70597;unter-mossau;darmstadt;1
+stuttgart;d-70567;groß charlottengroden;wittmund;1
+stuttgart untertürkheim;70327;westerland;nordfriesland;1
+suhl;98528;untergöhren;mecklenburgische seenplatte;1
+suhl;98529;börgerende;rostock;1
+sukow;19079;juliusruh;rügen;1
+sulingen;27232;schwalenberg;detmold;1
+sulzbach saar;66280;kappeln;schleswig-flensburg;1
+sulzburg;79295;häusern;freiburg;1
+sundern;59846;warnemünde;rostock;1
+sundhagen;18519;gammendorf;ostholstein;1
+swisttal;53913;sandbrink;diepholz;1
+swisttal;53913;westerland;nordfriesland;1
+sömmerda;99610;gager;rügen;1
+südergellersen;21394;priwall peninsula;lübeck;1
+südharz;6536;röbel;mecklenburgische seenplatte;1
+südstadt köln;50968;sandbrink;diepholz;1
+tambach-dietharz;99897;feichten;upper bavaria;1
+tangerhütte;39517;rerik;rostock;1
+tarmstedt;27412;dorumer neufeld;cuxhaven;1
+tarmstedt;28412;kappeln;schleswig-flensburg;1
+teistungen;37339;wilhelmshagen;treptow-köpenick;1
+telgte;48291;eslohe;arnsberg;1
+tellingstedt;25782;dahme;ostholstein;1
+teltow;14513;babelsberg nord;potsdam-mittelmark;1
+teltow;14513;kappeln;schleswig-flensburg;1
+teltow;14513;koserow;ostvorpommern;1
+templin;17268;kühlungsborn ost;rostock;1
+templin;17268;wolgast;ostvorpommern;1
+teningen;79331;rerik;rostock;1
+test;123;kius;schleswig-flensburg;1
+test;123;zempin;ostvorpommern;1
+teterow;17166;warnemünde;rostock;1
+teuschnitz;96358;penzlin;mecklenburgische seenplatte;1
+teutschenthal;6179;bad doberan;rostock;1
+teutschenthal;6179;solkendorf;nordvorpommern;1
+thale;6502;haffkrug;ostholstein;1
+thalheim;9380;börgerende;rostock;1
+themar;98660;finsterbergen;gotha;1
+thierbach;6721;ravensberg;rostock;1
+timmendorfer strand;23669;alt travemünde - rönnau;lübeck;1
+timmendorfer strand;23669;timmendorfer strand;ostholstein;1
+tirpersdorf;8606;liebethal;dresden government region;1
+titisee-neustadt;79822;wieck a. darß;nordvorpommern;1
+torgau;4860;reutenen;stuttgart;1
+torgau;4860;rittersgrün;chemnitz;1
+tostedt;21255;lensterstrand;ostholstein;1
+treia;24896;friedrichskoog-spitze;dithmarschen;1
+tremsbüttel;22967;detershagen;rostock;1
+treuchtlingen;91757;stollhamm;wesermarsch;1
+trier;54290;ettringen;mayen-koblenz;1
+trier;54292;tübingen;tübingen;1
+troisdorf;53842;malchow;müritz;1
+trossin;4880;bentwisch;rostock;1
+trostberg;83308;neuenburg am rhein;freiburg;1
+tuttlingen;78532;wenningstedt-braderup;nordfriesland;1
+tutzing;82327;überlingen;tübingen;1
+twistringen;27239;brasselsberg;kassel;1
+tönisvorst;47918;klingberg;ostholstein;1
+tönisvorst;47918;norddeich;aurich;1
+tönisvorst;47918;wilhelmshaven;wilhelmshaven;1
+tübingen;72072;ferienpark himmelberg;bernkastel-wittlich;1
+tübingen;72072;oberdorf;swabia;1
+tülau;38474;neuschönberg;plön;1
+uedem;47589;ober-waroldern;kassel;1
+uelzen;29525;westerland;nordfriesland;1
+uetersen;25436;spandau;spandau;1
+uetersen;25436;wendtorfer strand;plön;1
+uetze;31311;burhave;wesermarsch;1
+ulm;89073;altefähr;rügen;1
+ulm;89075;pribbenow;mecklenburgische seenplatte;1
+ulrichstein;35327;innenstadt;lübeck;1
+unkel;53572;burhafe;wittmund;1
+unna;59423;bestwig;arnsberg;1
+unna;59425;burhave;wesermarsch;1
+unna;59427;prerow;nordvorpommern;1
+unna;59427;waddens;wesermarsch;1
+unstrut hainich ot weberstedt;99991;altefähr;rügen;1
+unterschleißheim;85716;jarplund;schleswig-flensburg;1
+uslar;37170;priwall peninsula;lübeck;1
+vaterstetten;85591;viechtach;lower bavaria;1
+vechta;49377;drochtersen;stade;1
+veitsrodt;55758;titisee;freiburg;1
+velbert;42549;tinnum;nordfriesland;1
+vellmar;34246;rerik;rostock;1
+venhaus;48480;priwall peninsula;lübeck;1
+verden;27283;ostseebad;rügen;1
+verden;27283;wustrow;nordvorpommern;1
+verl;33415;kappeln;schleswig-flensburg;1
+verl;33415;priwall peninsula;lübeck;1
+versmold;33775;molbitz;rositz;1
+versmold;33775;tossens;wesermarsch;1
+vettweiß - disternich;52391;usedom;ostvorpommern;1
+viernheim;68519;sankt peter-ording;nordfriesland;1
+viersen;41749;töttelstädt;erfurt;1
+vlotho;32602;kasnevitz;rügen;1
+volkach;97332;volkach;lower franconia;1
+vollersroda;99438;stralsund;nordvorpommern;1
+vs-villingen;78050;biederbach;freiburg;1
+völkersen;27299;schönhagen;rendsburg-eckernförde;1
+wacgenheim;67157;ostholstein;ostholstein;1
+wachenroth;96193;müritz;rostock;1
+wackersberg;83646;gilgenhöfe;upper bavaria;1
+waffensen;27356;schönhagen;rendsburg-eckernförde;1
+waghäusel;68753;königsfeld;upper franconia;1
+waiblingen;71334;kappel;freiburg;1
+waibstadt;74915;brigach;freiburg;1
+wald-michelbach;69483;malchow;müritz;1
+waldbrunn;69429;jemgum;leer;1
+waldfeucht;52525;minsen;friesland;1
+waldkirchen;94065;ahrweiler;ahrweiler;1
+wallenhorst;49134;burhave;wesermarsch;1
+wallenhorst;49134;zingst;nordvorpommern;1
+wallerfangen;66798;merzalben;südwestpfalz;1
+wallerstein;86757;geierswalde;dresden government region;1
+walsrode;29664;cuxhaven;cuxhaven;1
+waltrop;45731;dornumersiel;aurich;1
+walzbachtal;75045;westerland;nordfriesland;1
+wanderup;24997;kappeln;schleswig-flensburg;1
+wandlitz;16348;ostseebad;rügen;1
+wanzleben;39164;zingst;nordvorpommern;1
+warburg;34414;heiligenhafen;ostholstein;1
+wardenburg;26203;sankt peter-ording;nordfriesland;1
+waren (müritz);17192;unterlohwies;lower bavaria;1
+warendorf;48231;boltenhagen;nordwestmecklenburg;1
+warendorf;48231;sandbrink;diepholz;1
+warin;19417;hohendorf;nordvorpommern;1
+warnemünde;18119;sassnitz;rügen;1
+wattenbek;24582;olpenitzdorf;schleswig-flensburg;1
+weddelbrook;24576;timmendorfer strand;ostholstein;1
+wedemark;30900;lütjenhorn;nordfriesland;1
+wedemark;30900;sankt peter-ording;nordfriesland;1
+wedemark;30900;sassnitz;rügen;1
+wedemark;30900;tossens;wesermarsch;1
+wehlen;1829;schillig;friesland;1
+weida;7570;rerik;rostock;1
+weil im schönbuch;71093;börgerende;rostock;1
+weimar;99423;rehbach;kassel;1
+weimar;99423;thale;harz;1
+weimar;99427;schwerin;ludwigslust-parchim;1
+weinheim;69469;lensterstrand;ostholstein;1
+weinstadt;71384;oberdorf;swabia;1
+weisenheim am sand;67256;friedrichskoog-spitze;dithmarschen;1
+weissenfels;6667;binz;rügen;1
+weitendorf;19412;kühlungsborn;rostock;1
+weißenhorn;89264;born a. darß;nordvorpommern;1
+weißenhorn;89264;vorderhindelang;swabia;1
+weißenthurm;56575;boltenhagen;nordwestmecklenburg;1
+weißwasser;2943;solkendorf;nordvorpommern;1
+welzheim;73642;buggensegel;tübingen;1
+wenden;57482;zirchow;ostvorpommern;1
+wennigsen;30974;wendtorfer strand;plön;1
+wentorf;21465;westerland;nordfriesland;1
+wentorf bei hamburg;21465;thale;harz;1
+wentorf bei hh;21465;priwall peninsula;lübeck;1
+werdau;8412;aschau im chiemgau;upper bavaria;1
+werdau;8412;sillens;wesermarsch;1
+wermelskirchen;42929;worms;worms;1
+werne;59368;graal;rostock;1
+werne;59368;wissinghausen;arnsberg;1
+werneuchen ot seefeld;16356;hiddensee;rügen;1
+wernigerode;38855;alt travemünde - rönnau;lübeck;1
+wesel;46483;tossens;wesermarsch;1
+wesseling;50389;niendorf/ostsee;ostholstein;1
+westerburg;38836;neuendorf;ostvorpommern;1
+westerburg;56457;borod;westerwaldkreis;1
+westerstede;26655;norderney;aurich;1
+westoverledingen;26810;bad herrenalb;karlsruhe;1
+wettenberg;35435;kühlungsborn;rostock;1
+wettin-löbejün, o.t. merbitz;6193;timmendorfer strand;ostholstein;1
+wettringen;48493;hohenkirchen;friesland;1
+wetzlar;35583;hooksiel;friesland;1
+wiefelstede;26215;hasselfelde;harz;1
+wiehl;51674;roes;cochem-zell;1
+wiesbaden;65191;großenbrode;ostholstein;1
+wiesbaden;65191;zirchow;ostvorpommern;1
+wiesbaden;65195;tegernsee;upper bavaria;1
+wiesbaden;65197;merzalben;südwestpfalz;1
+wiesbaden;65199;plau am see;ludwigslust-parchim;1
+wiesbaden;65201;hofstetten;freiburg;1
+wiesbaden;65201;wangern;nordwestmecklenburg;1
+wiesbaden;65203;siedelsbrunn;darmstadt;1
+wiesbaum;54578;norddeich;aurich;1
+wiesensteig;73349;gschwall;upper bavaria;1
+wiesentheid;97353;litzldorf;upper bavaria;1
+wiesloch;69168;redewisch;nordwestmecklenburg;1
+wietmarschen;49835;strotzbüsch;vulkaneifel;1
+wietmarschen-lohne;49835;niederwasser;freiburg;1
+wietzen;31613;kellenhusen;ostholstein;1
+wildau;15745;teßmannsdorf;rostock;1
+wilhelmsdorf;88271;allmannsweier;freiburg;1
+wilhelmshaven;26382;au;upper bavaria;1
+wilhelmshaven;26388;drochtersen;stade;1
+willich;47877;norddeich;aurich;1
+willich;47877;stralsund;nordvorpommern;1
+wilsdruff;1723;großkoschen;oberspreewald-lausitz;1
+wilsdruff;1723;hohendorf;nordvorpommern;1
+wilsdruff;1723;koserow;ostvorpommern;1
+windhagen;53578;horressen;westerwaldkreis;1
+wingst;21789;unterwössen;upper bavaria;1
+winkelhaid;90610;nordholz;cuxhaven;1
+winsen;21423;neeberg;krummin;1
+winsen;21423;sieber;landkreis osterode am harz;1
+winsen luhe;21433;fehmarn;ostholstein;1
+winsen/luhe;21423;olpenitzdorf;schleswig-flensburg;1
+wismar;23966;schaprode;rügen;1
+wismar;23968;hohendorf;nordvorpommern;1
+wittdün;25946;jordanshöhe;goslar;1
+witten;58452;büsum;dithmarschen;1
+witten;58543;lensterstrand;ostholstein;1
+wittenberg;6886;zingst;nordvorpommern;1
+wittenberhe;19322;nenzhäuserhof;rhein-hunsrück-kreis;1
+wittenförden;19073;bärndorf;lower bavaria;1
+wittmund;26409;stiekelkamperfehn;leer;1
+wittstock/dosse ot wulfersdorf;16909;ahrenshoop;nordvorpommern;1
+wolfenbüttel;38300;büsum;dithmarschen;1
+wolfenbüttel;38300;wittdün;nordfriesland;1
+wolfenbüttel;38302;norddeich;aurich;1
+wolfenbüttel;38302;staberdorf;ostholstein;1
+wolfenbüttel;38304;eckernförde;rendsburg-eckernförde;1
+wolfhagen;34466;burhave;wesermarsch;1
+wolfratshausen;82515;wagensteig;freiburg;1
+wolfsburg;38440;norddeich;aurich;1
+wolfsburg;38442;burhave;wesermarsch;1
+wolfsburg;38444;altenau;goslar;1
+wolfsburg;38446;jordanshöhe;goslar;1
+wolfsburg;38446;wangern;nordwestmecklenburg;1
+wolfsburg;38448;wustrow;nordvorpommern;1
+wolgast;17438;binz;rügen;1
+wolgast;17438;woppenrieth;upper palatinate;1
+wolmirstedt;39326;kühlungsborn;rostock;1
+wolnzach;85283;warnemünde;rostock;1
+woringen;87789;altefähr;rügen;1
+worms;67547;elend;harz;1
+worms;67551;bolsterlang;swabia;1
+worpswede;27726;lüdingworth;cuxhaven;1
+worpswede;27726;olpenitzdorf;schleswig-flensburg;1
+worpswede;27726;seebad heringsdorf;ostvorpommern;1
+wulkenzin;17039;warnemünde;rostock;1
+wunstorf;31515;hafendorf;mecklenburgische seenplatte;1
+wunstorf;31515;kappeln;schleswig-flensburg;1
+wunstorf;31515;sierksdorf;ostholstein;1
+wuppertal;42103;cochem;cochem-zell;1
+wuppertal;42105;wallenborn;vulkaneifel;1
+wuppertal;42107;schwalefeld;kassel;1
+wuppertal;42109;krems ii;segeberg;1
+wuppertal;42109;prüm;bitburg-prüm;1
+wuppertal;42109;sandbrink;diepholz;1
+wuppertal;42109;warsingsfehn;leer;1
+wuppertal;42111;hooksiel;friesland;1
+wuppertal;42113;neßmersiel;aurich;1
+wuppertal;42115;oeventrop;arnsberg;1
+wuppertal;42117;rumphorst;münster;1
+wuppertal;42119;canow;mecklenburgische seenplatte;1
+wuppertal;42281;cochem;cochem-zell;1
+wuppertal;42283;timmel;aurich;1
+wuppertal;42283;wiesbaden;darmstadt;1
+wuppertal;42327;bansin;ostvorpommern;1
+wuppertal;42327;gerolstein;vulkaneifel;1
+wuppertal;42349;poel;nordwestmecklenburg;1
+wuppertal;42349;stanggaß;upper bavaria;1
+wuppertal;42349;titmaringhausen;arnsberg;1
+wuppertal;42369;medebach;arnsberg;1
+wuppertal - elberfeld;42111;neßmersiel;aurich;1
+wuppertaö;42285;hooksiel;friesland;1
+wurster-nordseeküste;27639;mönkebüll;nordfriesland;1
+wustermark;14641;kölpinsee;ostvorpommern;1
+wustermark;14641;triberg;freiburg;1
+wusterwitz;14789;harlesiel;wittmund;1
+wusterwitz;14789;hasselfelde;harz;1
+wächtersbach;63607;haffkrug;ostholstein;1
+wülfrath;42489;großenbrode;ostholstein;1
+würzburg;97082;kappeln;schleswig-flensburg;1
+würzburg;97084;stadlern;upper palatinate;1
+wüstenrot;71543;ichenheim;freiburg;1
+wüstenrot;71543;norderteil;cuxhaven;1
+zehdenick;16792;bansin;ostvorpommern;1
+zeil;97475;zachenberg;lower bavaria;1
+zeitz;6712;bad suderode;harz;1
+zerbst;39261;prora;rügen;1
+zeuthen;15738;prora;rügen;1
+ziepel;39291;sassnitz;rügen;1
+zinnowitz, ostseebad;17454;obertaching;upper bavaria;1
+zossen;15806;dagebüll;nordfriesland;1
+zwenkau;4442;issigau;upper franconia;1
+zwenkau;4442;sellin;rügen;1
+zwickau;8060;nienhagen;rostock;1
+zwingenberg;64673;sassnitz;rügen;1
+östringen;76684;unterlohwies;lower bavaria;1
+übach-palenberg;52531;dickenschied;rhein-hunsrück-kreis;1
+überlingen;88662;hessenwinkel;treptow-köpenick;1

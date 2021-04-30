@@ -1,0 +1,2860 @@
+origin,destination,number of trips,CO2 in grams
+"bocholt,46399","humboldt - gremberg,cologne",3,84399
+"münster,48161","sankt peter-ording,nordfriesland",3,217113
+"schülldorf,24790","gifhorn,gifhorn",3,167892
+"bad oldesloe,23843","brandshagen,nordvorpommern",2,100684
+"bad saarow,15526","priwall peninsula,lübeck",2,150594
+"berlin,12683","niendorf/ostsee,ostholstein",2,131394
+"berlin,14197","dümmer,ludwigslust-parchim",2,99264
+"bielefeld,33649","hohen schönberg,nordwestmecklenburg",2,151270
+"bockenem,31167","norddeich,aurich",2,143278
+"brekendorf,24811","zierow,nordwestmecklenburg",2,67414
+"delmenhorst,27755","dagebüll,nordfriesland",2,101078
+"frankfurt,60528","sachsenhausen,darmstadt",2,2486
+"garbsen,30826","boltenhagen,nordwestmecklenburg",2,108106
+"gütersloh,33332","humboldt - gremberg,cologne",2,77270
+"hamburg,21037","priwall peninsula,lübeck",2,39108
+"hannover,30457","sankt andreasberg,goslar",2,47606
+"herborn,35745","regenhütte,lower bavaria",2,210764
+"kamen,59174","wremen,cuxhaven",2,125892
+"kriftel,65830","großenbrode,ostholstein",2,271522
+"königstein,61462","faulbach,kassel",2,80048
+"langenhagen,30855","großenbrode,ostholstein",2,121994
+"leipzig,4229","zingst,nordvorpommern",2,185370
+"leonberg,71229","wiarden,friesland",2,291764
+"lingen,49811","tossens,wesermarsch",2,69014
+"lüchow,29439","priwall peninsula,lübeck",2,59014
+"meinerzhagen,58540","roggentin,mecklenburgische seenplatte",2,229788
+"münchen,80469","inzell,upper bavaria",2,51478
+"parchim,19370","zingst,nordvorpommern",2,66248
+"peine,31224","obermaiselstein,swabia",2,290150
+"philippsburg,76661","poseritz,rügen",2,349534
+"philippsburg,76661","waase,rügen",2,356130
+"reken,48734","sankt peter-ording,nordfriesland",2,157740
+"ribnitz-damgarten,18311","grömitz,ostholstein",2,50564
+"stolberg (rhld.),52222","norddeich,aurich",2,171896
+"südharz,6536","zingst,nordvorpommern",2,185848
+"walsrode,29664","grömitz,ostholstein",2,90518
+"werne,59368","alt travemünde - rönnau,lübeck",2,180316
+"wiendorf,18258","norddeich,aurich",2,176298
+"wittenberg,6888","krems ii,segeberg",2,151152
+"wittingen,29378","dagebüll,nordfriesland",2,141546
+"wolfsburg,38446","haffkrug,ostholstein",2,98956
+"35428 langgöns,35428","merzig,merzig-wadern",1,47988
+"48599 gronau,48599","ivenack,demmin",1,115476
+"48703 stadtlohn,48703","norddeich,aurich",1,48246
+"52525,heinsberg","sondernheim,germersheim",1,69938
+"58239 schwerte,58239","bannemin,ostvorpommern",1,137453
+"^niederkrüchten,41372","schönwalde,uecker-randow",1,156464
+"aachen,52062","ferienhausgebiet hillenseifen,vulkaneifel",1,19339
+"aachen,52078","norden,aurich",1,86663
+"aachen,52078","speyer,speyer",1,60833
+"aalen,73434","deggenhausertal,tübingen",1,34646
+"aasbüttel,25560","stinteck,dithmarschen",1,10779
+"abstatt,74232","dagebüll,nordfriesland",1,168444
+"achim,28832","boltenhagen,nordwestmecklenburg",1,47333
+"admannshagen,18211","glowe,rügen",1,28628
+"aerzen,31855","dornumersiel,aurich",1,57860
+"ahlerstedt,21702","großenbrode,ostholstein",1,41066
+"ahrensburg,22926","wenningstedt-braderup,nordfriesland",1,49579
+"ahrensbök,23623","dagebüll,nordfriesland",1,38581
+"ahrensfelde,16356","seebad heringsdorf,ostvorpommern",1,42136
+"aichach,86551","dörgenhausen,dresden government region",1,106516
+"alfeld,91236","sande,friesland",1,137417
+"alfter,53347","brombach,freiburg",1,92273
+"algermissen,31191","schönberger strand,plön",1,64675
+"algermissen,31191","timmendorfer strand,ostholstein",1,53644
+"algermissen,31191","wasserkoog,nordfriesland",1,66773
+"alheim,36211","arle,aurich",1,87132
+"alken,56332","grafenried,lower bavaria",1,112237
+"alpen,46519","norddeich,aurich",1,61144
+"alsbach-hähnlein,64665","roßbach,lower bavaria",1,91068
+"alsdorf,52477","buch,rhein-hunsrück-kreis",1,32788
+"alsfeld,36304","wackerballig,schleswig-flensburg",1,119534
+"alt duvenstedt,24791","dieksanderkoog,dithmarschen",1,16927
+"alt ruppin,16827","bansin,ostvorpommern",1,37178
+"altdorf,67482","badenweiler,freiburg",1,45339
+"altena,58762","fedderwardersiel,wesermarsch",1,70018
+"altenerding,85435","bad feilnbach,upper bavaria",1,15442
+"altfriesack,16818","süd,freiburg",1,173242
+"altlandsberg,15345","hohendorf,nordvorpommern",1,43549
+"altrip,67122","brigach,freiburg",1,41041
+"ammersbek,22949","schönhagen,rendsburg-eckernförde",1,28185
+"ammersbek,22949","wendtorfer strand,plön",1,21671
+"amsterdam,1056 vb","berliner innenstadt,berliner innenstadt",1,154744
+"amt wachsenburg, ot sülzenbrücken,99334","dörfles b.coburg,upper franconia",1,18058
+"amtzell,88279","losheim am see,merzig-wadern",1,79542
+"amöneburg roßdorf,35287","pelzerhaken,ostholstein",1,104836
+"anderlingen,27446","kappeln,schleswig-flensburg",1,39720
+"andernach,56626","schönhagen,rendsburg-eckernförde",1,133643
+"andervenne,49832","kappeln,schleswig-flensburg",1,76140
+"angermünde,16278","seebad heringsdorf,ostvorpommern",1,27336
+"anzing,85646","duhnen,cuxhaven",1,180433
+"apelern,31552","wernigerode,harz",1,29819
+"appen,25482","winnemark,rendsburg-eckernförde",1,28591
+"arnstadt,99310","treptow-köpenick,treptow-köpenick",1,67986
+"aschendorf,26871","bensersiel,wittmund",1,19002
+"aschersleben,6449","krakow am see,rostock",1,57396
+"auerbach,8209","altmummen,swabia",1,97030
+"auerbach,8209","peenemünde,ostvorpommern",1,111244
+"auerbach,91275","kamminke,ostvorpommern",1,132817
+"auerbach/vogtland,8209","mitte,mitte",1,63132
+"augsburg,86150","jordanshöhe,goslar",1,99933
+"augsburg,86153","burg,spree-neiße",1,119829
+"augsburg,86159","großdunsum,nordfriesland",1,195105
+"augsburg,86159","tannenberg,upper bavaria",1,16865
+"augsburg,86165","hoisdorf,stormarn",1,157260
+"augsburg,86167","glowe,rügen",1,189368
+"augsburg,86169","altstadt,erfurt",1,76160
+"augustdorf,32832","finsterbergen,gotha",1,46490
+"aulendorf,88326","heringsdorf,ostvorpommern",1,197393
+"bad schlema,8301","spremberg,spree-neiße",1,42819
+"bad belzig,14806","großenbrode,ostholstein",1,71240
+"bad bentheim,48455","lippertsreute,tübingen",1,139528
+"bad bentheim,48455","thale,harz",1,73871
+"bad berka,99438","ahrenshoop,nordvorpommern",1,105386
+"bad berleburg,57319","börgerende,rostock",1,111571
+"bad bevensen,29549","priwall peninsula,lübeck",1,26315
+"bad bramstedt,24576","goting,nordfriesland",1,33426
+"bad breisig,53498","seebad heringsdorf,ostvorpommern",1,161439
+"bad camberg,65520","friedrichskoog-spitze,dithmarschen",1,111048
+"bad essen,49152","sandbrink,diepholz",1,5196
+"bad freienwalde,16259","strasen,mecklenburgische seenplatte",1,22505
+"bad freienwalde,16259","wenningstedt-braderup,nordfriesland",1,118239
+"bad harzburg,38667","quetzin,ludwigslust-parchim",1,57023
+"bad hersfeld,36251","priwall peninsula,lübeck",1,93834
+"bad honnef,53604","borgsum,nordfriesland",1,122173
+"bad kissingen,97688","wiek,rügen",1,143608
+"bad klosterlausnitz,7639","kachlin,ostvorpommern",1,96951
+"bad kreuznach,55543","donaueschingen,freiburg",1,57068
+"bad kreuznach,55543","lehengericht,freiburg",1,46410
+"bad lauchstädt,6246","bad schmiedeberg,wittenberg",1,18339
+"bad lausick,4651","görlitz,dresden government region",1,43362
+"bad liebenstein,36448","seebad heringsdorf,ostvorpommern",1,115356
+"bad liebenstein,36448","sellin,rügen",1,121087
+"bad liebenstein,36448","titmaringhausen,arnsberg",1,34396
+"bad liebenwerda,4924","kappeln,schleswig-flensburg",1,111456
+"bad liebenzell,75378","neßmersiel,aurich",1,147475
+"bad liebenzell,75378","plön,plön",1,162830
+"bad lippspringe,33175","friedrichskoog,dithmarschen",1,66198
+"bad lippspringe,33175","priwall peninsula,lübeck",1,73982
+"bad muskau,2953","lenz-süd,mecklenburgische seenplatte",1,71224
+"bad münder,31848","grömitz,ostholstein",1,63460
+"bad münder,31848","kappeln,schleswig-flensburg",1,73010
+"bad münder,31848","priwall peninsula,lübeck",1,57412
+"bad münstereifel,53902","glowe,rügen",1,169772
+"bad nauheim,61200","sankt peter-ording,nordfriesland",1,116966
+"bad nauheim,61231","parow,nordvorpommern",1,141953
+"bad oeynhausen,32547","kappeln,schleswig-flensburg",1,75388
+"bad oeynhausen,32549","wyk auf föhr,nordfriesland",1,72980
+"bad oldesloe,23843","gosdorf,ostholstein",1,16028
+"bad oldesloe,23843","priwall peninsula,lübeck",1,9632
+"bad oldesloe,23843","sobrigau,dresden government region",1,104162
+"bad orb,63619","rudow,neukölln",1,100695
+"bad reichenhall,83435","frauendorf,upper franconia",1,77797
+"bad rothenfelde,49084","timmendorfer strand,ostholstein",1,72857
+"bad rothenfelde,49214","priwall peninsula,lübeck",1,73370
+"bad salzdetfurth,31162","wilsche,gifhorn",1,15322
+"bad salzuflen,32105","olpenitzdorf,schleswig-flensburg",1,79779
+"bad salzuflen,32107","achtrup,nordfriesland",1,80946
+"bad salzuflen,32107","boltenhagen,nordwestmecklenburg",1,72420
+"bad salzuflen,32107","kühlungsborn-west,rostock",1,81962
+"bad salzuflen,32107","schwarzbach,upper bavaria",1,151453
+"bad salzuflen,32108","priwall peninsula,lübeck",1,66501
+"bad segeberg,23795","sellin,rügen",1,60311
+"bad staffelstein,96231","wiek,rügen",1,140347
+"bad tölz,82646","zandt,upper palatinate",1,47306
+"bad urach,72574","altefähr,rügen",1,186625
+"bad vilbel,61118","hörnum,nordfriesland",1,135818
+"bad waldsee,88339","list,nordfriesland",1,212313
+"bad wildbad,75323","rutenberg,uckermark",1,161898
+"bad zwesten,34596","sandbrink,diepholz",1,45911
+"baddeckenstedt,38271","sellin,rügen",1,91702
+"baiersbronn,72270","baiersbronn,karlsruhe",1,1196
+"ballenstedt,6493","prora,rügen",1,90867
+"bamberg,96052","mühlwinkl,upper bavaria",1,72644
+"banzkow,19079","boltenhagen,nordwestmecklenburg",1,14708
+"barleben,39179","gleichamberg,hildburghausen",1,57628
+"barmstedt,25355","niendorf/ostsee,ostholstein",1,19480
+"barnstorf,49406","karschau,schleswig-flensburg",1,61984
+"bartholomä,73566","zingst,nordvorpommern",1,175958
+"barßel,26676","schonnebeck,düsseldorf",1,51299
+"bautzen,2625","lemkenhafen,ostholstein",1,113927
+"bayreuth,95444","luitpolderhöfe,upper bavaria",1,67154
+"bayreuth,95448","schönhagen,rendsburg-eckernförde",1,142415
+"bechhofen,91572","nienhagen,rostock",1,150248
+"beckingen,66701","haustadt,merzig-wadern",1,834
+"beckum,59269","rerik,rostock",1,94656
+"bedburg,50181","morscheid-riedenburg,bernkastel-wittlich",1,38573
+"bedburg-hau,47551","isny im allgäu,tübingen",1,141546
+"beeskow,15848","leisten,ludwigslust-parchim",1,53187
+"beilrode,4886","altwarp siedlung,uecker-randow",1,68049
+"beilstein,71717","preming,lower bavaria",1,79374
+"belm,49191","neuendorf,rügen",1,111823
+"bendestorf,21227","karlshagen,ostvorpommern",1,71634
+"bendorf,56170","mußbach,neustadt",1,33419
+"bendorf,56170","neustadt,neustadt",1,33833
+"bendorf,56170","prora,rügen",1,161206
+"bennewitz,4828","poel,nordwestmecklenburg",1,81582
+"bensheim,64625","wenningstedt-braderup,nordfriesland",1,155854
+"bentwisch,18182","born a. darß,nordvorpommern",1,9709
+"bentwisch,19322","eckernförde,rendsburg-eckernförde",1,53843
+"berg/pfalz,76768","waren,müritz",1,158236
+"bergen,29303","blankenburg,harz",1,34756
+"bergheim,50127","büsum,dithmarschen",1,102692
+"bergheim,50129","merzalben,südwestpfalz",1,55052
+"bergheim,50129","sobernheim,bad kreuznach",1,39674
+"bergisch gladbach,51427","hooksiel,friesland",1,81076
+"bergisch gladbach,51427","kamschlacken,landkreis osterode am harz",1,64914
+"bergisch gladbach,51427","wyk auf föhr,nordfriesland",1,113759
+"bergisch gladbach,51467","niedersfeld,arnsberg",1,28024
+"bergkamen,59192","surendorf,rendsburg-eckernförde",1,95497
+"berlin,10115","althagen,nordvorpommern",1,56626
+"berlin,10115","baabe,rügen",1,54596
+"berlin,10115","kappel,freiburg",1,170666
+"berlin,10115","karlshagen,ostvorpommern",1,47657
+"berlin,10117","bad salzuflen,detmold",1,85080
+"berlin,10117","gosdorf,ostholstein",1,66239
+"berlin,10117","lenzinghausen,detmold",1,89631
+"berlin,10178","karlshagen,ostvorpommern",1,47872
+"berlin,10179","entfelden,upper bavaria",1,144724
+"berlin,10243","kölpinsee,ostvorpommern",1,46440
+"berlin,10243","sankt peter-ording,nordfriesland",1,100010
+"berlin,10243","vieregge,rügen",1,60933
+"berlin,10245","rutenberg,uckermark",1,22438
+"berlin,10247","gartenstadt,märkisch-oderland",1,8227
+"berlin,10247","kappeln,schleswig-flensburg",1,89115
+"berlin,10247","schlepkow,uckermark",1,27164
+"berlin,10247","schönhagen,rendsburg-eckernförde",1,87264
+"berlin,10249","zerpenschleuse,barnim",1,10179
+"berlin,10315","gerolstein,vulkaneifel",1,144075
+"berlin,10315","hafendorf,mecklenburgische seenplatte",1,28603
+"berlin,10318","schnarrtanne,chemnitz",1,61789
+"berlin,10319","friedrichskoog-spitze,dithmarschen",1,94654
+"berlin,10319","hafendorf,mecklenburgische seenplatte",1,29108
+"berlin,10365","rankwitz,ostvorpommern",1,43079
+"berlin,10367","glowe,rügen",1,60856
+"berlin,10367","hohendorf,nordvorpommern",1,45059
+"berlin,10367","priwall peninsula,lübeck",1,62701
+"berlin,10405","groß nemerow,mecklenburgische seenplatte",1,28113
+"berlin,10405","ostseebad,rügen",1,54466
+"berlin,10407","zingst,nordvorpommern",1,58077
+"berlin,10409","ehlenbogen,karlsruhe",1,156030
+"berlin,10437","priwall peninsula,lübeck",1,61238
+"berlin,10439","oranienburg,oberhavel",1,6783
+"berlin,10555","frohnhausen,düsseldorf",1,120734
+"berlin,10557","zingst,nordvorpommern",1,58052
+"berlin,10559","bad saarow,oder-spree",1,14912
+"berlin,10559","born a. darß,nordvorpommern",1,56881
+"berlin,10559","priwall peninsula,lübeck",1,60758
+"berlin,10585","bad saarow,oder-spree",1,15350
+"berlin,10709","süder-waygaard,nordfriesland",1,102514
+"berlin,10709","wenningstedt-braderup,nordfriesland",1,113196
+"berlin,10717","wustrow,nordvorpommern",1,57596
+"berlin,10777","burhave,wesermarsch",1,94449
+"berlin,10777","schlicht,mecklenburgische seenplatte",1,25915
+"berlin,10785","köln-altstadt-nord,cologne",1,126688
+"berlin,10785","neukalen,demmin",1,40325
+"berlin,10825","braunlage,goslar",1,54664
+"berlin,10829","dörgenhausen,dresden government region",1,35120
+"berlin,10965","rerik,rostock",1,57620
+"berlin,10965","warnemünde,rostock",1,55256
+"berlin,10967","zechlinerhütte,ostprignitz-ruppin",1,22119
+"berlin,10997","priwall peninsula,lübeck",1,62510
+"berlin,10999","dieksanderkoog,dithmarschen",1,91301
+"berlin,10999","thiessow,rügen",1,53203
+"berlin,11111","alt travemünde - rönnau,lübeck",1,1716701
+"berlin,11111","bahnhofsviertel,darmstadt",1,1723890
+"berlin,12043","bayerisch gmain,upper bavaria",1,141685
+"berlin,12045","babelsberg nord,potsdam-mittelmark",1,6697
+"berlin,12047","dahmsdorf,oder-spree",1,12777
+"berlin,12047","rutenberg,uckermark",1,22734
+"berlin,12055","schlettau,chemnitz",1,57575
+"berlin,12055","wandlitz,barnim",1,8412
+"berlin,12103","alt travemünde - rönnau,lübeck",1,63051
+"berlin,12103","thomsdorf,uckermark",1,24375
+"berlin,12105","kühlungsborn ost,rostock",1,58269
+"berlin,12105","spahl,wartburgkreis",1,83166
+"berlin,12107","dagebüll,nordfriesland",1,107103
+"berlin,12107","röbel,mecklenburgische seenplatte",1,31371
+"berlin,12109","kühlungsborn ost,rostock",1,58430
+"berlin,12159","westerland,nordfriesland",1,114156
+"berlin,12163","ahrenshoop,nordvorpommern",1,59098
+"berlin,12163","büsum,dithmarschen",1,93451
+"berlin,12163","fehmarn,ostholstein",1,71051
+"berlin,12163","priwall peninsula,lübeck",1,61862
+"berlin,12165","bansin,ostvorpommern",1,47215
+"berlin,12167","gronenberg,ostholstein",1,66408
+"berlin,12167","innenstadt,lübeck",1,63102
+"berlin,12167","ketelsby,schleswig-flensburg",1,88874
+"berlin,12205","ostseebad,rügen",1,57691
+"berlin,12205","weimar,weimarer land",1,54148
+"berlin,12209","britten,merzig-wadern",1,151258
+"berlin,12209","krakow am see,rostock",1,41186
+"berlin,12277","zirchow,ostvorpommern",1,45957
+"berlin,12279","ueckermünde,uecker-randow",1,41220
+"berlin,12279","zinnowitz,ostvorpommern",1,50426
+"berlin,12309","binz,rügen",1,59859
+"berlin,12347","malchow,müritz",1,35461
+"berlin,12347","sandbrink,diepholz",1,91592
+"berlin,12351","tossens,wesermarsch",1,98796
+"berlin,12357","schönberger strand,plön",1,80297
+"berlin,12359","kölpinsee,ostvorpommern",1,48324
+"berlin,12435","ilversgehofen,erfurt",1,62868
+"berlin,12439","rittersgrün,chemnitz",1,60185
+"berlin,12459","jordanshöhe,goslar",1,59071
+"berlin,12459","loddin,ostvorpommern",1,47432
+"berlin,12459","torgau,leipzig",1,28558
+"berlin,12487","graal,rostock",1,58298
+"berlin,12524","bad saarow,oder-spree",1,10095
+"berlin,12526","jamitzow,ostvorpommern",1,45288
+"berlin,12555","sobrigau,dresden government region",1,44173
+"berlin,12555","thale,harz",1,51057
+"berlin,12557","boltenhagen,nordwestmecklenburg",1,62730
+"berlin,12557","karlshagen,ostvorpommern",1,50301
+"berlin,12557","wildemann,goslar",1,62819
+"berlin,12559","bodenmais,lower bavaria",1,99937
+"berlin,12559","tetenbüll,nordfriesland",1,102934
+"berlin,12559","wustrow,nordvorpommern",1,61521
+"berlin,12587","wangern,nordwestmecklenburg",1,60188
+"berlin,12589","großenbrode,ostholstein",1,73391
+"berlin,12589","sankt peter-ording,nordfriesland",1,105094
+"berlin,12589","seebad heringsdorf,ostvorpommern",1,45527
+"berlin,12621","zingst,nordvorpommern",1,59507
+"berlin,12623","boltenhagen,nordwestmecklenburg",1,61279
+"berlin,12623","bärenfels,dresden government region",1,50785
+"berlin,12623","zempin,ostvorpommern",1,46866
+"berlin,12627","bergen auf rügen,rügen",1,55856
+"berlin,12627","hafendorf,mecklenburgische seenplatte",1,28945
+"berlin,12627","kappeln,schleswig-flensburg",1,90546
+"berlin,12629","struckum,nordfriesland",1,101325
+"berlin,12679","farchant,upper bavaria",1,156229
+"berlin,12679","rhoda,erfurt",1,67062
+"berlin,12683","zingst,nordvorpommern",1,59567
+"berlin,12685","ostseebad,rügen",1,54179
+"berlin,12685","pepelow,rostock",1,56638
+"berlin,12685","warnemünde,rostock",1,55195
+"berlin,12687","steinheid,sonneberg",1,77120
+"berlin,13051","sellin,rügen",1,53433
+"berlin,13053","bad sachsa,landkreis osterode am harz",1,64160
+"berlin,13053","bansin,ostvorpommern",1,43423
+"berlin,13053","feichten,upper bavaria",1,134048
+"berlin,13053","sellin,rügen",1,54191
+"berlin,13055","bad saarow,oder-spree",1,12767
+"berlin,13055","gollendorf,ostholstein",1,71418
+"berlin,13055","mönkebüll,nordfriesland",1,102211
+"berlin,13059","waren,müritz",1,31620
+"berlin,13059","zierow,nordwestmecklenburg",1,55293
+"berlin,13088","frohnau,chemnitz",1,1596742
+"berlin,13088","hohegeiß,goslar",1,57717
+"berlin,13088","karlshagen,ostvorpommern",1,46607
+"berlin,13088","treptow-köpenick,treptow-köpenick",1,4879
+"berlin,13089","baabe,rügen",1,53420
+"berlin,13125","ahlbeck,ostvorpommern",1,40846
+"berlin,13125","ostseebad,rügen",1,51472
+"berlin,13125","renholding,lower bavaria",1,117847
+"berlin,13125","wieck a. darß,nordvorpommern",1,55070
+"berlin,13156","glowe,rügen",1,59047
+"berlin,13158","kappeln,schleswig-flensburg",1,86522
+"berlin,13158","vordergeiersberg,upper franconia",1,82240
+"berlin,13187","bad schmiedeberg,wittenberg",1,29088
+"berlin,13187","dierkow-west,rostock",1,50764
+"berlin,13187","jordanshöhe,goslar",1,58411
+"berlin,13187","kappeln,schleswig-flensburg",1,87307
+"berlin,13187","mitte,mitte",1,1567
+"berlin,13189","heiligenhafen,ostholstein",1,68989
+"berlin,13347","priwall peninsula,lübeck",1,60594
+"berlin,13349","binz,rügen",1,54951
+"berlin,13353","malchow,müritz",1,32417
+"berlin,13355","sellin,rügen",1,54762
+"berlin,13403","priwall peninsula,lübeck",1,59498
+"berlin,13403","sassnitz,rügen",1,57945
+"berlin,13409","treptow-köpenick,treptow-köpenick",1,6307
+"berlin,13435","altenhof,barnim",1,11425
+"berlin,13435","zingst,nordvorpommern",1,55677
+"berlin,13439","sassnitz,rügen",1,57265
+"berlin,13503","hafendorf,mecklenburgische seenplatte",1,23915
+"berlin,13507","scharbeutz,ostholstein",1,61996
+"berlin,13507","zingst,nordvorpommern",1,56223
+"berlin,13509","priwall peninsula,lübeck",1,58988
+"berlin,13509","staberdorf,ostholstein",1,65036
+"berlin,13509","tinnum,nordfriesland",1,111079
+"berlin,13581","lohme,rügen",1,61435
+"berlin,13587","sankt andreasberg,goslar",1,55034
+"berlin,13589","dahmsdorf,oder-spree",1,18087
+"berlin,13593","grambin,uecker-randow",1,39712
+"berlin,13593","jordanshöhe,goslar",1,53760
+"berlin,13595","wüstensachsen,kassel",1,83833
+"berlin,13597","hafendorf,mecklenburgische seenplatte",1,25988
+"berlin,13599","retzow,uckermark",1,20263
+"berlin,13599","schmölz,upper bavaria",1,156267
+"berlin,13599","soderstorf,lüneburg",1,58192
+"berlin,14057","prerow,nordvorpommern",1,58807
+"berlin,14059","otterndorf,cuxhaven",1,86998
+"berlin,14089","krummsee,mecklenburgische seenplatte",1,35169
+"berlin,14129","ostseebad,rügen",1,58005
+"berlin,14165","göhren-lebbin,mecklenburgische seenplatte",1,34243
+"berlin,14165","sankt andreasberg,goslar",1,54230
+"berlin,14167","zirchow,ostvorpommern",1,46268
+"berlin,14193","ahlbeck,ostvorpommern",1,47078
+"berlin,14193","zinnowitz,ostvorpommern",1,49340
+"berlin,14195","rerik,rostock",1,57387
+"berlin spandau,13595","wyk auf föhr,nordfriesland",1,104231
+"bernau,16321","freest,ostvorpommern",1,43117
+"bernau,16321","glücksburg,schleswig-flensburg",1,95050
+"bernau,16321","hohenfelde,rostock",1,50698
+"bernburg,6406","müritz,rostock",1,72943
+"bernburg,6406","wieck a. darß,nordvorpommern",1,79320
+"bernburg,6406","zingst,nordvorpommern",1,80505
+"bernstadt,2748","roßbach,neuwied",1,139738
+"bersenbrück,49593","haldern,düsseldorf",1,35522
+"bestensee,15741","dagebüll,nordfriesland",1,114717
+"betzdorf,57518","waddens,wesermarsch",1,83014
+"bevern,37639","waren,müritz",1,75619
+"biberach,88400","deggenhausertal,tübingen",1,12329
+"bickenbach,64404","schilksee,plön",1,141375
+"bickenbach,64404","silberberg,lower bavaria",1,89188
+"biedenkopf,35216","fedderwardersiel,wesermarsch",1,79720
+"bielefeld,33602","burhave,wesermarsch",1,46264
+"bielefeld,33605","büsum,dithmarschen",1,63567
+"bielefeld,33611","rankwitz,ostvorpommern",1,111397
+"bielefeld,33617","jordanshöhe,goslar",1,37603
+"bielefeld,33619","zingst,nordvorpommern",1,103250
+"bielefeld,33647","gstadt am chiemsee,upper bavaria",1,142908
+"bielefeld,33659","niederaula,kassel",1,39856
+"bielefeld,33689","saalfeld,saalfeld-rudolstadt",1,64312
+"bielefeld,33699","laboe,plön",1,77213
+"bielefeld,33719","großenbrode,ostholstein",1,82396
+"bielefeld,33719","grömitz,ostholstein",1,75869
+"bielefeld,33729","grömitz,ostholstein",1,74688
+"bielefeld,33739","büsum,dithmarschen",1,61167
+"bielefeld,33739","ditzumerverlaat,leer",1,41548
+"bielefeld,33739","olpenitzdorf,schleswig-flensburg",1,80940
+"bielefeld,33739","tossens,wesermarsch",1,44431
+"bielefeld jöllenbeck,33739","schluchsee,freiburg",1,127177
+"bingen am rhein,55411","frohnhausen,düsseldorf",1,48142
+"birkenfeld,75217","prechtal,freiburg",1,22578
+"birkenwerder,16547","kühlungsborn-west,rostock",1,51287
+"birkenwerder,16547","rerik,rostock",1,51304
+"birlenbach,65626","telgte,münster",1,48499
+"bismark/ot schinne,39628","jamitzow,ostvorpommern",1,53108
+"bitburg-mötsch,54634","lenzkirch,freiburg",1,70019
+"bitterfeld-wolfen,6766","zirchow,ostvorpommern",1,74254
+"blankenfelde-mahlow,15827","alt travemünde - rönnau,lübeck",1,66452
+"blankenfelde-mahlow,15827","diesdorf,magdeburg",1,34229
+"blankenfelde-mahlow,15831","zingst,nordvorpommern",1,63069
+"bleckede,21354","stickhausen,leer",1,53840
+"bleicherode,99752","rerik,rostock",1,81329
+"bliedersdorf,21640","mockritz,dresden government region",1,105494
+"blieskastel,66440","steinbergkirche,schleswig-flensburg",1,170062
+"blumenthsl,24241","sankt peter-ording,nordfriesland",1,23527
+"bocholt,46397","nordhorn,bentheim",1,19007
+"bocholt,46399","glowe,rügen",1,146415
+"bocholt,46399","höhenberg,cologne",1,27885
+"bocholt,46399","stammheim,cologne",1,26477
+"bochum,44789","krakow am see,rostock",1,111797
+"bochum,44795","au,swabia",1,113095
+"bochum,44795","grömitz,ostholstein",1,104888
+"bochum,44797","burhave,wesermarsch",1,67228
+"bochum,44801","alt travemünde - rönnau,lübeck",1,98932
+"bochum,44803","dorumer neufeld,cuxhaven",1,70863
+"bochum,44805","langewiese,arnsberg",1,24560
+"bochum,44807","kühlungsborn,rostock",1,112637
+"bochum,44809","beningafehn,leer",1,54601
+"bochum,44809","mittelnkirchen,stade",1,74822
+"bochum,44809","wremen,cuxhaven",1,68047
+"bochum,44867","dissen,kassel",1,42936
+"bochum,44867","priwall peninsula,lübeck",1,99885
+"bochum,44867","sandbrink,diepholz",1,38502
+"bochum,44867","sankt peter-ording,nordfriesland",1,88656
+"bochum,44869","neuastenberg,arnsberg",1,26020
+"bochum,44869","wissinghausen,arnsberg",1,28191
+"bochum,44879","burhafe,wittmund",1,65216
+"bochum,44892","minsen,friesland",1,67372
+"bochum,44894","wilhelmshaven,wilhelmshaven",1,62280
+"bockenem,31167","zirchow,ostvorpommern",1,91151
+"bockhorn,26345","norderteil,cuxhaven",1,20437
+"bodenwöhr,92439","hofstetten,freiburg",1,88213
+"bohmte,49163","süderwisch,cuxhaven",1,42919
+"boizenburg,19258","cumbach,saalfeld-rudolstadt",1,80003
+"boizenburg,19258","heringsdorf,ostholstein",1,27772
+"boizenburg,19258","hohe,holzminden",1,48067
+"boizenburg/ elbe,19258","boltenhagen,nordwestmecklenburg",1,19917
+"bonn,53111","schönau am königssee,upper bavaria",1,147558
+"bonn,53117","burg auf fehmarn,ostholstein",1,132164
+"bonn,53117","timmendorfer strand,ostholstein",1,117173
+"bonn,53121","langfurth,lower bavaria",1,130668
+"bonn,53175","wieck a. darß,nordvorpommern",1,147610
+"bonn,53179","hooksiel,friesland",1,89561
+"bonn,53179","lierfeld,bitburg-prüm",1,22043
+"bonn,53227","feriendorf freilingen,cologne",1,11864
+"bonn,53227","goting,nordfriesland",1,120049
+"boostedt,24598","kappeln,schleswig-flensburg",1,19674
+"boostedt,24598","wackerballig,schleswig-flensburg",1,22593
+"boostedt,24598","zinnowitz,ostvorpommern",1,67139
+"borgholzhausen,33829","wesseloh,heidekreis",1,41586
+"borgwedel,24857","kappeln,schleswig-flensburg",1,6482
+"borken,46325","wenningstedt-braderup,nordfriesland",1,95449
+"borkheide,14822","vieregge,rügen",1,70023
+"borkum,26757","ahrenshoop,nordvorpommern",1,103065
+"borna,4552","bad gögging,lower bavaria",1,69862
+"borna,4552","rechenberg-bienenmühle,chemnitz",1,23042
+"bornheim,53332","medebach,arnsberg",1,34778
+"bornhöved,24619","tönning,nordfriesland",1,23556
+"bottrop,46238","hafendorf,mecklenburgische seenplatte",1,117866
+"bottrop,46242","nesse,aurich",1,63775
+"bottrop,46242","neuastenberg,arnsberg",1,31290
+"bovenden,37120","pelzerhaken,ostholstein",1,76190
+"brackel,21438","sandwehle,nordfriesland",1,37979
+"brackenheim,74336","cranzahl,chemnitz",1,86142
+"brakel,33034","großenbrode,ostholstein",1,85557
+"brandenburg,14770","ostseebad,rügen",1,61677
+"brandenburg,14772","ahlbeck,ostvorpommern",1,53660
+"brandenburg,14776","carolinensiel,wittmund",1,93338
+"brandenburg,14776","saal,nordvorpommern",1,57131
+"brandenburg an der havel,14770","prora,rügen",1,63145
+"brandenburg an der havel,14770","stralsund,nordvorpommern",1,57468
+"brandis,4821","vitzdorf,ostholstein",1,1797797
+"brandis,4821","zingst,nordvorpommern",1,1818271
+"braunfels,35619","friedrichskoog-spitze,dithmarschen",1,105569
+"braunschweig,38100","wiek,rügen",1,85503
+"braunschweig,38102","osterode,nordhausen",1,21168
+"braunschweig,38104","waren,müritz",1,52650
+"braunschweig,38106","beckerwitz,nordwestmecklenburg",1,51073
+"braunschweig,38108","cuxhaven,cuxhaven",1,57088
+"braunschweig,38108","kopendorf,ostholstein",1,64927
+"braunschweig,38108","pelzerhaken,ostholstein",1,53157
+"braunschweig,38108","tossens,wesermarsch",1,55945
+"braunschweig,38108","warsingsfehn,leer",1,62784
+"braunschweig,38110","kappeln,schleswig-flensburg",1,70026
+"braunschweig,38112","jordanshöhe,goslar",1,17418
+"braunschweig,38118","priwall peninsula,lübeck",1,50505
+"braunschweig,38122","boltenhagen,nordwestmecklenburg",1,54003
+"braunschweig,38122","siedlung neu borstel,heidekreis",1,27243
+"braunschweig,38122","zingst,nordvorpommern",1,76607
+"braunschweig,38124","großenbrode,ostholstein",1,64244
+"braunschweig,38124","hafendorf,mecklenburgische seenplatte",1,51771
+"breckerfeld,58339","zingst,nordvorpommern",1,132716
+"bredstedt,25821","wenningstedt-braderup,nordfriesland",1,14001
+"breese,19322","vieregge,rügen",1,53617
+"breitenfelde,23881","sassnitz,rügen",1,58860
+"bremen,28197","balm,ostvorpommern",1,97004
+"bremen,28199","fehrenbach,hildburghausen",1,85517
+"bremen,28203","glowe,rügen",1,92769
+"bremen,28207","burhafe,wittmund",1,25999
+"bremen,28209","sandbrink,diepholz",1,18944
+"bremen,28213","binz,rügen",1,92177
+"bremen,28215","jamitzow,ostvorpommern",1,92369
+"bremen,28217","dümmer,ludwigslust-parchim",1,45289
+"bremen,28217","zingst,nordvorpommern",1,79216
+"bremen,28237","ockholm,nordfriesland",1,45744
+"bremen,28239","harleshausen,kassel",1,54565
+"bremen,28239","kappel,freiburg",1,154154
+"bremen,28239","ribnitz,rostock",1,73073
+"bremen,28259","fehmarn,ostholstein",1,59455
+"bremen,28259","sterdebüll,nordfriesland",1,47315
+"bremen,28277","kappeln,schleswig-flensburg",1,51918
+"bremen,28309","schwerin,ludwigslust-parchim",1,47791
+"bremen,28329","schönhagen,rendsburg-eckernförde",1,50345
+"bremen,28357","priwall peninsula,lübeck",1,43039
+"bremen,28717","münster-altstadt,münster",1,40659
+"bremen,28755","bippen,osnabrück",1,23769
+"bremen,28757","wilhelmshausen,kassel",1,55372
+"bremen,28779","humboldt - gremberg,cologne",1,73160
+"bremerhaven,27570","redewisch,nordwestmecklenburg",1,47651
+"bremerhaven,27572","hildfeld,arnsberg",1,67162
+"bremerhaven,27580","heligoland,pinneberg",1,21629
+"bremervörde,27432","bad harzburg,goslar",1,53908
+"bremervörde,27432","braunlage,goslar",1,58676
+"bremervörde,27432","hörnum,nordfriesland",1,40536
+"bremervörde,27432","niendorf/ostsee,ostholstein",1,33227
+"bretten,75015","dagebüll,nordfriesland",1,168826
+"bretzenheim,55559","hinang,swabia",1,85438
+"brieselang,14656","ahlbeck,ostvorpommern",1,45413
+"brilon,59929","brilon,arnsberg",1,425
+"brilon,59929","dierkow-west,rostock",1,102531
+"britz,16230","hornstorf,nordwestmecklenburg",1,50514
+"brotdorf,66663","kaimt,cochem-zell",1,19047
+"bruchköbel,63486","mannebach,rhein-hunsrück-kreis",1,28784
+"bruchköbel,63486","ostseebad,rügen",1,151321
+"bruchsal,76646","norddeich,aurich",1,136574
+"bruchsal,76646","obergrainau,upper bavaria",1,68351
+"brunsbek,22946","husum,nordfriesland",1,33940
+"brunsbek,22946","sankt peter-ording,nordfriesland",1,35443
+"brüel,19412","hohendorf,nordvorpommern",1,36330
+"brühl,5021","greetsiel,aurich",1,79487
+"buchholz,21244","ashausen,harburg",1,4829
+"buchholz,21244","eisenach,wartburgkreis",1,69920
+"buchholz i.d. nordheide,21244","glowe,rügen",1,73101
+"buchholz in der nordheide,21244","arle,aurich",1,44650
+"budenheim,55257","kappeln,schleswig-flensburg",1,141275
+"burg,25712","oberselk,schleswig-flensburg",1,15102
+"burg,39288","ilmenau,ilm-kreis",1,51216
+"burg stargard,17094","dewichow,ostvorpommern",1,17714
+"burgdorf,31303","kappeln,schleswig-flensburg",1,64673
+"burgstädt,9217","kreuzfeld,upper bavaria",1,93951
+"burgwald,35099","hofstetten,freiburg",1,83079
+"burgwedel,30938","alt travemünde - rönnau,lübeck",1,46927
+"butjadingen,26969","großwürden,wesermarsch",1,1457
+"buxtehude,21614","boltenhagen,nordwestmecklenburg",1,30963
+"buxtehude,21614","pelzerhaken,ostholstein",1,27692
+"buxtehude,21614","wyk auf föhr,nordfriesland",1,41330
+"böblingen,71032","obermaiselstein,swabia",1,43543
+"bönen,5919","lensterstrand,ostholstein",1,95670
+"bönen,59199","kappeln,schleswig-flensburg",1,99042
+"börßum,38312","schönhagen,rendsburg-eckernförde",1,76825
+"büchlberg,94124","bodenwöhr,upper palatinate",1,29538
+"bückeburg,31675","priwall peninsula,lübeck",1,59293
+"bünde,32257","hemer,arnsberg",1,28375
+"bünde,32257","sankt peter-ording,nordfriesland",1,62567
+"bünde,32257","sasbach am kaiserstuhl,freiburg",1,121923
+"bürgstadt,63927","deudesfeld,vulkaneifel",1,50521
+"bützow,18246","gifhorn,gifhorn",1,47695
+"calberlah,38547","sankt peter-ording,nordfriesland",1,65871
+"callenberg,9337","willingen,kassel",1,76777
+"calw,75365","heringsdorf,ostvorpommern",1,185246
+"castrop rauxel,44579","heringsdorf,ostholstein",1,104665
+"castrop-rauxel,44575","ferienpark kronenburger see,cologne",1,38457
+"castrop-rauxel,44581","priwall peninsula,lübeck",1,94521
+"celle,29223","großenbrode,ostholstein",1,54378
+"celle,29225","dahme,ostholstein",1,51432
+"celle,29227","thale,harz",1,30204
+"celle,29229","großenbrode,ostholstein",1,53467
+"celle,29229","sandbrink,diepholz",1,32066
+"chemnitz,9112","glashütt,lower bavaria",1,54653
+"chemnitz,9113","balm,ostvorpommern",1,94229
+"chemnitz,9114","grube,ostholstein",1,105457
+"chemnitz,9114","koserow,ostvorpommern",1,96573
+"chemnitz,9114","prerow,nordvorpommern",1,106274
+"chemnitz,9117","emsetal,gotha",1,45155
+"chemnitz,9117","hafendorf,mecklenburgische seenplatte",1,75251
+"chemnitz,9117","lenggries,upper bavaria",1,96414
+"chemnitz,9125","lockwitz,dresden government region",1,17391
+"chemnitz,9125","zschieren,dresden government region",1,18508
+"chemnitz,9126","zempin,ostvorpommern",1,98221
+"chemnitz,9131","boltenhagen,nordwestmecklenburg",1,97951
+"cloppenburg,49661","hooksiel,friesland",1,23366
+"cloppenburg,49661","oldenburg,oldenburg",1,9346
+"coesfeld,48653","jedutenberg,bremerhaven",1,53971
+"coesfeld,48653","lehe,ammerland",1,44884
+"coswig,1640","titisee,freiburg",1,140851
+"coswig (anhalt),6868","warnemünde,rostock",1,64916
+"cottbus,3042","schilksee,plön",1,108695
+"cottbus,3051","kurort oybin,dresden government region",1,26816
+"crailsheim,11","bad bergzabern,südliche weinstraße",1,40635
+"crailsheim,74564","altglashütten,freiburg",1,53962
+"cremlingen,38162","sellin,ostvorpommern",1,73241
+"crivitz,19089","ostseebad,rügen",1,42846
+"crottendorf,9474","warnemünde,rostock",1,109783
+"cuxhaven,27476","hohendorf,nordvorpommern",1,89236
+"dagebüll,25899","goting,nordfriesland",1,4274
+"dahlenburg,21368","waase,rügen",1,57170
+"dallgow-döberitz,14624","wustrow,nordvorpommern",1,54926
+"dankmarshausen,99837","ofterschwang,swabia",1,101989
+"dannewerk,24867","schönwald im schwarzwald,freiburg",1,190667
+"darmstadt,64283","fischen,swabia",1,78267
+"darmstadt,64295","niederaula,kassel",1,34033
+"darmstadt,64297","bensheim,darmstadt",1,4153
+"darmstadt,64297","helpt,mecklenburg-strelitz",1,142233
+"dasing,86453","baabe,rügen",1,184168
+"datteln,45711","friedrichskoog,dithmarschen",1,75493
+"datteln,45711","güntersberge,harz",1,67304
+"datteln,45711","liesen,arnsberg",1,28443
+"dautphetal,35232","großenbrode,ostholstein",1,114366
+"deggendorf,94469","baabe,rügen",1,164346
+"deinstedt,27446","hafendorf,mecklenburgische seenplatte",1,62142
+"deinstedt,27446","rerik,rostock",1,46833
+"deisel,34388","zirchow,ostvorpommern",1,109003
+"delbrück-ostenland,33129","grömitz,ostholstein",1,81568
+"delitzsch,4509","dändorf,nordvorpommern",1,81637
+"delmenhorst,27751","gronau,cologne",1,38705
+"delmenhorst,27751","zingst,nordvorpommern",1,81759
+"delmenhorst,27753","neuringe,emsland",1,30899
+"demitz-thumitz,1877","bansin,ostvorpommern",1,83969
+"dessau - roßlau,6844","zingst,nordvorpommern",1,76898
+"dessau-roßlau,6846","kurort oberwiesenthal,chemnitz",1,44759
+"dessau-roßlau,6849","seebad heringsdorf,ostvorpommern",1,72580
+"dessau-roßlau,6862","karlshagen,ostvorpommern",1,70852
+"detmold,32756","rott,detmold",1,1541
+"detmold,32756","westerhever,nordfriesland",1,72650
+"detmold,32758","graal,rostock",1,91423
+"detmold,32760","niedersalwey,arnsberg",1,24111
+"detmold,32760","niendorf/ostsee,ostholstein",1,70871
+"dettenhausen,72135","priwall peninsula,lübeck",1,161990
+"diedorf,86420","blossersberg,lower bavaria",1,47090
+"diepholz,49356","borkum,leer",1,41737
+"diepholz,49356","kappeln,schleswig-flensburg",1,67049
+"diessen am ammersee,86911","bühl a.alpsee,swabia",1,21319
+"diessen am ammersee,86911","viechtach,lower bavaria",1,48537
+"dietzenbach,63128","pelzerhaken,ostholstein",1,126722
+"dillingen,66763","haustadt,merzig-wadern",1,1494
+"dingolfing,84130","frohnhausen,düsseldorf",1,134143
+"dinslaken,46537","borkum,leer",1,59824
+"dinslaken,46537","gammendorf,ostholstein",1,116882
+"dinslaken,46537","ostseebad,rügen",1,149272
+"dinslaken,46539","haffkrug,ostholstein",1,101997
+"dissen,49201","ahlbeck,ostvorpommern",1,119883
+"dissen,49201","dagebüll,nordfriesland",1,78203
+"dissen,49201","montroyal,bernkastel-wittlich",1,66397
+"doberschau,2692","stubbenfelde,ostvorpommern",1,85711
+"doberschütz,4838","altenholz-klausdorf,rendsburg-eckernförde",1,98212
+"doberschütz,4838","haffkrug,ostholstein",1,83888
+"dohna,1809","grünheide,chemnitz",1,42662
+"dommitzsch,4880","thale,harz",1,33990
+"donaustauf,93093","kühlungsborn,rostock",1,152153
+"dormagen,41542","friedrichskoog-spitze,dithmarschen",1,94958
+"dornum,26553","neßmersiel,aurich",1,1534
+"dornum,26553","wangerooge,friesland",1,9313
+"dornum,26553","weitendorf-hof,nordwestmecklenburg",1,70752
+"dorsten,46282","cranzahl,chemnitz",1,117321
+"dorsten,46282","hooksiel,friesland",1,61809
+"dorsten,46284","rudow,neukölln",1,121900
+"dorsten,46286","staberdorf,ostholstein",1,109740
+"dortmund,44122","hemer,arnsberg",1,6911
+"dortmund,44139","rinnthal,südliche weinstraße",1,68195
+"dortmund,44139","surendorf,rendsburg-eckernförde",1,99932
+"dortmund,44141","medebach,arnsberg",1,24003
+"dortmund,44141","tjücher äcker,aurich",1,60213
+"dortmund,44143","carolinensiel,wittmund",1,64721
+"dortmund,44143","hooksiel,friesland",1,63388
+"dortmund,44143","koogsreihe,nordfriesland",1,99611
+"dortmund,44143","norddeich,aurich",1,62616
+"dortmund,44143","speyer,speyer",1,67732
+"dortmund,44143","süderhafen,nordfriesland",1,91167
+"dortmund,44147","glowe,rügen",1,140536
+"dortmund,44147","oland,nordfriesland",1,96302
+"dortmund,44149","norden,aurich",1,62257
+"dortmund,44225","schillig,friesland",1,66887
+"dortmund,44229","niendorf/ostsee,ostholstein",1,96757
+"dortmund,44263","vadersdorf,ostholstein",1,110087
+"dortmund,44265","esens,wittmund",1,64821
+"dortmund,44267","boltenhagen,nordwestmecklenburg",1,100096
+"dortmund,44269","eibenstock,chemnitz",1,99235
+"dortmund,44287","dagebüll,nordfriesland",1,98455
+"dortmund,44309","friedrichskoog-spitze,dithmarschen",1,77948
+"dortmund,44309","habischried,lower bavaria",1,130661
+"dortmund,44319","elkeringhausen,arnsberg",1,20547
+"dortmund,44328","kleinern,kassel",1,30923
+"dortmund,44328","niedersfeld,arnsberg",1,20530
+"dortmund,44328","schillig,friesland",1,64730
+"dortmund,44339","humboldt - gremberg,cologne",1,20485
+"dortmund,44369","usedom,ostvorpommern",1,139691
+"dortmund,44379","norddeich,aurich",1,62709
+"dortmund,44379","sandbrink,diepholz",1,34897
+"dossenheim,69221","schausende,schleswig-flensburg",1,161531
+"dossenheim,69221","süderbrarup,schleswig-flensburg",1,155320
+"dreetz,16845","warnemünde,rostock",1,41205
+"dreieich,63303","weyer,giessen",1,13444
+"drensteinfurt,48317","greetsiel,aurich",1,51750
+"drensteinfurt,48317","wissinghausen,arnsberg",1,23874
+"dresden,1097","nordwerdum,wittmund",1,134107
+"dresden,1097","rankwitz,ostvorpommern",1,86082
+"dresden,1099","baabe,rügen",1,98943
+"dresden,1099","binz,rügen",1,100209
+"dresden,1099","hohendorf,nordvorpommern",1,89138
+"dresden,1108","parow,nordvorpommern",1,1904494
+"dresden,1109","silberberg,lower bavaria",1,1995825
+"dresden,1109","ummanz,rügen",1,1913405
+"dresden,1129","rankwitz,ostvorpommern",1,86082
+"dresden,1129","untergöhren,mecklenburgische seenplatte",1,75978
+"dresden,1129","zingst,nordvorpommern",1,102301
+"dresden,1139","lietzow,rügen",1,102017
+"dresden,1139","olpenitzdorf,schleswig-flensburg",1,126489
+"dresden,1139","remplin,demmin",1,82479
+"dresden,1157","glowe,rügen",1,104631
+"dresden,1189","priwall peninsula,lübeck",1,2380253
+"dresden,1189","pöhla,chemnitz",1,2483874
+"dresden,1189","zingst,nordvorpommern",1,2386765
+"dresden,1219","hasselfelde,harz",1,56732
+"dresden,1257","staberdorf,ostholstein",1,109331
+"dresden,1259","priwall peninsula,lübeck",1,1961713
+"dresden,1259","zingst,nordvorpommern",1,1983739
+"dresden,1277","bad saarow,oder-spree",1,36820
+"dresden,1277","rittersgrün,chemnitz",1,24525
+"dresden,1307","fuhlendorf,nordvorpommern",1,100669
+"dresden,1309","glowe,rügen",1,1907959
+"duderstadt,37115","binz,rügen",1,104761
+"duingen,31089","gifhorn,gifhorn",1,21059
+"duisburg,47057","kurort oberwiesenthal,chemnitz",1,119166
+"duisburg,47057","priwall peninsula,lübeck",1,104980
+"duisburg,47137","norddeich,aurich",1,64154
+"duisburg,47139","sandbrink,diepholz",1,43225
+"duisburg,47166","heessen,schaumburg",1,48141
+"duisburg,47167","ahrenshoop,nordvorpommern",1,131747
+"duisburg,47167","osteel,aurich",1,61164
+"duisburg,47226","eisenach,wartburgkreis",1,68136
+"duisburg,47226","schönhagen,rendsburg-eckernförde",1,112642
+"duisburg,47228","merl,cochem-zell",1,42035
+"duisburg,47239","deudesfeld,vulkaneifel",1,38385
+"duisburg,47239","korweiler,rhein-hunsrück-kreis",1,40845
+"duisburg,47249","heiligenhafen,ostholstein",1,116432
+"duisburg,47259","bansin,ostvorpommern",1,154509
+"duisburg,47259","niedersfeld,arnsberg",1,33850
+"duisburg,47269","kampen,nordfriesland",1,110533
+"duisburg,47269","rickenbach,freiburg",1,113347
+"duisburg,47269","zachenberg,lower bavaria",1,137991
+"duisburg,47279","schwalenberg,detmold",1,46511
+"durmersheim,76448","innerlehen,freiburg",1,34103
+"durmersheim,76448","köndringen,freiburg",1,25525
+"durmersheim,76448","stahlbrode,nordvorpommern",1,182196
+"dusseldorf,40547","midlum,leer",1,61694
+"dänischenhagen,24229","kappeln,schleswig-flensburg",1,7637
+"döbeln,4720","boltenhagen,nordwestmecklenburg",1,91490
+"döbeln,4720","oberwössen,upper bavaria",1,102535
+"döhlau,95182","bernkastel-kues,bernkastel-wittlich",1,94072
+"dülmen,48249","priwall peninsula,lübeck",1,89024
+"dülmen,48249","thale,harz",1,68535
+"düren,52351","karschau,schleswig-flensburg",1,128937
+"düren,52351","wyk auf föhr,nordfriesland",1,121362
+"düsseldorf,40221","büsum,dithmarschen",1,95074
+"düsseldorf,40221","woldegk,woldegk",1,140983
+"düsseldorf,40229","winterberg,arnsberg",1,31299
+"düsseldorf,40233","rohren,cologne",1,7821
+"düsseldorf,40235","friedrichskoog-spitze,dithmarschen",1,90907
+"düsseldorf,40235","priwall peninsula,lübeck",1,108868
+"düsseldorf,40237","zilsdorf,vulkaneifel",1,28477
+"düsseldorf,40472","niendorf/ostsee,ostholstein",1,108246
+"düsseldorf,40472","oberemmel,trier-saarburg",1,47846
+"düsseldorf,40472","seehof,nordwestmecklenburg",1,109972
+"düsseldorf,40479","wenningstedt-braderup,nordfriesland",1,113351
+"düsseldorf,40545","kappeln,schleswig-flensburg",1,116598
+"düsseldorf,40547","manderscheid,bernkastel-wittlich",1,34179
+"düsseldorf,40549","heiligenhafen,ostholstein",1,120464
+"düsseldorf,40549","huppenbroich,cologne",1,20519
+"düsseldorf,40549","langeoog,wittmund",1,75980
+"düsseldorf,40549","seepark kirchheim,kassel",1,53748
+"düsseldorf,40597","lehe,ammerland",1,67537
+"düsseldorf,40625","hooksiel,friesland",1,74237
+"eberswalde,16225","wernigerode,harz",1,62212
+"ebsdorfergrund,35085","feriendorf frankenau,kassel",1,11210
+"eckental,90542","arnbruck,lower bavaria",1,36619
+"eckental,90542","süderende,nordfriesland",1,160948
+"eckernförde,24340","abwinkl,upper bavaria",1,204038
+"edenkoben,67480","prerow,nordvorpommern",1,173368
+"edermünde,34295","friedrichskoog-spitze,dithmarschen",1,84175
+"edingen-neckarhausen,68535","ofterschwang,swabia",1,66321
+"egelsbach,63329","lüneburg,lüneburg",1,102549
+"eggenstein,76344","knielingen,karlsruhe",1,1726
+"eggermühlen,49577","werdern,arnsberg",1,39220
+"eggersdorf,15345","zermützel,ostprignitz-ruppin",1,22312
+"egling a.d. paar,86492","jaderaltendeich,wesermarsch",1,161611
+"ehlscheid,56581","klein labenz,rostock",1,124777
+"ehringshausen,35630","giessen,giessen",1,6159
+"einbeck,37574","sandbrink,diepholz",1,34028
+"eisenach,99817","brückrachdorf,neuwied",1,51164
+"eisenach,99817","trent,rügen",1,117538
+"eisenach,99817","zingst,nordvorpommern",1,111010
+"eisenberg,7607","krakow am see,rostock",1,79948
+"eisenberg,67304","ferienpark heilbachsee,vulkaneifel",1,29507
+"eisfeld,98673","einberg,upper franconia",1,4863
+"eisingen,97249","ditzum,leer",1,115618
+"eisingen,97249","königssee,upper bavaria",1,89039
+"eisleben,6295","zinnowitz,ostvorpommern",1,86856
+"eitorf,53783","fedderwardersiel,wesermarsch",1,85669
+"ellwangen,73479","leutkirch im allgäu,tübingen",1,34002
+"elmenhorst,18107","kappeln,schleswig-flensburg",1,39096
+"elmshorn,25335","boren,schleswig-flensburg",1,25754
+"elmshorn,25335","olpenitzdorf,schleswig-flensburg",1,27748
+"elsdorf,50189","dagebüll,nordfriesland",1,119468
+"elsdorf,50189","osterreinen,swabia",1,127092
+"elsdorf,50189","schönhagen,rendsburg-eckernförde",1,126572
+"elsterheide,2979","zerpenschleuse,barnim",1,42557
+"elstertrebnitz,4523","klingenthal,chemnitz",1,23530
+"eltville,65343","kappeln,schleswig-flensburg",1,140881
+"eltville,65343","moormerland,leer",1,97551
+"elz,65604","neustadt am rennsteig,langer berg",1,54979
+"embsen,21409","großenbrode,ostholstein",1,37688
+"emden,26723","röbel,mecklenburgische seenplatte",1,96167
+"emden,26725emden","ostseebad,rügen",1,116970
+"emlichheim,49824","butjadingen,wesermarsch",1,39525
+"emlichheim,49824","wernigerode,harz",1,75514
+"emsdetten,48282","bockholt,münster",1,1382
+"emsdetten,48282","heimbach,cologne",1,49690
+"engehausen,29690","steinwarder,ostholstein",1,54977
+"ense,59469","niedersalwey,arnsberg",1,8129
+"eppertshausen,64859","zingst,nordvorpommern",1,150496
+"eppstein,65817","müritz,rostock",1,139924
+"eppstein,65817","zingst,nordvorpommern",1,149625
+"erbach,64711","monreal,mayen-koblenz",1,40329
+"erftstadt,50374","alt travemünde - rönnau,lübeck",1,119973
+"erftstadt,50374","au,upper bavaria",1,116145
+"erftstadt,50374","bansin,ostvorpommern",1,163243
+"erftstadt,50374","hatshausen,leer",1,76854
+"erftstadt,50374","norddeich,aurich",1,84102
+"erftstadt,50374","sillens,wesermarsch",1,87228
+"erfurt,99085","prerow,nordvorpommern",1,106153
+"erfurt,99085","roes,cochem-zell",1,74881
+"erfurt,99086","ribnitz,rostock",1,99984
+"erfurt,99096","bansin,ostvorpommern",1,105642
+"erfurt,99096","zingst,nordvorpommern",1,107560
+"erfurt,99097","hinternah,hildburghausen",1,13876
+"erfurt,99099","groß zicker,rügen",1,109598
+"ergolding,84030","prerow,nordvorpommern",1,173868
+"eriskirch,88097","neudes,upper franconia",1,87789
+"erkelenz,41812","dangast,friesland",1,77587
+"erkner,15537","mauth,lower bavaria",1,105046
+"erkrath,40699","küstelberg,arnsberg",1,31560
+"erlangen,91056","dagebüll,nordfriesland",1,158105
+"erlangen,91058","zingst,nordvorpommern",1,148009
+"erlangen,91058","zirchow,ostvorpommern",1,140842
+"erpel,53579","rudow,neukölln",1,127806
+"eschborn,65760","gudendorf,dithmarschen",1,115603
+"eschborn,65760","neßmersiel,aurich",1,106965
+"escheburg,21039","westerdeichstrich,dithmarschen",1,32680
+"eschershausen,37632","burhave,wesermarsch",1,54449
+"eschweiler,52249","bensersiel,wittmund",1,88021
+"espelkamp,32339","thale,harz",1,47718
+"essen,45127","köllerbach,saarbrücken",1,64041
+"essen,45134","falkau,freiburg",1,107368
+"essen,45138","frohnhausen,düsseldorf",1,1368
+"essen,45139","dagebüll,nordfriesland",1,101598
+"essen,45141","kronenburg,cologne",1,34691
+"essen,45144","altstadt,freiburg",1,104080
+"essen,45144","haffkrug,ostholstein",1,102833
+"essen,45219","bad urach,tübingen",1,97195
+"essen,45259","priwall peninsula,lübeck",1,102077
+"essen,45276","rennerod,westerwaldkreis",1,30968
+"essen,45277","burhave,wesermarsch",1,68051
+"essen,45289","eisenschmitt,bernkastel-wittlich",1,41537
+"essen,45326","jemgum,leer",1,53488
+"essen,45327","carolinensiel,wittmund",1,66570
+"essen,45329","jordanshöhe,goslar",1,65003
+"essen,45356","wyk auf föhr,nordfriesland",1,99056
+"essen,45359","steinwarder,ostholstein",1,112771
+"essen,45359","zingst,nordvorpommern",1,135633
+"essen,49632","bad harzburg,goslar",1,53484
+"essen, ruhr,45326","laboe,plön",1,104069
+"etschberg,66871","kalterherberg,cologne",1,38097
+"ettringen,56729","bettenfeld,bernkastel-wittlich",1,11911
+"euskirchen,53881","timmendorfer strand,ostholstein",1,122772
+"eutin,23701","jordanshöhe,goslar",1,71641
+"eutin,23701","obermaiselstein,swabia",1,198727
+"everswinkel,48351","münster,münster",1,3891
+"falkenberg ot kruge,16259","wendtorfer strand,plön",1,80272
+"falkensee,14612","sellin,ostvorpommern",1,42687
+"falkensee,14612","teßmannsdorf,rostock",1,51225
+"falkensee,14612","vieregge,rügen",1,59440
+"faßberg,29328","norderteil,cuxhaven",1,36389
+"feilitzsch,95183","glowe,rügen",1,128008
+"feldafing,82340","bad könig,darmstadt",1,69568
+"felde,24242","kappeln,schleswig-flensburg",1,10621
+"fellbach,70736","mühlenbach,freiburg",1,28670
+"feuchtwangen,91555","bargebur,aurich",1,143547
+"finnentrop,57413","grömitz,ostholstein",1,102159
+"finsterwalde,3238","jabel,mecklenburgische seenplatte",1,60408
+"flechtingen,39345","graal,rostock",1,59709
+"flensburg,24939","sankt peter-ording,nordfriesland",1,19845
+"flensburg,24944","wackerballig,schleswig-flensburg",1,7075
+"fockbek,24787","sankt peter-ording,nordfriesland",1,16454
+"frankfurt,60316","sankt peter-ording,nordfriesland",1,124325
+"frankfurt,60318","wismar,nordwestmecklenburg",1,122906
+"frankfurt,60326","niedersfeld,arnsberg",1,34405
+"frankfurt,60326","oldenburg,oldenburg",1,90677
+"frankfurt,60329","hollern,stade",1,104803
+"frankfurt,60385","kühlungsborn,rostock",1,131587
+"frankfurt,60487","heiligenhafen,ostholstein",1,132940
+"frankfurt,60488","sandbrink,diepholz",1,70428
+"frankfurt,60528","nordend-ost,darmstadt",1,1976
+"frankfurt,65931","altefähr,rügen",1,151369
+"frankfurt (oder),15236","lancken,rügen",1,63442
+"frankfurt am main,60320","glowe,rügen",1,157792
+"frankfurt am main,60320","jordanshöhe,goslar",1,58480
+"frankfurt am main,60329","bahnhofsviertel,darmstadt",1,98
+"frankfurt am main,60329","strotzbüsch,vulkaneifel",1,32401
+"frankfurt am main,60388","börgerende,rostock",1,131532
+"frankfurt am main,60388","südwinsen,celle",1,77669
+"frankfurt am main,60528","schönenbach,freiburg",1,60646
+"frankfurt am main,60598","humboldt - gremberg,cologne",1,40556
+"frankfurt am main,60599","dorfmark,heidekreis",1,85739
+"frankfurt am main,65933","walchum,emsland",1,87554
+"frauendorf,1945","börgerende,rostock",1,1634638
+"frechen,50226","feriendorf freilingen,cologne",1,14277
+"frechen,50226","heringsdorf,ostholstein",1,126129
+"frechen,50226","kappeln,schleswig-flensburg",1,124761
+"frechen,50226","norddeich,aurich",1,80701
+"fredenbeck,21717","olpenitzdorf,schleswig-flensburg",1,35473
+"fredersdorf,15370","rott,detmold",1,91884
+"fredersdorf,15370","wernigerode,harz",1,57576
+"fredersdorf-vogelsdorf,15370","priwall peninsula,lübeck",1,66553
+"fredersdorf-vogelsdorf,15370","tanne,harz",1,60234
+"freiberg,9599","groß schwansee,nordwestmecklenburg",1,100586
+"freiburg,79106","tinnum,nordfriesland",1,205034
+"freiburg,79112","speyer,speyer",1,41941
+"freiburg im breisgau,79117","alpirsbach,karlsruhe",1,15228
+"freigericht,63579","hillesheim,vulkaneifel",1,47187
+"freising,85354","eckernförde,rendsburg-eckernförde",1,183645
+"freising,85356","bad reichenhall,upper bavaria",1,29471
+"freital,1705","büsum,dithmarschen",1,126908
+"freital,1705","sellin,rügen",1,100302
+"freyburg,6632","thale,harz",1,20244
+"frickenhausen,72636","schollach,freiburg",1,28419
+"frickenhausen,97252","ostseebad,rügen",1,154073
+"friedberg,61169","oberasberg,lower bavaria",1,95044
+"friedrichsruhe,19089","prora,rügen",1,41828
+"frielendorf,34621","großenbrode,ostholstein",1,105633
+"frielendorf,34621","zingst,nordvorpommern",1,119318
+"friesoythe,26169","bansin,ostvorpommern",1,114400
+"friesoythe,26169","börgerende,rostock",1,78584
+"friesoythe,26169","staberdorf,ostholstein",1,72884
+"fritzlar,34560","olpenitzdorf,schleswig-flensburg",1,105584
+"fronhausen,35112","korswandt,ostvorpommern",1,137486
+"fuchshain,4683","göhren,rügen",1,93435
+"fulda,36037","radisleben,harz",1,46192
+"fulda,36041","westerland,nordfriesland",1,131874
+"fuldabrück,34277","burhave,wesermarsch",1,72147
+"fuldabrück,34277","drei,schleswig-flensburg",1,107349
+"fuldabrück,34277","kaimt,cochem-zell",1,56551
+"fürstenwalde,15517","büsum,dithmarschen",1,106244
+"fürth,90763","mühlheim,upper bavaria",1,17810
+"gachenbach,86565","nienkattbek,rendsburg-eckernförde",1,171771
+"gaggenau,76571","luft,upper bavaria",1,87021
+"gaggenau,76571","mauth,lower bavaria",1,102885
+"gailingen,78262","west,freiburg",1,20291
+"ganderkesee,27777","grömitz,ostholstein",1,53658
+"ganderkesee,27777","heiligenhafen,ostholstein",1,57966
+"ganderkesee,27777","sandbrink,diepholz",1,16265
+"ganderkesee,27777","westerland,nordfriesland",1,55308
+"garbsen,30827","steinhude,hanover region",1,4709
+"garching,85748","bohnsdorf,treptow-köpenick",1,128508
+"gardelegen,39638","norderteil,cuxhaven",1,58990
+"gardelegen,39638","stralsund,nordvorpommern",1,60540
+"garding,25836","priwall peninsula,lübeck",1,38146
+"garmisch-partenkirchen,82467","borkum,leer",1,199510
+"gaustritz,1728","niehagen,nordvorpommern",1,103292
+"geeste,49744","wangerland,friesland",1,33759
+"geesthacht,21502","großenbrode,ostholstein",1,30334
+"geesthacht,21502","kühlungsborn ost,rostock",1,32399
+"gefrees,95482","dambach,middle franconia",1,23743
+"gehrden,30989","schilksee,plön",1,63022
+"geilenkirchen,52511","bad münster am stein-ebernburg,bad kreuznach",1,47277
+"geilenkirchen,52511","feriendorf venekotensee,düsseldorf",1,7892
+"geisa,36419","reithamm,aurich",1,96989
+"geisenheim,65366","brückrachdorf,neuwied",1,16162
+"geithain,4643","vieregge,rügen",1,104895
+"gelnhausen,63571","funnix,wittmund",1,104686
+"gelnhausen,63571","haffkrug,ostholstein",1,117129
+"gelnhausen,63571","treuen,chemnitz",1,59057
+"gelsenkirchen,45879","burhave,wesermarsch",1,65593
+"gelsenkirchen,45881","löcknitz,uecker-randow",1,141077
+"gelsenkirchen,45881","schweighausen,freiburg",1,99624
+"gelsenkirchen,45886","zierow,nordwestmecklenburg",1,105134
+"gelsenkirchen,45888","nesse,aurich",1,63596
+"gelsenkirchen,45889","borken,münster",1,10388
+"gelsenkirchen,45891","bürgerpark,bremerhaven",1,64859
+"gelsenkirchen,45891","norddeich,aurich",1,61114
+"gelsenkirchen,45892","husum,nordfriesland",1,93329
+"gelsenkirchen,45892","niendorf/ostsee,ostholstein",1,98160
+"gelsenkirchen,45892","olpenitzdorf,schleswig-flensburg",1,105403
+"gelsenkirchen,45896","stolberg (rhineland),cologne",1,28947
+"gelsenkirchen,45897","ediger-eller,cochem-zell",1,43682
+"gelsenkirchen,45897","westerland,nordfriesland",1,101837
+"gelsenkirchen,45899","burg auf fehmarn,ostholstein",1,113991
+"georgenthal,99887","höfen,cologne",1,83403
+"georgsmarienhütte,49124","wangerooge,friesland",1,47211
+"georgsmarienhütte,49124","waren,müritz",1,91770
+"gera,7548","groschwitz,saalfeld-rudolstadt",1,15448
+"gera,7549","lobbe,rügen",1,107426
+"geratal,99331","zingst,nordvorpommern",1,114867
+"gerau,4683","sandbrink,diepholz",1,77085
+"gerbrunn,97218","schwarzenbach am wald,upper franconia",1,34615
+"germany,10965","schwöb,upper bavaria",1,145114
+"germering,82100","tretting,upper palatinate",1,43953
+"germering,82110","altstadt,middle franconia",1,39699
+"germering,82110","stellichte,heidekreis",1,146840
+"gersdorf,1920","altefähr,rügen",1,1645470
+"gersfeld,36129","ediger-eller,cochem-zell",1,53488
+"gersheim,66453","marquartstein,upper bavaria",1,111124
+"gerstetten-heuchlingen,89547","obereßfeld,lower franconia",1,50553
+"gescher,48712","westerhever,nordfriesland",1,78033
+"gettorf,24214","hohwacht,plön",1,12160
+"giessen,35390","fuchsberg,upper palatinate",1,77984
+"giessen,35398","aschersleben,salzlandkreis",1,63455
+"gießen,35390","sandbrink,diepholz",1,57592
+"gießen,35396","niendorf/ostsee,ostholstein",1,107654
+"gifhorn,38518","burhave,wesermarsch",1,49878
+"gifhorn,38518","gifhorn,gifhorn",1,930
+"gifhorn,38518","heringsdorf,ostholstein",1,54076
+"gifhorn,38618","gifhorn,gifhorn",1,0
+"gladbeck,45964","norddeich,aurich",1,60698
+"gladbeck,45966","born,detmold",1,36615
+"gladbeck,45968","heringsdorf,ostholstein",1,108589
+"gladenbach-weidenhausen,35075","dittishausen,freiburg",1,84897
+"gleschendorf,23684","jordanshöhe,goslar",1,68636
+"glienicke/nordbahn,16548","hohwacht,plön",1,68923
+"glienicke/nordbahn,16548","osterdeich,nordfriesland",1,96480
+"glindenberg,39326","jordanshöhe,goslar",1,26241
+"glindenberg,39326","pouch,anhalt-bitterfeld",1,22552
+"glindenberg,39326","zirchow,ostvorpommern",1,65687
+"glückstadt,25348","ahlbeck,ostvorpommern",1,83498
+"glückstadt,25348","alt travemünde - rönnau,lübeck",1,25876
+"glückstadt,25348","niendorf,nordwestmecklenburg",1,25785
+"glückstadt,25348","ostseebad,rügen",1,76488
+"goch,47574","kappeln,schleswig-flensburg",1,110716
+"gochsheim,97469","dießen am ammersee,upper bavaria",1,63533
+"goerlitz,2826","blankenburg,harz",1,76561
+"gommern,39245","ahlbeck,ostvorpommern",1,69678
+"gornau,9405","eibenstock,chemnitz",1,11674
+"goslar,38640","alt travemünde - rönnau,lübeck",1,61617
+"goslar,38642","hüttenbusch,osterholz",1,48657
+"gotha,99867","krakow am see,rostock",1,85122
+"gotha,99867","thal,wartburgkreis",1,5760
+"grambow,19071","kappeln,schleswig-flensburg",1,38797
+"grammetal,99428","bastorf,rostock",1,94563
+"greifswald,17489","winterberg,arnsberg",1,122387
+"grevenbroich,41515","carolinensiel,wittmund",1,80491
+"grevenbroich,41516","esens,wittmund",1,77475
+"grevenbroich,41516","hooksiel,friesland",1,79121
+"grevenbroich,41516","höfen,cologne",1,18344
+"grevenbroich,41516","winterberg,arnsberg",1,35458
+"grevesmühlen,23936","schlettau,chemnitz",1,103180
+"griesheim,64347","reimboldshausen,kassel",1,33808
+"grimma ot mutzschen,4668","häusles,upper franconia",1,43566
+"gronau,48599","epe,münster",1,315
+"gronau,48599","seibranz,tübingen",1,139284
+"grossvargula,99958","blankenburg,harz",1,21097
+"groß kreutz (havel),14550","kühlungsborn,rostock",1,54961
+"groß wokern,17166","prerow,nordvorpommern",1,20528
+"groß-zimmern,64846","hafendorf,mecklenburgische seenplatte",1,125959
+"groß-zimmern,64846","sandbrink,diepholz",1,78960
+"großbottwar,71723","bach,upper bavaria",1,70033
+"großbreitenbach ot altenfeld,98701","stessen,düsseldorf",1,84287
+"großefehn,26629","ruhpolding,upper bavaria",1,192057
+"großenbrode,23775","heiligenhafen,ostholstein",1,1941
+"großfriesen,8541","wustrow,nordvorpommern",1,114727
+"großräschen,1983","altenau,goslar",1,65941
+"großschwabhausen,99441","rückeberg,schleswig-flensburg",1,113580
+"gräfenhainichen,6773","eckernförde,rendsburg-eckernförde",1,93802
+"grömitz,23743","zingst,nordvorpommern",1,30708
+"grömitz / ot cismar,23743","emmelsbüll-horsbüll,nordfriesland",1,43750
+"grünenplan,31073","vadersdorf,ostholstein",1,79138
+"gummersbach,51645","seriem,wittmund",1,80498
+"gummersbach,51647","dümmer,ludwigslust-parchim",1,99319
+"gusow,15306","dagebüll,nordfriesland",1,117925
+"gutersloh,33335","rheda,detmold",1,3519
+"gutglück,16356","bad bevensen,uelzen",1,52618
+"guxhagen,34302","priwall peninsula,lübeck",1,85040
+"gäufelden,71126","bad sachsa,landkreis osterode am harz",1,97908
+"göggingen (württemberg),73571","roes,cochem-zell",1,65006
+"göppingen,73035","steibis,swabia",1,35445
+"görlitz,2826","baabe,rügen",1,98101
+"görlitz,2826","ostseebad damp,rendsburg-eckernförde",1,135319
+"görlitz,2827","schaufling,lower bavaria",1,76482
+"göttingen,37073","altenau,goslar",1,12332
+"göttingen,37073","zingst,nordvorpommern",1,99239
+"göttingen,37075","quilitz,ostvorpommern",1,100574
+"göttingen,37075","westerland,nordfriesland",1,104570
+"göttingen,37077","niendorf/ostsee,ostholstein",1,73652
+"göttingen,37079","wackerballig,schleswig-flensburg",1,95055
+"göttingen,37083","hohen wieschendorf,nordwestmecklenburg",1,76199
+"güsten,39439","bubesheim,swabia",1,103228
+"güstrow,18273","boltenhagen,nordwestmecklenburg",1,18475
+"güstrow,18273","ostseebad,rügen",1,30856
+"gütersloh,33332","haffkrug,ostholstein",1,76574
+"gütersloh,33332","priwall peninsula,lübeck",1,75397
+"gütersloh,33334","bad malente-gremsmühlen,ostholstein",1,76633
+"gütersloh,33334","friedrichskoog-spitze,dithmarschen",1,62577
+"gütersloh,33334","laboe,plön",1,79888
+"gütersloh,33335","großenbrode,ostholstein",1,86498
+"ha,20249","süderholm,dithmarschen",1,1625468
+"haan,42781","boltenhagen,nordwestmecklenburg",1,112079
+"haan,42781","reifferscheid,cologne",1,23908
+"hagen,58091","usseln,kassel",1,21948
+"hagen,58091","vadersdorf,ostholstein",1,113956
+"hagen,58091","westerland,nordfriesland",1,106935
+"hagen,58098","blissenbach,cologne",1,11353
+"hagen,58099","burg auf fehmarn,ostholstein",1,112268
+"hagen,58099","staberdorf,ostholstein",1,112565
+"hagen,58135","bröckel,celle",1,61926
+"hagen,58135","hohwacht,plön",1,105987
+"hagenow,19230","schönhagen,rendsburg-eckernförde",1,41210
+"haiger,35708","hausen,neuwied",1,16681
+"hainburg,63512","dittishausen,freiburg",1,65385
+"hainichen,9661","ostseebad,rügen",1,100142
+"halle,6110","bad herrenalb,karlsruhe",1,104009
+"halle,6110","prerow,nordvorpommern",1,88866
+"halle,6116","rerik,rostock",1,78409
+"halle,6120","großpösna,leipzig",1,13288
+"halle,6128","lechhausen-ost,swabia",1,93361
+"halle,6130","ostseebad,rügen",1,91817
+"halle,6132","koserow,ostvorpommern",1,85994
+"halle (saale),6110","müritz,rostock",1,81867
+"halle (saale),6122","keppeln,düsseldorf",1,104663
+"hallerndorf,91352","seriem,wittmund",1,131619
+"haltern am see,45721","lennestadt,arnsberg",1,25985
+"halver,58553","eilsum,aurich",1,68407
+"hamburg,20099","tinnum,nordfriesland",1,49433
+"hamburg,20144","achtrup,nordfriesland",1,39696
+"hamburg,20146","jaderaltendeich,wesermarsch",1,31557
+"hamburg,20149","garding,nordfriesland",1,30689
+"hamburg,20249","seebad heringsdorf,ostvorpommern",1,73898
+"hamburg,20251","grömitz,ostholstein",1,23788
+"hamburg,20253","alt travemünde - rönnau,lübeck",1,19694
+"hamburg,20255","hörnum,nordfriesland",1,45395
+"hamburg,20255","karschau,schleswig-flensburg",1,31023
+"hamburg,20255","röbel,mecklenburgische seenplatte",1,47194
+"hamburg,20357","bad rothenfelde,osnabrück",1,54023
+"hamburg,20357","groß schwansee,nordwestmecklenburg",1,22102
+"hamburg,20357","gröbern,anhalt-bitterfeld",1,71468
+"hamburg,20357","lensterstrand,ostholstein",1,25233
+"hamburg,20357","timmendorfer strand,ostholstein",1,19063
+"hamburg,20357","wyk auf föhr,nordfriesland",1,41462
+"hamburg,20359","thale,harz",1,56982
+"hamburg,20535","born a. darß,nordvorpommern",1,49688
+"hamburg,20535","dagebüll,nordfriesland",1,41891
+"hamburg,20535","garz,rügen",1,62159
+"hamburg,20537","sankt peter-ording,nordfriesland",1,33138
+"hamburg,20539","kappeln,schleswig-flensburg",1,33713
+"hamburg,21031","alt travemünde - rönnau,lübeck",1,18148
+"hamburg,21031","olpenitzdorf,schleswig-flensburg",1,34581
+"hamburg,21033","hafendorf,mecklenburgische seenplatte",1,45768
+"hamburg,21077","wremen,cuxhaven",1,26201
+"hamburg,21107","kappeln,schleswig-flensburg",1,34456
+"hamburg,21109","schönhagen,rendsburg-eckernförde",1,33795
+"hamburg,21129","hohendorf,nordvorpommern",1,69723
+"hamburg,22041","karschau,schleswig-flensburg",1,31301
+"hamburg,22041","sankt peter-ording,nordfriesland",1,33060
+"hamburg,22045","fehmarn,ostholstein",1,31610
+"hamburg,22045","innenstadt,lübeck",1,12971
+"hamburg,22047","priwall peninsula,lübeck",1,17340
+"hamburg,22049","lübbenow,uckermark",1,65874
+"hamburg,22083","langwedel,gifhorn",1,28152
+"hamburg,22085","glowe,rügen",1,67093
+"hamburg,22111","dankerode,harz",1,61172
+"hamburg,22111","grömitz,ostholstein",1,23636
+"hamburg,22111","papenburg,emsland",1,49187
+"hamburg,22111","zingst,nordvorpommern",1,52652
+"hamburg,22113","lancken,rügen",1,66808
+"hamburg,22117","fedderwardersiel,wesermarsch",1,31485
+"hamburg,22117","jordanshöhe,goslar",1,54707
+"hamburg,22119","innenstadt,lübeck",1,13756
+"hamburg,22119","seebad heringsdorf,ostvorpommern",1,71944
+"hamburg,22143","haffkrug,ostholstein",1,16667
+"hamburg,22143","kappeln,schleswig-flensburg",1,31572
+"hamburg,22145","friedrichskoog-spitze,dithmarschen",1,27121
+"hamburg,22145","priwall peninsula,lübeck",1,15176
+"hamburg,22147","burg auf fehmarn,ostholstein",1,30704
+"hamburg,22147","kappeln,schleswig-flensburg",1,31283
+"hamburg,22147","rantum,nordfriesland",1,48625
+"hamburg,22149","olpenitzdorf,schleswig-flensburg",1,32047
+"hamburg,22159","nordgeorgsfehn,leer",1,44033
+"hamburg,22177","alt travemünde - rönnau,lübeck",1,17733
+"hamburg,22179","wenningstedt-braderup,nordfriesland",1,49478
+"hamburg,22299","sankt peter-ording,nordfriesland",1,31623
+"hamburg,22301","börgerende,rostock",1,37073
+"hamburg,22303","kappeln,schleswig-flensburg",1,31787
+"hamburg,22303","schönhagen,rendsburg-eckernförde",1,30939
+"hamburg,22303","timmendorfer strand,ostholstein",1,17787
+"hamburg,22307","blankenburg,harz",1,55551
+"hamburg,22307","bodstedt,nordvorpommern",1,50248
+"hamburg,22307","priwall peninsula,lübeck",1,17968
+"hamburg,22309","grömitz,ostholstein",1,22539
+"hamburg,22309","sankt peter-ording,nordfriesland",1,32049
+"hamburg,22335","priwall peninsula,lübeck",1,18008
+"hamburg,22337","wernigerode,harz",1,54720
+"hamburg,22339","althagen,nordvorpommern",1,46217
+"hamburg,22395","niendorf/ostsee,ostholstein",1,15490
+"hamburg,22395","pellworm,nordfriesland",1,36141
+"hamburg,22415","baabe,rügen",1,67861
+"hamburg,22419","damperhof,plön",1,19825
+"hamburg,22459","dagebüll,nordfriesland",1,39209
+"hamburg,22523","priwall peninsula,lübeck",1,19868
+"hamburg,22525","wenningstedt-braderup,nordfriesland",1,48379
+"hamburg,22527","schönhagen,rendsburg-eckernförde",1,30748
+"hamburg,22529","drochtersen,stade",1,10749
+"hamburg,22529","haffkrug,ostholstein",1,19448
+"hamburg,22529","kirchberg,rhein-hunsrück-kreis",1,118039
+"hamburg,22529","oldsum,nordfriesland",1,42766
+"hamburg,22547","eckernförde,rendsburg-eckernförde",1,25877
+"hamburg,22547","kopendorf,ostholstein",1,33173
+"hamburg,22547","timmendorfer strand,ostholstein",1,19672
+"hamburg,22559","heringsdorf,ostholstein",1,30527
+"hamburg,22587","wyk auf föhr,nordfriesland",1,39840
+"hamburg,22589","grömitz,ostholstein",1,26220
+"hamburg,22589","kühlungsborn ost,rostock",1,37954
+"hamburg,22607","eckernförde,rendsburg-eckernförde",1,26704
+"hamburg,22607","graal,rostock",1,46010
+"hamburg,22609","feldberg,freiburg",1,172532
+"hamburg,22761","olpenitzdorf,schleswig-flensburg",1,32605
+"hamburg,22765","kappeln,schleswig-flensburg",1,32795
+"hamburg,22767","baabe,rügen",1,70024
+"hamburg,22769","hohendorf,nordvorpommern",1,67724
+"hamburg,22851","sankt peter-ording,nordfriesland",1,30248
+"hameln,31787","niedersfeld,arnsberg",1,29332
+"hameln,31787","olpenitzdorf,schleswig-flensburg",1,76814
+"hameln,31787","sankt peter-ording,nordfriesland",1,66385
+"hameln,31789","friedrichskoog,dithmarschen",1,57706
+"hamm,59069","ditzum,leer",1,51376
+"hamm,59069","rudow,neukölln",1,105603
+"hamm,59075","fedderwardersiel,wesermarsch",1,56913
+"hamm,59075","kühlungsborn ost,rostock",1,101889
+"hamm,59077","neuenkirchen,heidekreis",1,54463
+"hammah,21714","sandbrink,diepholz",1,37315
+"hammersbach,63546","dagebüll,nordfriesland",1,133599
+"hanau,63454","berliner innenstadt,berliner innenstadt",1,109757
+"handorf,21447","grömitz,ostholstein",1,26203
+"hankensbuettel,29386","kappeln,schleswig-flensburg",1,58602
+"hankensbüttel,29386","dagebüll,nordfriesland",1,68173
+"hann. münden,34346","friedrichskoog-spitze,dithmarschen",1,79101
+"hann.münden,34346","jordanshöhe,goslar",1,17860
+"hann.münden,34346","sankt peter-ording,nordfriesland",1,87658
+"hannover,30161","kappeln,schleswig-flensburg",1,67661
+"hannover,30161","lübbenow,uckermark",1,79098
+"hannover,30161","thale,harz",1,30276
+"hannover,30163","fedderwardersiel,wesermarsch",1,43352
+"hannover,30163","marienleuchte,ostholstein",1,67526
+"hannover,30163","steingaden,upper bavaria",1,141113
+"hannover,30163","stralsund,nordvorpommern",1,82045
+"hannover,30165","zirchow,ostvorpommern",1,90104
+"hannover,30167","friedrichskoog,dithmarschen",1,50487
+"hannover,30167","langeoog,wittmund",1,56640
+"hannover,30171","rutenberg,uckermark",1,69002
+"hannover,30175","rutenberg,uckermark",1,68710
+"hannover,30177","großwürden,wesermarsch",1,43500
+"hannover,30179","grömitz,ostholstein",1,55867
+"hannover,30419","priwall peninsula,lübeck",1,50495
+"hannover,30419","schönhagen,rendsburg-eckernförde",1,66354
+"hannover,30419","waren,müritz",1,63130
+"hannover,30419","zinnowitz,ostvorpommern",1,90131
+"hannover,30453","burhave,wesermarsch",1,42890
+"hannover,30457","jordanshöhe,goslar",1,23662
+"hannover,30457","ummanz,rügen",1,87850
+"hannover,30459","aschendorf,osnabrück",1,29553
+"hannover,30519","prerow,nordvorpommern",1,79741
+"hannover,30539","jordanshöhe,goslar",1,21896
+"hannover,30559","feichten,upper bavaria",1,137517
+"hannover,30559","kappeln,schleswig-flensburg",1,68245
+"hannover,30625","priwall peninsula,lübeck",1,50426
+"hannover,30625","prora,rügen",1,90610
+"hannover,30627","großenbrode,ostholstein",1,62844
+"hannover,30627","parow,nordvorpommern",1,82209
+"hannover,30627","timmendorfer strand,ostholstein",1,50579
+"hannover,30629","büsum,dithmarschen",1,54640
+"hannover,30629","seriem,wittmund",1,54580
+"hannover,30655","dagebüll,nordfriesland",1,71833
+"hannover,30657","jordanshöhe,goslar",1,24658
+"hannover,30659","hage,aurich",1,57298
+"hannover,30659","sahlenburg,cuxhaven",1,47940
+"harsefeld,21698","olpenitzdorf,schleswig-flensburg",1,37114
+"harsewinkel,33428","mönkebüll,nordfriesland",1,81866
+"hasbergen,49205","grömitz,ostholstein",1,77855
+"hasbergen,49205","thale,harz",1,58085
+"haselünne,49740","fedderwardersiel,wesermarsch",1,31393
+"hasenkrug,24616","prerow,nordvorpommern",1,49134
+"haslach,77716","hofstetten,freiburg",1,725
+"hassendorf,27367","göhren-lebbin,mecklenburgische seenplatte",1,58529
+"hattenhofen,73110","großheirath,upper franconia",1,52156
+"hattingen,45525","ettensberg,swabia",1,125621
+"hattingen,45527","sögel,emsland",1,43680
+"hatzfeld (eder),35116","unterbränd,freiburg",1,90969
+"haßfurt,97437","karlshagen,ostvorpommern",1,135084
+"heddesheim,68542","bärental,freiburg",1,49755
+"heede,26892","winterberg,arnsberg",1,57973
+"heeßen,31707","medebach,arnsberg",1,31645
+"heide,25746","gelting,schleswig-flensburg",1,21361
+"heideblick,15926","kühlungsborn-west,rostock",1,77623
+"heidelberg,69121","großschirma,chemnitz",1,98566
+"heidelberg,69124","unter-mossau,darmstadt",1,10294
+"heiden,46359","bischofsreut,lower bavaria",1,156124
+"heidenau,1809","selchow,oder-spree",1,37407
+"heidesee,15754","ückeritz,ostvorpommern",1,51180
+"heikendorf,24226","thorstorf,nordwestmecklenburg",1,22396
+"heilbronn,74081","quetzin,ludwigslust-parchim",1,142414
+"heiligenhafen,23774","norddeich,aurich",1,70233
+"heiligenhaus,42579","baasem,cologne",1,29627
+"heimertingen,87751","happach,swabia",1,11610
+"heinsberg,52525","altstadt,erfurt",1,91750
+"heist,25492","dieksanderkoog,dithmarschen",1,16027
+"heldburg,98663","sandbrink,diepholz",1,79569
+"hemer,58675","bad münster am stein-ebernburg,bad kreuznach",1,46451
+"hemer,58675","prerow,nordvorpommern",1,125247
+"hemmingen,30966","jordanshöhe,goslar",1,22385
+"hemmingen,30966","olpenitzdorf,schleswig-flensburg",1,70495
+"hemmingen,71282","grömitz,ostholstein",1,161003
+"hemmingen,71282","ostbense,wittmund",1,145519
+"hemslingen,27386","hohendorf,nordvorpommern",1,78035
+"hennef/sieg,53773","westerland,nordfriesland",1,124454
+"hennigsdorf,16761","bansin,ostvorpommern",1,43025
+"hennigsdorf,16761","haffkrug,ostholstein",1,60554
+"hennigsdorf,16761","olpenitzdorf,schleswig-flensburg",1,82542
+"hennigsdorf,16761","thorstorf,nordwestmecklenburg",1,51770
+"henstedt-ulzburg,24558","kappeln,schleswig-flensburg",1,26081
+"henstedt-ulzburg,24558","lancken,rügen",1,64918
+"henstedt-ulzburg,24558","rerik,rostock",1,29138
+"henstedt-ulzburg,24558","tossens,wesermarsch",1,31949
+"hentern,54314","dagebüll,nordfriesland",1,156148
+"heppenheim,64646","trollenhagen,mecklenburgische seenplatte",1,145289
+"hepstedt,27412","bettenbach,darmstadt",1,109145
+"herbsleben,99955","serrig,trier-saarburg",1,92892
+"herbstein,36358","dagebüll,nordfriesland",1,124355
+"herdecke,58313","borkum,leer",1,65951
+"herne,44623","trent,rügen",1,139370
+"herne,44623","willingen,kassel",1,27004
+"herne,44625","niedersfeld,arnsberg",1,25766
+"herne,44627","neßmersiel,aurich",1,63355
+"herne,44628","schieder,detmold",1,37010
+"herne,44649","landschaftspolder,leer",1,50266
+"herne,44649","vitzdorf,ostholstein",1,112943
+"herne,44652","gossersweiler,südliche weinstraße",1,71681
+"herren steinfeld,19071","schönhagen,rendsburg-eckernförde",1,36080
+"herrenberg,71083","hessigheim,stuttgart",1,13489
+"herrieden,91567","sasbach am kaiserstuhl,freiburg",1,65121
+"herten,45699","burhave,wesermarsch",1,63043
+"herten,45701","ostseebad damp,rendsburg-eckernförde",1,102678
+"herzogenaurach,91074","weckersdorf,greiz",1,36896
+"herzogenrath,52134","breit,bernkastel-wittlich",1,36221
+"hettstadt,97265","isenbüttel,gifhorn",1,79491
+"hettstedt,6333","vordorfermühle,upper franconia",1,48054
+"heudeber,38855","bad lausick,leipzig",1,40147
+"hiddenhausen,32120","anwanden,middle franconia",1,92734
+"hildburghausen,98646","zingst,nordvorpommern",1,124241
+"hilden,40721","dahme,ostholstein",1,117674
+"hilden,40721","kappeln,schleswig-flensburg",1,116805
+"hilden,40723","dagebüll,nordfriesland",1,110799
+"hilden,40723","rott,detmold",1,41303
+"hilden,40723","werdern,arnsberg",1,27603
+"hildesheim,31134","timmendorfer strand,ostholstein",1,56764
+"hildesheim,31135","jordanshöhe,goslar",1,16459
+"hildesheim,31137","feichten,upper bavaria",1,131622
+"hildesheim,31137","tossens,wesermarsch",1,51263
+"hildesheim,31139","braunlage,goslar",1,17536
+"hildesheim,31139","timmendorfer strand,ostholstein",1,57563
+"hildesheim,31141","großenbrode,ostholstein",1,69362
+"hochheim,65239","priwall peninsula,lübeck",1,125364
+"hof,95030","dreislar,arnsberg",1,64703
+"hof,95032","glowe,rügen",1,130107
+"hofgeismar,34369","kappeln,schleswig-flensburg",1,94418
+"hofgeismar,34369","westerland,nordfriesland",1,103119
+"hohen neuendorf ot bergfelde,16562","oertzenhof,nordwestmecklenburg",1,51699
+"hohenahr,35644","norden,aurich",1,90206
+"hohenbrunn,85662","wackerballig,schleswig-flensburg",1,202045
+"hohenbucko,4936","prora,rügen",1,79495
+"hohenlinden,85664","scharling,upper bavaria",1,15421
+"hohenstein-ernstthal,9337","dahmsdorf,oder-spree",1,48906
+"hohenwestedt,24594","eckernförde,rendsburg-eckernförde",1,11702
+"hohne,29362","elmenhorst,nordwestmecklenburg",1,43738
+"hohne,29362","gollwitz,nordwestmecklenburg",1,46836
+"hohne,29362","meißendorf,celle",1,10676
+"hohne,29362","zingst,nordvorpommern",1,68405
+"holzgerlingen,71088","mühlenbach,freiburg",1,21288
+"holzhausen,56357","schillig,friesland",1,103435
+"holzminden,37603","norddeich,aurich",1,67400
+"homberg efze,34576","reithamm,aurich",1,84133
+"homburg,66424","tannenberg,upper bavaria",1,81664
+"hopsten,48496","sandbrink,diepholz",1,13550
+"horgau,86497","nienkattbek,rendsburg-eckernförde",1,173636
+"horstmar,48612","burhave,wesermarsch",1,47726
+"hoyerswerda,2977","wilsche,gifhorn",1,75105
+"hude,27798","teßmannsdorf,rostock",1,62192
+"hude (oldenburg),27798","rerik,rostock",1,64599
+"husum,25813","ramsau bei berchtesgaden,upper bavaria",1,217097
+"husum,25813","riddorf,nordfriesland",1,4073
+"hörstel,48477","baabe,rügen",1,124579
+"hörstel,48477","eckwarden,wesermarsch",1,38677
+"hörstel,48477","jordanshöhe,goslar",1,56388
+"hörstel,48477","wiegboldsbur,aurich",1,34649
+"hörstel,48477","zingst,nordvorpommern",1,110460
+"hövelhof,33161","sankt peter-ording,nordfriesland",1,73228
+"höxter,37671","gilgenhöfe,upper bavaria",1,129507
+"höxter,37671","wyk auf föhr,nordfriesland",1,87004
+"hückelhoven,41836","cochem,cochem-zell",1,32082
+"hückelhoven,41836","schobüll,nordfriesland",1,114313
+"hückeswagen,42499","norderteil,cuxhaven",1,84212
+"hüllhorst,32609","großenbrode,ostholstein",1,75651
+"hünfeld,36088","fehmarn,ostholstein",1,115987
+"hünfeld,36088","marktrodach,upper franconia",1,33279
+"hünfelden,65597","friedrichskoog-spitze,dithmarschen",1,111015
+"hürth,50354","carolinensiel,wittmund",1,85736
+"hütschenhausen,66882","krähenberg,südwestpfalz",1,2810
+"hüttenberg,35625","sobernheim,bad kreuznach",1,28073
+"hüttigweiler,66557","schneverdingen,heidekreis",1,121725
+"ibbenbüren,49477","alme,arnsberg",1,29476
+"idstein,65510","urspring,upper bavaria",1,90051
+"illingen,66557","dagebüll,nordfriesland",1,161647
+"illingen,66557","speyer,speyer",1,27326
+"ilmenau,98693","ilmenau,ilm-kreis",1,600
+"ilsede,31241","zingst,nordvorpommern",1,78244
+"ingelheim,55218","monreal,mayen-koblenz",1,19957
+"ise5,58642","harlesiel,wittmund",1,1606686
+"isenbüttel,38550","radisleben,harz",1,24474
+"iserlohn,58640","ockholm,nordfriesland",1,98625
+"isernhagen,30916","jordanshöhe,goslar",1,24934
+"issigau,95188","neuendorf,ostvorpommern",1,106805
+"issing,86946","westerland,nordfriesland",1,212110
+"issum,47661","winterberg,arnsberg",1,40531
+"jena,7745","finsterbergen,gotha",1,18378
+"jena,7747","waldseite,bentheim",1,93164
+"jena,7749","karlstadt am main,lower franconia",1,45158
+"jessen (elster),6917","mitte,mitte",1,21755
+"jever,26441","koogsreihe,nordfriesland",1,39351
+"jockgrim,76751","niedersfeld,arnsberg",1,64501
+"jößnitz,8547","kühlungsborn,rostock",1,107408
+"jüchen,41363","carolinensiel,wittmund",1,80724
+"kaarst,41465","wilhelmshaven,wilhelmshaven",1,73684
+"kaarst,41564","dahme,ostholstein",1,120330
+"kaarst,41564","filz,cochem-zell",1,31804
+"kaarst,41564","kühlungsborn ost,rostock",1,127357
+"kaarst,41564","neßmersiel,aurich",1,74227
+"kaarst,41564","sandbrink,diepholz",1,50407
+"kaarst,41564","stolpe,ostvorpommern",1,148349
+"kaarst,41564","westerland,nordfriesland",1,113899
+"kaiserslautern,67655","osburg,trier-saarburg",1,20530
+"kaiserslautern,67659","odernheim am glan,bad kreuznach",1,8852
+"kaisheim,86687","mühlberg,lower bavaria",1,50525
+"kalkar,47546","buckow,neukölln",1,131620
+"kaltenkirchen,24568","boltenhagen,nordwestmecklenburg",1,22347
+"kaltenkirchen,24568","jordanshöhe,goslar",1,63456
+"kaltenkirchen,24568","priwall peninsula,lübeck",1,16480
+"kamen,59174","krakow am see,rostock",1,103105
+"kamen,59174","neuringe,emsland",1,32864
+"kamp lintfort,47475","burgaltendorf,düsseldorf",1,11413
+"kamp-lintfort,47475","haffkrug,ostholstein",1,107056
+"kamp-lintfort,47475","harlesiel,wittmund",1,69104
+"kapellen-drustweiler,76889","kutenholz,stade",1,132237
+"karben,61184","seriem,wittmund",1,104742
+"karlsfeld,85757","wilhelmshaven,wilhelmshaven",1,169484
+"karlsruhe,76131","schonach im schwarzwald,freiburg",1,26204
+"karlsruhe,76133","lauterbach,freiburg",1,23117
+"karlsruhe,76135","reichenhofen,tübingen",1,46192
+"karlsruhe,76135","wittenbeck,rostock",1,165016
+"karlsruhe,76137","lindau,swabia",1,48999
+"karlsruhe,76139","haßloch,bad dürkheim",1,10603
+"karlsruhe,76185","eichwalde,dahme-spreewald",1,140760
+"karlsruhe,76185","taufkirchen,lower bavaria",1,86846
+"karlsruhe,76185","wilhelmshaven,wilhelmshaven",1,134485
+"karlsruhe,76227","althagen,nordvorpommern",1,174787
+"karlsruhe,76229","wyk auf föhr,nordfriesland",1,168687
+"karlsruhr,76131","baiersbronn,karlsruhe",1,15203
+"karlstein,63791","priwall peninsula,lübeck",1,120690
+"kassel,34119","burhave,wesermarsch",1,70058
+"kassel,34130","grömitz,ostholstein",1,88291
+"kassel,34134","edertal,kassel",1,7963
+"kassel,34134","schwalefeld,kassel",1,15598
+"kassel , hess,34123","veckerhagen,kassel",1,5843
+"katlenburg-lindau,37191","großenbrode,ostholstein",1,82550
+"kaufbeuren,87600","thale,harz",1,115258
+"kaufungen,34260","priwall peninsula,lübeck",1,82256
+"kehl,77694","dornhan,freiburg",1,14769
+"kehl,77694","mühlenbach,freiburg",1,11085
+"kelkheim,65779","sachrang,upper bavaria",1,104649
+"kempen,47906","lissendorf,vulkaneifel",1,31541
+"kempen,47906","niedersfeld,arnsberg",1,39209
+"kempenich,56746","neugarmssiel,friesland",1,97619
+"kempten,87437","waren,müritz",1,177026
+"kerken,47647","bernkastel,bernkastel-wittlich",1,44804
+"kerken,47647","carolinensiel,wittmund",1,71082
+"kerpen,50170","kalterherberg,cologne",1,12609
+"kerpen,50170","lierfeld,bitburg-prüm",1,22521
+"kevelaer,47623","hollstadt,lower franconia",1,84178
+"kevelaer,47623","kappeln,schleswig-flensburg",1,112756
+"kiel,24113","eckernförde,rendsburg-eckernförde",1,6973
+"kiel,24116","list,nordfriesland",1,35531
+"kiel,24118","krems ii,segeberg",1,11325
+"kiel,24143","vorstadt,plön",1,6855
+"kiel,24145","kappeln,schleswig-flensburg",1,11797
+"kirchardt,74912","bad wildbad,karlsruhe",1,15986
+"kirchberg,8107","kaltenhof,nordwestmecklenburg",1,103526
+"kirchberg,8107","westermarkelsdorf,ostholstein",1,119745
+"kirchberg,71737","jaderaltendeich,wesermarsch",1,132369
+"kirchheim,85551","zandt,upper palatinate",1,34717
+"kirchheim unter teck,73230","oberkirch,freiburg",1,27357
+"kirchlengern,32278","grömitz,ostholstein",1,70357
+"kirchlengern,32278","göhren,rügen",1,109973
+"kirchlengern,32278","sandbrink,diepholz",1,10076
+"kirchlinteln,27308","dagebüll,nordfriesland",1,55309
+"kitzingen,97318","nieblum,nordfriesland",1,150138
+"klein lenden,37130","niendorf/ostsee,ostholstein",1,75516
+"klein rogahn,19073","wiek,rügen",1,45373
+"kleinen linden,35398","wandlitz,barnim",1,110300
+"kleinostheim,63801","waldau,hildburghausen",1,36226
+"klinkrade,23898","staberdorf,ostholstein",1,24302
+"kloster lehnin,14797","zirchow,ostvorpommern",1,52796
+"klostermansfeld,6308","haltern am see,münster",1,79530
+"klostermansfeld,6308","hullern,münster",1,77550
+"klötze,38486","klein bollhagen,rostock",1,46187
+"koblenz,56068","kappeln,schleswig-flensburg",1,134690
+"koblenz,56076","norddeich,aurich",1,97988
+"kohlberg,92702","niederklutz,nordwestmecklenburg",1,130480
+"kolkwitz,3099","altefähr,rügen",1,79215
+"konz-könen,54329","kinzigtal,freiburg",1,47657
+"korb,71404","pantow,rügen",1,181864
+"kornhochheim,99192","sassnitz,rügen",1,117962
+"kornwestheim,70806","friedrichskoog-spitze,dithmarschen",1,153729
+"korschenbroich,41352","rieden,mayen-koblenz",1,26641
+"krefeld,47798","wittscheid,cologne",1,26369
+"krefeld,47799","niedersfeld,arnsberg",1,36409
+"krefeld,47802","oberstdorf,swabia",1,137956
+"krefeld,47805","dreislar,arnsberg",1,39825
+"krefeld,47805","sandbrink,diepholz",1,48511
+"krefeld,47809","wilhelmshaven,wilhelmshaven",1,70484
+"krefeld,47839","griesbach,lower bavaria",1,154693
+"krempermoor,25569","heiligenhafen,ostholstein",1,29856
+"kronach,96317","kappeln,schleswig-flensburg",1,133588
+"kronberg,61476","schönhagen,rendsburg-eckernförde",1,134889
+"kronberg,61476","teßmannsdorf,rostock",1,128105
+"kronshagen,24119","wyk auf föhr,nordfriesland",1,28407
+"krugsdorf,17309","karlshagen,ostvorpommern",1,18037
+"krumhermersdorf,9434","juliusruh,rügen",1,115519
+"krumhermersdorf,9434","vieregge,rügen",1,113840
+"krölpa bei pößneck,7387","serrig,trier-saarburg",1,100043
+"kuckssee,17217","stralsund,nordvorpommern",1,23164
+"kumhausen,84036","hohenhameln,peine",1,118274
+"kurort oberwiesenthal,9484","windesheim,bad kreuznach",1,98944
+"kurort seiffen,9548","nienhagen,harz",1,57436
+"kusel,66869","eckernförde,rendsburg-eckernförde",1,153029
+"kyllburg,54655","neßmersiel,aurich",1,108731
+"käbschütztal,1665","schwarbe,rügen",1,104339
+"kölln-reisiek,25337","wienrode,harz",1,63509
+"köln,50667","kappeln,schleswig-flensburg",1,1641513
+"köln,50668","gerolstein,vulkaneifel",1,22264
+"köln,50670","köln-altstadt-nord,cologne",1,281
+"köln,50674","hillesheim,vulkaneifel",1,19724
+"köln,50676","reifferscheid,cologne",1,16339
+"köln,50676","sessenbach,westerwaldkreis",1,18755
+"köln,50677","uelsen,bentheim",1,46956
+"köln,50678","bad saarow,oder-spree",1,136755
+"köln,50678","wahlrod,westerwaldkreis",1,16324
+"köln,50678","wangerooge,friesland",1,86790
+"köln,50735","boltenhagen,nordwestmecklenburg",1,117667
+"köln,50735","burhave,wesermarsch",1,81292
+"köln,50737","winterberg,arnsberg",1,30288
+"köln,50739","heißer stein,bernkastel-wittlich",1,28870
+"köln,50739","kerschenbach,vulkaneifel",1,20312
+"köln,50769","polchow,rügen",1,157825
+"köln,50769","ummanz,rügen",1,151327
+"köln,50823","brauneberg,bernkastel-wittlich",1,30988
+"köln,50823","carolinensiel,wittmund",1,82948
+"köln,50829","höfen,cologne",1,17578
+"köln,50829","jemgum,leer",1,68527
+"köln,50859","grömitz,ostholstein",1,120646
+"köln,50931","olpenitzdorf,schleswig-flensburg",1,123935
+"köln,50939","wremen,cuxhaven",1,86244
+"köln,50968","rieden,mayen-koblenz",1,15675
+"köln,50997","wremen,cuxhaven",1,87638
+"köln,51061","groß wokern,rostock",1,128755
+"köln,51063","wickerode,mansfeld-südharz",1,78063
+"köln,51103","sandbrink,diepholz",1,52970
+"köln,51105","berliner innenstadt,berliner innenstadt",1,127021
+"köln,51107","burgaltendorf,düsseldorf",1,14950
+"köln,51109","immerath,vulkaneifel",1,24106
+"köln,51109","prüm,bitburg-prüm",1,25042
+"köln,51145","süderholm,dithmarschen",1,105432
+"köln,51147","altastenberg,arnsberg",1,26848
+"königs wusterhausen,15711","bansin,ostvorpommern",1,50527
+"königs wusterhausen,15711","gelbensande,rostock",1,61368
+"königsbach-stein,75203","tossens,wesermarsch",1,136854
+"königsbrunn,86343","rheda,detmold",1,117368
+"königshain-wiederau,9306","letzau,upper palatinate",1,40159
+"königslutter,38154","burhave,wesermarsch",1,59217
+"königslutter,38154","dietrichstal,landkreis osterode am harz",1,18295
+"königslutter,38154","warnemünde,rostock",1,62135
+"königslutter am elm,38154","neuwerk,harz",1,14086
+"königsmoos,86669","stamsried,upper palatinate",1,32041
+"königstein,61462","lobbe,rügen",1,155412
+"königswinter,53639","kempten,swabia",1,106089
+"köthen,6366","ediger-eller,cochem-zell",1,102491
+"kühren,24211","schilksee,plön",1,6718
+"kürten,51515","besch,merzig-wadern",1,48777
+"kürten,51515","norddeich,aurich",1,76284
+"laatzen,30880","jordanshöhe,goslar",1,21771
+"laatzen,30880","streek,friesland",1,43675
+"ladbergen,49549","elpe,arnsberg",1,28717
+"ladenburg,68526","thale,harz",1,81302
+"lage,32791","norderteil,cuxhaven",1,54743
+"lahnstein,56112","norddeich,aurich",1,98561
+"lahntal,35094","priwall peninsula,lübeck",1,100394
+"lahr,77933","lehengericht,freiburg",1,8581
+"lambsheim,67245","bodman,freiburg",1,52639
+"landau in der pfalz,76829","innenstadt,lübeck",1,146851
+"landkreis,ehringshausen","wetzlar,giessen",1,2660
+"landsberg,86888","kühlungsborn,rostock",1,181794
+"landsberg am lech,86899","witzenhausen,kassel",1,100292
+"landstuhl,66849","korweiler,rhein-hunsrück-kreis",1,21247
+"langen (hessen),63225","dangast,friesland",1,103185
+"langenfeld,40764","börgerende,rostock",1,126439
+"langenfeld,40764","pulheim,cologne",1,4576
+"langenfeld,40764","schönhagen,rendsburg-eckernförde",1,117922
+"langenfeld,40764","süderbusch,cuxhaven",1,85776
+"langenfeld,40764","wacken,steinburg",1,96644
+"langenhagen,30851","grömitz,ostholstein",1,55500
+"langenhagen,30855","ahlbeck,ostvorpommern",1,90866
+"langenhagen,30855","fehmarn,ostholstein",1,64158
+"langwedel,27299","tossens,wesermarsch",1,23920
+"langwedel,27299","westerland,nordfriesland",1,59269
+"lathen,49762","papenburg,emsland",1,6510
+"laubach,35321","krems ii,segeberg",1,104964
+"lauenbrück,27389","wolfshagen im harz,goslar",1,40770
+"lauf,77886","dornhan,freiburg",1,11183
+"lauf,91207","rehbach,kassel",1,63135
+"lauingen,89415","wiek,rügen",1,187639
+"laupheim,88471","reichenau,freiburg",1,22265
+"laupheim,88471","zummeterhof,trier-saarburg",1,74392
+"lauterbach,36341","westerland,nordfriesland",1,128432
+"lauterbach (hessen),36341","zierow,nordwestmecklenburg",1,104009
+"leck,25917","garding,nordfriesland",1,13528
+"leegebruch,16767","worpswede,osterholz",1,77715
+"leezen,23816","sankt peter-ording,nordfriesland",1,30772
+"lehma,4617","canow,mecklenburgische seenplatte",1,1612198
+"lehmkuhlen,24211","zingst,nordvorpommern",1,40681
+"lehre,38165","tossens,wesermarsch",1,56819
+"lehrte,31275","dorumer neufeld,cuxhaven",1,48035
+"lehrte,31275","tecklenburg,münster",1,39611
+"lehrte,31275","westerland,nordfriesland",1,80790
+"leimen,69181","ruhlsdorf,barnim",1,137129
+"leinfelden-echterdingen,70771","reimboldshausen,kassel",1,63722
+"leipzig,4103","ahlbeck,ostvorpommern",1,84031
+"leipzig,4103","cranzahl,chemnitz",1,26758
+"leipzig,4103","hatzenbühl,germersheim",1,102714
+"leipzig,4103","wildenthal,chemnitz",1,26482
+"leipzig,4105","lubmin,ostvorpommern",1,85757
+"leipzig,4105","untergöhren,mecklenburgische seenplatte",1,63678
+"leipzig,4109","priwall peninsula,lübeck",1,81957
+"leipzig,4109","wieck a. darß,nordvorpommern",1,91254
+"leipzig,4155","hirschbach,dresden government region",1,29039
+"leipzig,4155","hohendorf,nordvorpommern",1,83044
+"leipzig,4155","loddin,ostvorpommern",1,84752
+"leipzig,4155","olpenitzdorf,schleswig-flensburg",1,106779
+"leipzig,4155","ribnitz,rostock",1,85914
+"leipzig,4157","stahlbrode,nordvorpommern",1,86512
+"leipzig,4159","bibelöd,upper bavaria",1,107346
+"leipzig,4159","röbel,mecklenburgische seenplatte",1,59544
+"leipzig,4177","zinnowitz,ostvorpommern",1,85997
+"leipzig,4178","bibelöd,upper bavaria",1,106818
+"leipzig,4178","rerik,rostock",1,82433
+"leipzig,4179","klein belitz,rostock",1,77167
+"leipzig,4179","schlettau,chemnitz",1,26324
+"leipzig,4179","zempin,ostvorpommern",1,85956
+"leipzig,4207","hottingen,freiburg",1,136966
+"leipzig,4229","baunach,upper franconia",1,48599
+"leipzig,4229","hohendorf,nordvorpommern",1,84227
+"leipzig,4229","klingenthal,chemnitz",1,28374
+"leipzig,4249","olbersdorf,dresden government region",1,47687
+"leipzig,4249","sievershagen,rostock",1,84195
+"leipzig,4275","glowe,rügen",1,98452
+"leipzig,4275","hamma,nordhausen",1,27570
+"leipzig,4275","vitte,rügen",1,101098
+"leipzig,4289","waren,müritz",1,66165
+"leipzig,4299","walthersdorf,chemnitz",1,25147
+"leipzig,4315","priwall peninsula,lübeck",1,82076
+"leipzig,4316","neßmersiel,aurich",1,115532
+"leipzig,4318","rutenberg,uckermark",1,59082
+"leipzig,4318","thale,harz",1,28386
+"leipzig,4319","altenfeld,ilm-kreis",1,36761
+"leipzig,4319","stützerbach,ilm-kreis",1,37009
+"leipzig,4356","dahmsdorf,oder-spree",1,37802
+"lemgo,32657","zinnowitz,ostvorpommern",1,107870
+"lemgow,29485","rabenkirchen,schleswig-flensburg",1,57469
+"lengerich,49525","behringen,heidekreis",1,47556
+"lengerich,49525","norderteil,cuxhaven",1,52633
+"lengerich,49525","wenningstedt-braderup,nordfriesland",1,82672
+"lennestadt,57368","dornumersiel,aurich",1,76463
+"lenningen,73252","nieblum,nordfriesland",1,183163
+"leopoldshöhe,33818","bockholm,schleswig-flensburg",1,85760
+"leveluden,51375","gollwitz,nordwestmecklenburg",1,1629130
+"leverkusen,51373","burhave,wesermarsch",1,79758
+"leverkusen,51373","lutterbek,plön",1,116087
+"leverkusen,51375","friedrichskoog-spitze,dithmarschen",1,94790
+"lichtenau,77839","schönwald im schwarzwald,freiburg",1,18866
+"liebenburg,38704","friedrichshöhe,harz",1,14413
+"liebenburg,38704","großenbrode,ostholstein",1,71375
+"liebenburg,38704","winterberg,arnsberg",1,42124
+"liederbach,65835","grömitz,ostholstein",1,128016
+"lilienthal,28865","sulzbach am main,lower franconia",1,96470
+"lilienthal,28865","wangerooge,friesland",1,25759
+"limbach-o.,9212","berliner innenstadt,berliner innenstadt",1,50656
+"limbach-oberfrohna,9212","niendorf/ostsee,ostholstein",1,98837
+"linau,22959","priwall peninsula,lübeck",1,11553
+"lindau,88131","klockries,nordfriesland",1,214439
+"linden,35440","kreuzberg,lower bavaria",1,106303
+"lindenberg,88161","günzburg,swabia",1,26233
+"lindenberg,88161","unterschwarzach,tübingen",1,10119
+"lindig,7768","laboe,plön",1,110136
+"lingen,49809","burhave,wesermarsch",1,36687
+"lingen,49809","duhnen,cuxhaven",1,46892
+"lingen,49809","feriendorf freilingen,cologne",1,62833
+"lingen,49809","groß charlottengroden,wittmund",1,35606
+"lingen,49809","jordanshöhe,goslar",1,62818
+"lingen,49809","landsatz,lüchow-dannenberg",1,71405
+"lingen,49811","hörnum,nordfriesland",1,67730
+"lingen,49811","hösjekamp,ammerland",1,22917
+"lingenfeld,67360","bad dürkheim,bad dürkheim",1,7251
+"linkenheim-hochstetten,76351","insel,swabia",1,53348
+"linkenheim-hochstetten,76351","lieg,cochem-zell",1,36271
+"lippstadt,59555","friedrichskoog-spitze,dithmarschen",1,70503
+"lippstadt,59557","kühlungsborn-west,rostock",1,95563
+"lippstadt,59559","dahme,ostholstein",1,90290
+"lohmar,53797","norddeich,aurich",1,81893
+"luckenwalde,14943","zinnowitz,ostvorpommern",1,60634
+"ludwigshafen,67069","friedrichskoog,dithmarschen",1,133659
+"ludwigshafen,67071","auerbach,upper bavaria",1,78327
+"luebeck,23552","eschach,swabia",1,183263
+"luhden,31711","priwall peninsula,lübeck",1,60270
+"lunden,25774","haffkrug,ostholstein",1,31098
+"löbau,2708","lautenthal,goslar",1,84128
+"löbejün,6193","zingst,nordvorpommern",1,84311
+"löhnberg,35792","horn,freiburg",1,75137
+"löhne,32584","minfeld,germersheim",1,93224
+"löningen,49624","vollbüttel,gifhorn",1,49723
+"lörrach,79540","fröhnd,freiburg",1,6706
+"lübbecke,32312","kappeln,schleswig-flensburg",1,73356
+"lübbecke,32312","rechlin,mecklenburgische seenplatte",1,79452
+"lübbecke,32312","trassenheide,ostvorpommern",1,106994
+"lübben,15907","wildemann,goslar",1,66174
+"lübeck,23552","innenstadt,lübeck",1,0
+"lübeck,23556","westerland,nordfriesland",1,50597
+"lübeck,23560","waldkatzenbach,karlsruhe",1,132566
+"lübeck,23564","karschau,schleswig-flensburg",1,26841
+"lübeck,23564","schilksee,plön",1,19177
+"lübeck,23566","priwall peninsula,lübeck",1,3300
+"lübeck travemünde,23570","scharbeutz,ostholstein",1,2539
+"lübz,19386","zingst,nordvorpommern",1,31000
+"lüdenscheid,58507","dragun,nordwestmecklenburg",1,98167
+"lüdenscheid,58509","sandbrink,diepholz",1,40942
+"lüdersfeld,31702","bentwisch,cuxhaven",1,41671
+"lüdinghausen,59348","bensersiel,wittmund",1,56730
+"lüdinghausen,59348","oberjoch,swabia",1,138505
+"lügde,32676","fehmarnsund,ostholstein",1,81698
+"lüneburg,21335","großenbrode,ostholstein",1,36332
+"lüneburg,21335","sahlenburg,cuxhaven",1,36836
+"lüneburg,21335","wustrow,nordvorpommern",1,48728
+"lüneburg,21337","sandbrink,diepholz",1,43102
+"lüneburg,21337","thale,harz",1,45827
+"lüneburg,21339","alt travemünde - rönnau,lübeck",1,22905
+"lünen,44536","olpenitzdorf,schleswig-flensburg",1,101413
+"lürschau,24850","pelzerhaken,ostholstein",1,26996
+"magdeburg,39108","hohenkirchen,nordwestmecklenburg",1,53199
+"magdeburg,39110","bensersiel,wittmund",1,85283
+"magdeburg,39110","kappeln,schleswig-flensburg",1,80751
+"magdeburg,39110","vieregge,rügen",1,78671
+"magdeburg,39110","wilhelmshaven,wilhelmshaven",1,75099
+"magdeburg,39114","borstendorf,chemnitz",1,47653
+"magdeburg,39114","tarnewitz,nordwestmecklenburg",1,56620
+"magdeburg,39116","manschnow,märkisch-oderland",1,56278
+"magdeburg,39120","elend,harz",1,20087
+"magdeburg,39120","rathmannsdorf,dresden government region",1,57590
+"magdeburg,39122","ostseebad,rügen",1,77019
+"magdeburg,d-39108","oberdorf,swabia",1,141655
+"mahlow-waldblick,15831","warnemünde,rostock",1,58285
+"maintal,63477","neubau,upper franconia",1,57781
+"maintal,63477","schönsee,upper palatinate",1,73770
+"mainz,55126","echtershausen,bitburg-prüm",1,33631
+"mainz,55129","balm,ostvorpommern",1,158821
+"mainz,55131","wannsee,steglitz-zehlendorf",1,115826
+"mainz finthen,55116","kühlungsborn-west,rostock",1,138370
+"mainz kostheim,55246","duhnen,cuxhaven",1,115236
+"malk göhren,19294","ahlbeck,ostvorpommern",1,53951
+"malsch,69254","westerland,nordfriesland",1,168350
+"mannheim,68159","hohenreuth,upper bavaria",1,82372
+"mannheim,68163","reinerzau,karlsruhe",1,33104
+"mannheim,68199","erkenbollingen,swabia",1,70139
+"mannheim,68199","unterlohwies,lower bavaria",1,89948
+"mannheim,68259","reimboldshausen,kassel",1,43227
+"mannheim,68259","seepark kirchheim,kassel",1,43157
+"mannheim,68305","stanggaß,upper bavaria",1,104623
+"mannheim,68305","trent,rügen",1,171565
+"mannheim,68307","waldkatzenbach,karlsruhe",1,11858
+"mannheim,68309","udler,vulkaneifel",1,36705
+"marburg,35037","binz,rügen",1,138053
+"marburg,35037","jordanshöhe,goslar",1,42670
+"marburg,35041","vadersdorf,ostholstein",1,116493
+"march,79232","böhlen,ilm-kreis",1,98156
+"marienberg,9496","buggingen,freiburg",1,135223
+"marienmünster,37696","sandbrink,diepholz",1,25990
+"markkleeberg,4416","dagebüll,nordfriesland",1,121937
+"markkleeberg,4416","glowe,rügen",1,99921
+"markkleeberg,4416","wustrow,nordvorpommern",1,91445
+"markranstädt,4420","storkow,oder-spree",1,42781
+"markt schwaben,85570","kröslin,ostvorpommern",1,179197
+"marl,45768","bensersiel,wittmund",1,60707
+"marl,45772","meschede,arnsberg",1,23756
+"marpingen,66646","wallgau,upper bavaria",1,100988
+"marsberg,34431","olpenitzdorf,schleswig-flensburg",1,97522
+"marsberg,34431","priwall peninsula,lübeck",1,82545
+"marschacht,21436","nordhorn,bentheim",1,65600
+"martinsthal,65344","netze,kassel",1,45531
+"md,39112","prerow,nordvorpommern",1,1745220
+"mechernich,53894","wangerland,friesland",1,94094
+"mechtersen,21358","borgsum,nordfriesland",1,53097
+"meckenheim,53340","sankt johann,saarbrücken",1,41056
+"meckenheim,53340","wichterich,cologne",1,1513948
+"meerbusch,40667","bürgstadt,lower franconia",1,66784
+"meerbusch,40667","weidenbach,vulkaneifel",1,33317
+"meerbusch,40667","wyk auf föhr,nordfriesland",1,107424
+"meerbusch,40668","wiek,rügen",1,153708
+"meine,38126","groß charlottengroden,wittmund",1,1977877
+"meine,38527","süderwisch,cuxhaven",1,55694
+"meinerzhagen,58540","norddeich,aurich",1,74997
+"meiningen,98617","schönlind,upper franconia",1,30978
+"melbeck,21406","dargun,mecklenburgische seenplatte",1,48847
+"melle,49328","ediger-eller,cochem-zell",1,66891
+"melsungen,34212","hohwacht,plön",1,96121
+"menden,58708","grömitz,ostholstein",1,98032
+"menden,58708","priwall peninsula,lübeck",1,92349
+"menden,58710","altenilpe,arnsberg",1,9917
+"mertensdorf,16949","jordanshöhe,goslar",1,53218
+"merzenich,52399","dagebüll,nordfriesland",1,122235
+"meschede,59872","westeraccumersiel,aurich",1,71156
+"mespelbrunn,63875","alt travemünde - rönnau,lübeck",1,123730
+"messingen,49832","hooksiel,friesland",1,36024
+"metelen,48629","ahlbeck,ostvorpommern",1,135328
+"mettingen,49497","carolinensiel,wittmund",1,40473
+"mettingen,49497","harlesiel,wittmund",1,40831
+"mettingen,49497","kappeln,schleswig-flensburg",1,78831
+"mettmann,40822","anzenbach,upper bavaria",1,158336
+"michendorf,14552","bayerisch eisenstein,lower bavaria",1,94724
+"michendorf,14552","prora,rügen",1,63869
+"miesbach,83714","bad feilnbach,upper bavaria",1,3948
+"mildenau ot arnsfeld,9456","goyatz,dahme-spreewald",1,46655
+"minden,32423","duhnen,cuxhaven",1,47503
+"minfeld,76872","veenhusen,leer",1,126209
+"moers,47441","kappeln,schleswig-flensburg",1,112086
+"moers,47441","medebach,arnsberg",1,39162
+"moers,47443","altenahr,ahrweiler",1,28658
+"moers,47443","bernkastel,bernkastel-wittlich",1,44073
+"moers,47445","carolinensiel,wittmund",1,68913
+"mommenheim,55278","hinterzarten,freiburg",1,58839
+"monheim,40789","norddeich,aurich",1,75001
+"moorgrund,36433","ostseebad,rügen",1,121381
+"moormerland,26802","braunlage,goslar",1,73551
+"much,53804","prüm,bitburg-prüm",1,1500184
+"muldestausee,6774","börgerende,rostock",1,74621
+"murnau,82418","lahnstein,rhein-lahn-kreis",1,104915
+"märkisch buchholz,15748","neukirchen,ostholstein",1,81849
+"märkisch-linden,16818","dierhagen,nordvorpommern",1,41105
+"mölln,23879","kappeln,schleswig-flensburg",1,33632
+"mömlingen,63853","röhl,bitburg-prüm",1,47964
+"mönchengladbach,41063","norderteil,cuxhaven",1,89449
+"mönchengladbach,41069","kattersdorf,lower bavaria",1,144078
+"mönchengladbach,41199","wasserburg am bodensee,swabia",1,122512
+"mönchengladbach,41236","cochem,cochem-zell",1,33167
+"mügeln,4769","markdorf,tübingen",1,125989
+"mühlacker,75417","morsbach,upper bavaria",1,46711
+"mühlacker,75417","unterjoch,swabia",1,51596
+"mühldorf am inn,84453","ostseebad,rügen",1,183056
+"mühlheim,63165","reimboldshausen,kassel",1,24942
+"mülheim,45473","see,upper bavaria",1,139979
+"mülheim,45478","kühlungsborn,rostock",1,119307
+"mülheim an der ruhr,45468","wissinghausen,arnsberg",1,33103
+"mülheim an der ruhr,45470","fehmarnsund,ostholstein",1,116697
+"mülheim an der ruhr,45476","kappeln,schleswig-flensburg",1,109943
+"mülheim an der ruhr,45476","warsingsfehn,leer",1,56469
+"mülheim an der ruhr,45481","wangerland,friesland",1,70206
+"mülheim-kärlich,56218","bendorf,mayen-koblenz",1,1852
+"münchen,80333","nienstedten,altona",1,163867
+"münchen,80339","schwarzach bei nabburg,upper palatinate",1,40176
+"münchen,80637","schaprode,rügen",1,191100
+"münchen,80686","mossendorf,upper palatinate",1,33106
+"münchen,80997","klanxbüll,nordfriesland",1,204892
+"münchen,81245","oy,swabia",1,24884
+"münchen,81369","söcking,upper bavaria",1,5252
+"münchen,81475","witsum,nordfriesland",1,204149
+"münchen,81477","rerik,rostock",1,178903
+"münchen,81541","loipl,upper bavaria",1,30315
+"münchen,81667","bad feilnbach,upper bavaria",1,13391
+"münchen,81669","hörnum,nordfriesland",1,206624
+"münchen,81669","wilhelmsthal,upper franconia",1,65424
+"münchen,81671","ostseebad,rügen",1,189276
+"münchen,81673","lüneburg,lüneburg",1,153802
+"münchen,81739","laubach,cochem-zell",1,109586
+"münchen,81827","zerpenschleuse,barnim",1,145342
+"münchen,81927","blossersberg,lower bavaria",1,37020
+"münchen,89339","daxstein,lower bavaria",1,38259
+"münchen - untergiesing-harlaching,81543","eschach,swabia",1,29787
+"münster,48145","carolinensiel,wittmund",1,51301
+"münster,48149","frenkhausen,arnsberg",1,20705
+"münster,48157","dahme,ostholstein",1,89388
+"münster,48159","freital,dresden government region",1,115866
+"münster,48159","telgte,münster",1,3542
+"münster,48161","heimbach,cologne",1,44102
+"münster,48161","wyk auf föhr,nordfriesland",1,82990
+"münster,48163","altenholz-klausdorf,rendsburg-eckernförde",1,87186
+"münster,64839","kappeln,schleswig-flensburg",1,141929
+"nachrodt-wiblingwerde,58769","kellenhusen,ostholstein",1,105585
+"nachrodt-wiblingwerde,58769","ühlingen-birkendorf,freiburg",1,107556
+"nagold,72202","berliner innenstadt,berliner innenstadt",1,147807
+"nagold,72202","märkisches viertel,reinickendorf",1,149156
+"nalbach,66809","obermünstertal,freiburg",1,49137
+"nauen,14641","garz,ostvorpommern",1,44291
+"neresheim,73450","weiher,karlsruhe",1,35560
+"nettetal,41334","esens,wittmund",1,73026
+"nettetal,41334","feriendorf freilingen,cologne",1,27956
+"nettetal,41334","roßbach,neuwied",1,30923
+"neu wulmstorf,21629","middelhagen,rügen",1,73050
+"neu-anspach,61267","battenhausen,kassel",1,23999
+"neu-isenburg,63263","steinwand,kassel",1,26173
+"neu-isenburg,63263","wallersdorf,lower bavaria",1,87567
+"neubrandenburg,17033","bad saarow,oder-spree",1,39988
+"neubrandenburg,17033","sankt andreasberg,goslar",1,73279
+"neubrandenburg,17033","zirchow,ostvorpommern",1,18674
+"neubrandenburg,17034","alt travemünde - rönnau,lübeck",1,43899
+"neubrandenburg,17034","zinnowitz,ostvorpommern",1,18480
+"neubrandenburg,17036","haltern am see,münster",1,123021
+"neubukow,18233","prora,rügen",1,35094
+"neuenstein,36286","kappeln,schleswig-flensburg",1,111770
+"neuhaus,98724","altstadt,erfurt",1,14604
+"neuhofen,67141","dornhan,freiburg",1,31808
+"neuhofen,67141","markgrafenheide,rostock",1,157216
+"neukirchen/erzgeb.,9221","zöblitz,chemnitz",1,7739
+"neukloster,23992","barnekow,nordwestmecklenburg",1,5483
+"neumarkt in der oberpfalz,92318","zirchow,ostvorpommern",1,145639
+"neumünster,24536","friedrichshöhe,harz",1,75414
+"neumünster,24536","niendorf/ostsee,ostholstein",1,14868
+"neumünster,24537","drei,schleswig-flensburg",1,23842
+"neumünster,24539","olpenitzdorf,schleswig-flensburg",1,18357
+"neunburg vorm wald,92431","hopferau,swabia",1,61718
+"neunkirchen-seelscheid,53819","gröbern,anhalt-bitterfeld",1,98293
+"neuruppin,16816","friedrichskoog,dithmarschen",1,75978
+"neuss,41460","hohenkirchen,friesland",1,76181
+"neuss,41462","sandbrink,diepholz",1,49665
+"neuss,41462","winterberg,arnsberg",1,34725
+"neuss,41464","kellenhusen,ostholstein",1,119100
+"neuss,41464","scherleinsöd,lower bavaria",1,155027
+"neuss,41468","bad doberan,rostock",1,127214
+"neustadt,7806","boltenhagen,nordwestmecklenburg",1,97000
+"neustadt,96465","altenberg,middle franconia",1,25980
+"neustadt am rübenberge / mardorf,31535","sommerhausen,lower franconia",1,83806
+"neustadt an der weinstrasse,67433","unterkirnach,freiburg",1,38292
+"neustadt an der weinstraße,67433","imsbacherhof,südwestpfalz",1,13318
+"neustadt weinstrasse,67433","flammersfeld,altenkirchen (westerwald)",1,39934
+"neustadt-duttweiler,67435","düsseldorf-rath,düsseldorf",1,64057
+"neustadt-langburkersdorf,1844","timmendorfer strand,ostholstein",1,108078
+"neustadt/ dosse,16845","zwenzow,mecklenburgische seenplatte",1,16445
+"neustrelitz,17235","allrode,harz",1,62602
+"neustrelitz,17235","wesseloh,heidekreis",1,59646
+"neuwied,56564","echtershausen,bitburg-prüm",1,23561
+"neuwied,56564","frorath,neuwied",1,3502
+"neuwied,56567","neuruppin,ostprignitz-ruppin",1,122399
+"nidda-koden,63667","neuringe,emsland",1,74922
+"nideggen,52385","grömitz,ostholstein",1,131278
+"nieder -olm,55268","nordenau,arnsberg",1,37918
+"niederahr,56414","rhens,mayen-koblenz",1,7808
+"niederau ot jessen,1689","koserow,ostvorpommern",1,84904
+"niederkassel,53859","ahrenshoop,nordvorpommern",1,143438
+"niederkassel,53859","großwürden,wesermarsch",1,83625
+"niederneuching,85467","chieming,upper bavaria",1,17668
+"niedernhausen,65527","altenbruch,cuxhaven",1,108976
+"niedernhausen,65527","schönhagen,rendsburg-eckernförde",1,136324
+"niedernhausen,65527","unterschönau,upper bavaria",1,118933
+"niedernhausen,65527","wüstensachsen,kassel",1,33779
+"niedernwöhren,31712","sankt peter-ording,nordfriesland",1,58664
+"niedersachsen - bad rothenfelde,49214","ostbevern,münster",1,6040
+"niedersachsen - wolfsburg,38442","twielenfleth,stade",1,40261
+"nienburg,31582","wackerballig,schleswig-flensburg",1,63991
+"niendorf,23669","niendorf/ostsee,ostholstein",1,0
+"nobitz,4603","bad saarow,oder-spree",1,48054
+"nobitz,4603","borgsum,nordfriesland",1,131894
+"nonnweiler,66620","hilbringen,merzig-wadern",1,8340
+"nordenham,26954","unterau,upper bavaria",1,193691
+"norderstedt,22844","großenbrode,ostholstein",1,26683
+"norderstedt,22846","vollerwiek,nordfriesland",1,26917
+"norderstedt,22850","grömitz,ostholstein",1,21684
+"norderstedt,22850","schönhagen,rendsburg-eckernförde",1,27943
+"norderstedt,22851","simonswald,freiburg",1,170480
+"nordhausen,99734","ahlbeck,ostvorpommern",1,94278
+"nordhausen,99734","göhren,rügen",1,99140
+"nordhausen,99734","radolfzell,freiburg",1,117152
+"nordhausen,99734","wienrode,harz",1,8322
+"nordhorn,48529","wangerooge,friesland",1,43792
+"nordhorn,48531","altharlingersiel,wittmund",1,38894
+"nordrhein-westfalen - harsewinkel,33428","röhl,bitburg-prüm",1,67340
+"nordrhein-westfalen - wülfrath,42489","neuharlingersiel,wittmund",1,72579
+"northeim,37154","wienrode,harz",1,18048
+"nottuln,48301","grafenried,lower bavaria",1,135632
+"nördlingen,86720","wernigerode,harz",1,88699
+"nümbrecht,51588","ibbenbüren,münster",1,40882
+"nümbrecht,51588","taufkirchen,lower bavaria",1,123456
+"nürnberg,90402","wandlitz,barnim",1,107767
+"nürnberg,90451","kollnburg,lower bavaria",1,36637
+"nürnberg,90453","mühlheim,upper bavaria",1,15340
+"nürnberg,90473","riedheim,swabia",1,33479
+"nürnberg,90475","horn,freiburg",1,78572
+"nürnberg,90491","hörnum,nordfriesland",1,165324
+"nürnberg,90491","schauenstein,upper franconia",1,26868
+"nürtingen,72622","harlesiel,wittmund",1,153783
+"ober-flörsheim,55234","zirchow,ostvorpommern",1,166228
+"oberaula,36280","laboe,plön",1,106461
+"oberfell,56332","ingersheim,stuttgart",1,51025
+"obergurig,2692","wildenthal,chemnitz",1,39093
+"oberhausen,46047","tossens,wesermarsch",1,67024
+"oberhausen,46049","ramsbeck,arnsberg",1,29540
+"oberhausen,46049","wyk auf föhr,nordfriesland",1,100460
+"oberhausen,46117","dreislar,arnsberg",1,34694
+"oberhausen,46119","fehmarnsund,ostholstein",1,114480
+"oberhausen,46119","priwall peninsula,lübeck",1,101799
+"oberhausen,46119","zirkow,rügen",1,146403
+"oberhausen,46147","olpenitzdorf,schleswig-flensburg",1,108651
+"oberkrämer,16727","jordanshöhe,goslar",1,55589
+"obermaßfeld-grimmenthal,98617","fuchshain,leipzig",1,45066
+"obernaundorf,1734","finsterbergen,gotha",1,57703
+"obernberg am inn,4982","stamsried,upper palatinate",1,32238
+"oberreichenbach,75394","pleystein,upper palatinate",1,77695
+"oberreichenbach,75394","taufkirchen,lower bavaria",1,80101
+"oberstadion,89613","ulm,tübingen",1,8653
+"oberstenfeld,71720","priwall peninsula,lübeck",1,149031
+"oberstenfeld,71720","willsbach,stuttgart",1,3371
+"obertshausen,63179","feichten,upper bavaria",1,93753
+"obertshausen,63179","mitte,cologne",1,1504349
+"ochtrup,48607","medebach,arnsberg",1,40831
+"odenthal,51519","kirchhof,kassel",1,44266
+"odenthal,51519","priwall peninsula,lübeck",1,109926
+"oelde,59302","niendorf/ostsee,ostholstein",1,80528
+"oelde,59302","sahlenburg,cuxhaven",1,61707
+"oer-erkenschwick,45739","kappeln,schleswig-flensburg",1,101515
+"oer-erkenschwick,45739","unterlehen,freiburg",1,115300
+"oering,23845","lenzkirch,freiburg",1,180608
+"oestrich-winkel,65375","glowe,rügen",1,167078
+"oettelin,18246","treptow-köpenick,treptow-köpenick",1,51057
+"offenbach,63071","priwall peninsula,lübeck",1,120903
+"offenbach,63075","olpenitzdorf,schleswig-flensburg",1,136627
+"offenbach am main,63069","bad marienberg,westerwaldkreis",1,23026
+"offenburg,77654","bayerbach,lower bavaria",1,101641
+"ohrdruf,99885","lubmin,ostvorpommern",1,111199
+"oldenburg,26122","wesenberg,mecklenburgische seenplatte",1,84781
+"oldenburg,26127","priwall peninsula,lübeck",1,52684
+"oldenburg,26133","kappeln,schleswig-flensburg",1,55048
+"oldenburg,26133","nuttel,ammerland",1,4449
+"oldenburg,26133","westerstede,ammerland",1,6925
+"oldenburg,26135","boltenhagen,nordwestmecklenburg",1,58110
+"oldenburg,26135","mitte-süd,bremerhaven",1,13784
+"oldenburg,26135","vieregge,rügen",1,98714
+"olfen,59399","bensersiel,wittmund",1,58546
+"olpe,57462","münster,münster",1,27512
+"olpe,57462","norddeich,aurich",1,77408
+"olpe,57462","sankt peter-ording,nordfriesland",1,97661
+"oranienburg,16515","kappeln,schleswig-flensburg",1,83013
+"oranienburg,16515","seebad heringsdorf,ostvorpommern",1,38685
+"oranienburg,16515","trassenheide,ostvorpommern",1,40840
+"oranienburg,16515","zingst,nordvorpommern",1,51631
+"oranienburg,16515 oranienburg","trassenheide,ostvorpommern",1,40840
+"ortenberg,77799","sankt peter-ording,nordfriesland",1,174311
+"oschersleben,39387","eiserfey,cologne",1,95228
+"oschersleben,39387","güntersberge,harz",1,11925
+"oschersleben,39387","kühlungsborn ost,rostock",1,64081
+"osnabrück,49076","kappeln,schleswig-flensburg",1,78414
+"osnabrück,49078","rückeberg,schleswig-flensburg",1,78864
+"osnabrück,49080","quedlinburg,harz",1,58529
+"osnabrück,49082","sankt peter-ording,nordfriesland",1,62211
+"osnabrück,49084","wernigerode,harz",1,50939
+"osnabrück,49090","bartolfelde,landkreis osterode am harz",1,49326
+"osnanrück,49078","westerland,nordfriesland",1,78985
+"osterholz - scharmbeck,27711","prora,rügen",1,91548
+"osterholz-scharmbeck,27711","gehrden,detmold",1,48304
+"osterholz-scharmbeck,27711","malchow,müritz",1,65505
+"osterode,37520","hooksiel,friesland",1,69203
+"osterode am harz,37520","vieregge,rügen",1,100779
+"ottenhofen,85570","karlstadt am main,lower franconia",1,66344
+"otterndorf,21762","sahlenburg,cuxhaven",1,5218
+"overath,51491","harscheid,ahrweiler",1,16247
+"overath,51491","olpenitzdorf,schleswig-flensburg",1,120737
+"oyten,28876","duhnen,cuxhaven",1,24910
+"oyten,28876","priwall peninsula,lübeck",1,41359
+"oyten,28876","winterberg,arnsberg",1,56803
+"paderborn,33098","dornumersiel,aurich",1,62765
+"paderborn,33098","kappeln,schleswig-flensburg",1,89999
+"paderborn,33098","parow,nordvorpommern",1,110245
+"paderborn,33100","vieregge,rügen",1,116352
+"paderborn,33102","olpenitzdorf,schleswig-flensburg",1,89877
+"paderborn,33102","sankt peter-ording,nordfriesland",1,76404
+"paderborn,33104","werdum,wittmund",1,58975
+"paderborn,33106","kappeln,schleswig-flensburg",1,90282
+"pahlen,25794","kappeln,schleswig-flensburg",1,15839
+"panketal,16341","cranzahl,chemnitz",1,64013
+"panketal,16341","kölpinsee,ostvorpommern",1,42371
+"panketal,16341","rittersgrün,chemnitz",1,65813
+"panketal,16341","vieregge,rügen",1,57239
+"panketal,16341","wustrow,nordvorpommern",1,54549
+"parchim,19370","priwall peninsula,lübeck",1,23362
+"parkstein,92711","lechbruck,swabia",1,65239
+"parsau,38470","dänschendorf,ostholstein",1,58385
+"parthenstein,4668","schlettau,chemnitz",1,21193
+"pasewalk,17309","boltenhagen,nordwestmecklenburg",1,51059
+"pausa,7952","fischen,swabia",1,98905
+"peine,31228","niendorf/ostsee,ostholstein",1,50316
+"peine,31228","norddeich,aurich",1,66105
+"perl,66706","besch,merzig-wadern",1,973
+"perleberg,19348","ahlbeck,ostvorpommern",1,46823
+"perleberg,19348","nienhagen,rostock",1,31029
+"petersberg,6193","wangen,freiburg",1,130482
+"petersberg,36100","reimboldshausen,kassel",1,8464
+"petersdorf,15526","groß nemerow,mecklenburgische seenplatte",1,37563
+"petershagen,32469","olpenitzdorf,schleswig-flensburg",1,70124
+"peterswald-löffelscheid,56858","hambach,neustadt",1,25406
+"pforzheim,75181","kappeln,schleswig-flensburg",1,173721
+"pinneberg,25421","altenau,goslar",1,56049
+"pinneberg,25421","karwe,ostprignitz-ruppin",1,59515
+"pinneberg,25421","kühlungsborn,rostock",1,37318
+"pinneberg,25421","tarnewitz,nordwestmecklenburg",1,27208
+"pinneberg,25421","tetenbüll,nordfriesland",1,26822
+"pinnow,16278","peenemünde,ostvorpommern",1,32336
+"pirna,1796","viereth,upper franconia",1,67738
+"plauen,8523","zingst,nordvorpommern",1,117424
+"plauen,8525","juliusruh,rügen",1,124199
+"plauen,8527","sobrigau,dresden government region",1,34241
+"plettenberg,58840","schillig,friesland",1,73746
+"plettenberg,58840","stadtlohn,münster",1,28815
+"plochingen,73207","gilgenhöfe,upper bavaria",1,52424
+"pogeez,23911","dagebüll,nordfriesland",1,45589
+"pohlheim,35415","dümmer,ludwigslust-parchim",1,101622
+"pohlheim,35415","olpenitzdorf,schleswig-flensburg",1,125572
+"pollenfeld,85131","oberzent,darmstadt",1,47021
+"poppenhausen,97490","kühlungsborn-west,rostock",1,123656
+"porta westfalica,32457","kappeln,schleswig-flensburg",1,74359
+"potsdam,14467","alt travemünde - rönnau,lübeck",1,60804
+"potsdam,14467","glowe,rügen",1,64837
+"potsdam,14469","bärenfels,dresden government region",1,49970
+"potsdam,14469","ostseebad,rügen",1,58620
+"potsdam,14469","treptow-köpenick,treptow-köpenick",1,10683
+"potsdam,14469","wannsee,steglitz-zehlendorf",1,2146
+"potsdam,14471","friedrichskoog,dithmarschen",1,87776
+"potsdam,14473","dagebüll,nordfriesland",1,103803
+"potsdam,14476","glowe,rügen",1,62918
+"potsdam,14480","bad saarow,oder-spree",1,17099
+"potsdam,14482","hohenkirchen,nordwestmecklenburg",1,55546
+"pr. oldendorf,32361","harlesiel,wittmund",1,43533
+"puchheim,82178","enzisweiler,swabia",1,37829
+"puchheim,82178","kollnburg,lower bavaria",1,39715
+"pößneck,7381","singen,freiburg",1,101794
+"quedlinburg,6485","norden,aurich",1,90237
+"quickborn,25451","priwall peninsula,lübeck",1,18334
+"quierschied,66287","dittishausen,freiburg",1,49404
+"quierschied,66287","schönwald im schwarzwald,freiburg",1,42644
+"quierschied,66287","vorauf,upper bavaria",1,119431
+"qukckborn,25451","grömitz,ostholstein",1,22354
+"radbruch,21449","altenmedingen,uelzen",1,7680
+"radeberg,1454","wichmannsdorf,nordwestmecklenburg",1,97842
+"radebeul,1445","selchow,oder-spree",1,32957
+"radebeul,1445","ummanz,rügen",1,99012
+"radebeul,1445","zachenberg,lower bavaria",1,64843
+"radevormwald,42477","born,detmold",1,35201
+"radevormwald,42477","büsum,dithmarschen",1,90912
+"radevormwald,42477","glowe,rügen",1,147906
+"radevormwald,42477","sellin,rügen",1,147334
+"radevormwamd,42477","sandbrink,diepholz",1,42843
+"radibor,2627","königssee,upper bavaria",1,111545
+"rastatt,76437","deggenhausertal,tübingen",1,40053
+"rastatt,76437","hochhausen,stuttgart",1,36915
+"rastede,26180","oeventrop,arnsberg",1,55474
+"ratekau,23626","binz,rügen",1,51567
+"ratekau,23626","heiligenhafen,ostholstein",1,13310
+"rathenow,14712","graal-müritz,rostock",1,48789
+"rathenow,14712","ühlingen-birkendorf,freiburg",1,163960
+"ratingen,40878","haffkrug,ostholstein",1,107769
+"ratingen,40878","munzingen,freiburg",1,99888
+"ratingen,40880","göhren,rügen",1,153540
+"ratingen,40880","wetterburg,kassel",1,41641
+"ratingen,40882","cochem,cochem-zell",1,34591
+"ratingen,40882","gelting,schleswig-flensburg",1,115359
+"ratingen,40882","ulmen,cochem-zell",1,32314
+"ratingen,40885","kappeln,schleswig-flensburg",1,112793
+"recke,49509","gosdorf,ostholstein",1,80141
+"recklinghausen,45659","priwall peninsula,lübeck",1,95434
+"rees,46459","cappel,cuxhaven",1,69866
+"rees,46459","juliusruh,rügen",1,150165
+"regensburg,93049","gifhorn,gifhorn",1,106556
+"regensburg,93049","vorderreckenberg,lower bavaria",1,21838
+"regensburg,93051","luitpolderhöfe,upper bavaria",1,40479
+"regensburg,93051","woppenrieth,upper palatinate",1,93798
+"regensburg,93055","krakow am see,rostock",1,138239
+"rehfelde,15345","bansin,ostvorpommern",1,42767
+"reichenbach,8468","wachenheim,bad dürkheim",1,85996
+"reichenberg,1468","dargersdorf,uckermark",1,1611498
+"reichenberg,97234","dießen am ammersee,upper bavaria",1,57279
+"reilingen,68799","battenhausen,kassel",1,52241
+"reinardshagen,34359","rottweil,freiburg",1,100589
+"reinbek,21465","kappeln,schleswig-flensburg",1,33553
+"reinbek,21465","priwall peninsula,lübeck",1,16157
+"reinbek,21465","wittdün,nordfriesland",1,45641
+"reinbek,22465","wall,nordfriesland",1,41307
+"reinfeld,23858","sankt peter-ording,nordfriesland",1,35012
+"reinhardshagen,34359","olpenitzdorf,schleswig-flensburg",1,94446
+"reinsbüttel,25764","buchenberg,swabia",1,194146
+"reiskirchen,35447","klingenthal,chemnitz",1,68492
+"reiskirchen,35447","röhrnbach,lower bavaria",1,105268
+"reiskirchen,35447","teßmannsdorf,rostock",1,114106
+"reken,48734","lehe,ammerland",1,47879
+"reken,48734","wyk auf föhr,nordfriesland",1,89010
+"rellingen,25462","ostseebad,rügen",1,70492
+"rellingen,25462","sellin,rügen",1,70372
+"remagen,53424","mitte-süd,bremerhaven",1,91316
+"remagen,53424","ummanz,rügen",1,157187
+"remlingen,38319","dagebüll,nordfriesland",1,85176
+"remscheid,42897","sophienthal,westerwaldkreis",1,17593
+"remscheid,42899","lenzkirch,freiburg",1,101063
+"remseck,71686","greetsiel,aurich",1,143116
+"remseck,71686","lubmin,ostvorpommern",1,175383
+"rendsburg,24768","jordanshöhe,goslar",1,78363
+"renkenberge,49762","blomberg,aurich",1,20070
+"rethwisch,23847","benneckenstein,harz",1,63127
+"reutlingen,72762","grunern,freiburg",1,34325
+"reutlingen,72762","jechtingen,freiburg",1,33105
+"rhauderfehn,26817","landschaftspolder,leer",1,5973
+"rheda-wiedenbrück,33378","oberlahr,altenkirchen (westerwald)",1,38836
+"rheda-wiedenbrück,33378","scharbeutz,ostholstein",1,78447
+"rheda-wiedenbrück,33378","schönberger strand,plön",1,85341
+"rhede,46414","blaustein,tübingen",1,118583
+"rhede,46414","nordheim,stuttgart",1,93300
+"rheinbach,53359","goldhausen,kassel",1,39755
+"rheine,48429","fedderwardersiel,wesermarsch",1,41863
+"rheine,48431","stinteck,dithmarschen",1,61399
+"rheinsberg,16831","altefähr,rügen",1,36410
+"rheinsetten,76287","barnekow,nordwestmecklenburg",1,156058
+"rickling,24635","fuhlendorf,nordvorpommern",1,43733
+"riedenburg,93339","poel,nordwestmecklenburg",1,150198
+"riedern,63928","bürgstadt,lower franconia",1,2737
+"riedern,63928","hambrunn,lower franconia",1,2872
+"riedern,63928","waldbrunn,karlsruhe",1,8569
+"riegelsberg,66292","briedel,cochem-zell",1,21618
+"riesa,1589","wieck a. darß,nordvorpommern",1,92788
+"rieste,49597","priwall peninsula,lübeck",1,67255
+"rinteln,31737","großenbrode,ostholstein",1,74005
+"rinteln,31737","schönhagen,rendsburg-eckernförde",1,74931
+"rinteln,31737","thale,harz",1,37313
+"risum-lindholm,25920","ehlbeck,lüneburg",1,54530
+"rittersdorf,54636","reichenbach,freiburg",1,71753
+"rockenberg,35519","jordanshöhe,goslar",1,50799
+"rockenberg,35519","ummanz,rügen",1,143572
+"rodewisch,8228","burhave,wesermarsch",1,116695
+"rodgau,63110","berliner innenstadt,berliner innenstadt",1,112045
+"rodgau,63110","lichtenberg,upper franconia",1,54035
+"rodgau,63110","neßmersiel,aurich",1,112079
+"roetgen,52159","ditzumerverlaat,leer",1,80003
+"roggentin,18184","bad stuer,mecklenburgische seenplatte",1,20358
+"roggentin,18184","stinteck,dithmarschen",1,58617
+"ronnemberg,30952","hooksiel,friesland",1,49132
+"ronnenberg,30952","jordanshöhe,goslar",1,23370
+"ronnenberg,30952","neuharlingersiel,wittmund",1,54376
+"rosengarten,21224","juliusruh,rügen",1,70565
+"rosengarten,21224","zingst,nordvorpommern",1,57626
+"rosenthal am rennsteig,7366","zingst,nordvorpommern",1,120834
+"roskow,14778","kühlungsborn,rostock",1,52689
+"rosswein,4741","ostseebad,rügen",1,98019
+"rostock,18055","juliusruh,rügen",1,26258
+"rostock,18055","krakow am see,rostock",1,13008
+"rostock,18069","heringsdorf,ostvorpommern",1,36511
+"rostock,18069","prohn,nordvorpommern",1,18304
+"rostock,18069","sepel,plön",1,29667
+"rostock,18109","wienrode,harz",1,73517
+"rotenburg,36199","lindig,saale-holzland-kreis",1,35506
+"rottenburg,72108","jemgum,leer",1,145546
+"rottenburg,72108","priwall peninsula,lübeck",1,166876
+"rottendorf,97228","neustadt am rennsteig,langer berg",1,29151
+"rottweil,78628","markelfingen,freiburg",1,14365
+"rumohr,24254","eichet,upper bavaria",1,196100
+"ruppertsweiler,66957","niederkail,bernkastel-wittlich",1,29490
+"rustow,17121","hohen wieschendorf,nordwestmecklenburg",1,30594
+"rägelin,16818","alt travemünde - rönnau,lübeck",1,41302
+"rägelin,16818","sankt peter-ording,nordfriesland",1,78929
+"rödental,96472","edersee,kassel",1,45250
+"röderland ot saathain,4932","quetzin,ludwigslust-parchim",1,64092
+"rödinghausen,32289","greetsiel,aurich",1,45092
+"rödinghausen,32289","schwittersum,aurich",1,45705
+"rösrath,51503","tossens,wesermarsch",1,81551
+"rösrath,51503","wetterburg,kassel",1,37568
+"rüdesheim am rhein,65385","inzell,upper bavaria",1,116151
+"rühen,38471","kühlungsborn ost,rostock",1,51668
+"rüsselsheim,65428","edersee,kassel",1,37355
+"rüsselsheim,65428","hohen wieschendorf,nordwestmecklenburg",1,128837
+"rüsselsheim,65428","merzalben,südwestpfalz",1,25909
+"saalfeld,7318","neppermin,ostvorpommern",1,109534
+"saalfeld/saale,7318","herrenkrug,magdeburg",1,45384
+"saarbrücken,66115","losheim am see,merzig-wadern",1,8041
+"saarbrücken,66121","ostseebad damp,rendsburg-eckernförde",1,168164
+"saarbrücken,66123","bad dürkheim,bad dürkheim",1,23075
+"saarbrücken,66125","ockfen,trier-saarburg",1,13248
+"sachsen - delitzsch,4509","selbig,freiburg",1,129231
+"sachsen-anhalt - braunsbedra,6242","scheuern,karlsruhe",1,100915
+"sachsenheim,74343","altstadt,freiburg",1,37735
+"sachsenheim,74343","rodt,karlsruhe",1,20620
+"salach,73084","feldafing,upper bavaria",1,37567
+"salem,88682","greifswald,ostvorpommern",1,202507
+"salzatal,6198","frauenwald,ilm-kreis",1,32518
+"salzgitter,38239","bastorf,rostock",1,61855
+"salzgitter,38258","sahlenburg,cuxhaven",1,60242
+"salzgitter,38259","bichl,upper bavaria",1,130524
+"salzgitter,38259","holm,plön",1,70032
+"salzkotten,33154","thiessow,rügen",1,119772
+"salzkotten,33154","wendtorfer strand,plön",1,86814
+"sangerhausen,6526","milbertshofen-am hart,upper bavaria",1,97777
+"sangerhausen,6526","prerow,nordvorpommern",1,90306
+"sankt augustin,53757","grimersum,aurich",1,80729
+"sankt augustin,53757","prora,rügen",1,158536
+"sarbish,stuttgart","sondernheim,germersheim",1,2318004
+"sarstedt,31157","alt travemünde - rönnau,lübeck",1,54561
+"sarstedt,31157","klanxbüll,nordfriesland",1,80749
+"sassenberg,48336","groß zicker,rügen",1,120950
+"sassenburg,38524","surendorf,rendsburg-eckernförde",1,58197
+"satteldorf,74589","oberbirken,freiburg",1,54745
+"sauerlach,82054","zandt,upper palatinate",1,41472
+"schacht audorf,24790","priwall peninsula,lübeck",1,22974
+"schauenburg,34270","kopendorf,ostholstein",1,99686
+"scheden,37127","arle,aurich",1,76482
+"schenefeld,22869","priwall peninsula,lübeck",1,21123
+"schenefeld,22869","sassnitz,rügen",1,71681
+"schenefeld,22869","westerland,nordfriesland",1,46979
+"schieder schwalenberg,32816","burhave,wesermarsch",1,51675
+"schiffdorf,27619","retzow,uckermark",1,80880
+"schifferstadt,67105","esthal,bad dürkheim",1,7607
+"schifferstadt,67105","neßmersiel,aurich",1,128906
+"schirgiswalde-kirschau,2681","wyk auf föhr,nordfriesland",1,149740
+"schkeuditz,4435","geierswalde,dresden government region",1,34984
+"schlangenbad,65388","frankengut,upper franconia",1,67171
+"schlangenbad,65388","nienhagen,rostock",1,139728
+"schleswig,24837","birkenfeld,birkenfeld",1,151161
+"schleswig-holstein - rickling,24635","neustadt,ostholstein",1,11662
+"schlitz,36110","hinterzarten,freiburg",1,87244
+"schloss holte stukenbrock,33758","burhave,wesermarsch",1,50602
+"schloß holte,33758","westerdeich,nordfriesland",1,70569
+"schlöben,7646","prora,rügen",1,110638
+"schlüchtern,36381","kappeln,schleswig-flensburg",1,128161
+"schlüchtern,36381","priwall peninsula,lübeck",1,109601
+"schmelz,66839","bokel,gifhorn",1,121551
+"schneeberg,8289","eußenheim,lower franconia",1,56649
+"schongau,86956","trainmeusel,upper franconia",1,59209
+"schonungen,97453","bischberg,upper franconia",1,10781
+"schonungen,97453","norddeich,aurich",1,120680
+"schorndorf,73614","lichtenau,karlsruhe",1,29890
+"schortens,26419","neuruppin,ostprignitz-ruppin",1,87916
+"schortens,26419","scharbeutz,ostholstein",1,50899
+"schrecksbach,34647","wenningstedt-braderup,nordfriesland",1,122830
+"schuby,24850","bremm,cochem-zell",1,138025
+"schwabach,91126","schwarbe,rügen",1,164238
+"schwaförden,27252","blankenburg,harz",1,47746
+"schwaig,90571","zachenberg,lower bavaria",1,38002
+"schwaig bei nürnberg,90571","bad peterstal-griesbach,freiburg",1,66169
+"schwaigern,74193","eckernförde,rendsburg-eckernförde",1,158850
+"schwalmtal,41366","dangast,friesland",1,74466
+"schwanstetten,90480","meersburg,tübingen",1,63356
+"schwarzach,97359","friesenried,swabia",1,57683
+"schwarzenbach a.wald,95131","ruhpolding,upper bavaria",1,77564
+"schwedeneck,24229","alkersum,nordfriesland",1,27827
+"schwedt,16303","seebad heringsdorf,ostvorpommern",1,26405
+"schweppenhausen,55444","lünebach,bitburg-prüm",1,28411
+"schwerin,19055","seebad heringsdorf,ostvorpommern",1,48524
+"schwerin,19057","priwall peninsula,lübeck",1,12171
+"schwerin,19057","wernigerode,harz",1,54755
+"schwerin,19061","göhren,rügen",1,46624
+"schwerte,58239","heiligenhafen,ostholstein",1,106568
+"schwerte,58239","kating,nordfriesland",1,88711
+"schwerte,58239","oeventrop,arnsberg",1,10595
+"schwerte,58239","schönhagen,rendsburg-eckernförde",1,104817
+"schwetzingen,68723","sasbach am kaiserstuhl,freiburg",1,41496
+"schwielowsee,14548","groß schwansee,nordwestmecklenburg",1,60433
+"schöffengrund,35641","borghorst,münster",1,52270
+"schömberg,75328","baabe,rügen",1,190002
+"schönebeck,39218","melzingen,altes amt ebstorf",1,37807
+"schönefeld,12529","berchtesgaden,upper bavaria",1,141082
+"schönefeld,12529","zerpenschleuse,barnim",1,14739
+"schöneiche,15566","altefähr,rügen",1,56173
+"schönstedt,99947","waren,müritz",1,80762
+"schönstedt,99947","wieck a. darß,nordvorpommern",1,104050
+"schönwald,78141","rietheim,freiburg",1,11659
+"schönwalde-glien,14621","ahlbeck,ostvorpommern",1,43672
+"schöppenstedt,38170","dierhagen strand,nordvorpommern",1,69504
+"schöppenstedt,38170","rerik,rostock",1,60129
+"schöppingen,48624","olpenitzdorf,schleswig-flensburg",1,90706
+"schülldorf,24790","wilsche,gifhorn",1,54793
+"seebad bansin,17429","sellin,rügen",1,14533
+"seedorf,23883","ostseebad,rügen",1,54210
+"seegebiet mansfelder land,6317","ahlbeck,ostvorpommern",1,86453
+"seeland ot nachterstedt,6469","sellin,rügen",1,87270
+"seeligstadt,1909","müritz,rostock",1,137580
+"seelze,30926","sandbrink,diepholz",1,22496
+"seelze,30926","schonach im schwarzwald,freiburg",1,129035
+"seesen,38723","dagebüll,nordfriesland",1,88277
+"seesen,38723","olpenitzdorf,schleswig-flensburg",1,82420
+"seesen,38723","ortmühle,ostholstein",1,75084
+"seevetal,21217","poel,nordwestmecklenburg",1,29913
+"seevetal,21220","eckernförde,rendsburg-eckernförde",1,33044
+"seevetal,21220","heiligenhafen,ostholstein",1,34068
+"seevetal,21220","mittenwald,upper bavaria",1,177395
+"seevetal,21220","priwall peninsula,lübeck",1,22737
+"seevetal,21220","wyk auf föhr,nordfriesland",1,47147
+"sehnde,31319","großenbrode,ostholstein",1,64052
+"sehnde,31319","koserow,ostvorpommern",1,88310
+"sehnde,31319","pelzerhaken,ostholstein",1,55045
+"sehnde,31319","scharbeutz,ostholstein",1,52622
+"sehnde,31319","zingst,nordvorpommern",1,79265
+"selben,4509","zingst,nordvorpommern",1,87427
+"selfkant-höngen,52538","kronenburg,cologne",1,22114
+"seligenstadt,63500","brigach,freiburg",1,59691
+"seligenstadt,63500","wyk auf föhr,nordfriesland",1,138429
+"seligenstadt,63500","zellhausen,darmstadt",1,1038
+"selm,59379","borkum,leer",1,58606
+"selm- bork,59379","lehe,ammerland",1,50167
+"selsingen,27446","vieregge,rügen",1,80172
+"senden,48308","sandbrink,diepholz",1,25199
+"senden,48308","winterberg,arnsberg",1,27485
+"sibbesse,31079","vieregge,rügen",1,96211
+"siegburg,53721","heiligenhafen,ostholstein",1,125878
+"siegburg,53721","roes,cochem-zell",1,16556
+"siegburg,53721","schillig,friesland",1,87409
+"siegen,57072","osterby,rendsburg-eckernförde",1,110790
+"siestedt,39356","schönhagen,rendsburg-eckernförde",1,71270
+"simmern,55469","großenbrode,ostholstein",1,145456
+"sindelfingen,71063","schillig,friesland",1,149240
+"sinsheim,74889","frankengut,upper franconia",1,55620
+"sinsheim,74889","waldbrunn,karlsruhe",1,7435
+"soderstorf/ ot rolfsen,21388","börgerende,rostock",1,42479
+"soest,59494","föhrental,freiburg",1,104668
+"sogel,49751","neukirchen,kassel",1,67459
+"sohland a.r.,2894","zirchow,ostvorpommern",1,83144
+"solingen,42651","veldenz,bernkastel-wittlich",1,38072
+"solingen,42655","burhave,wesermarsch",1,75389
+"solingen,42697","suderburg,uelzen",1,81982
+"solingen,42719","neßmersiel,aurich",1,74051
+"sondershausen,99706","montabaur,westerwaldkreis",1,63416
+"sondershausen,99706","zirchow,ostvorpommern",1,95217
+"sonstiges baugewerbe,98646","knittelsheim,germersheim",1,1476313
+"sonthofen,87527","karlshagen,ostvorpommern",1,206930
+"sossenheim,65936","priwall peninsula,lübeck",1,121227
+"sottrum,27367","zingst,nordvorpommern",1,72439
+"spangenberg,34286","alt travemünde - rönnau,lübeck",1,87164
+"spenge,32139","mömlingen,lower franconia",1,68674
+"speyer,67346","wilhelmshaven,wilhelmshaven",1,125050
+"springe,31832","kappeln,schleswig-flensburg",1,73125
+"springe,31832","norddeich,aurich",1,60643
+"springe,31832","waren,müritz",1,67530
+"st augustin,53757","niedersfeld,arnsberg",1,28949
+"st. ingbert,66386","kappeln,schleswig-flensburg",1,167785
+"st. leon-rot,68789","waldkatzenbach,karlsruhe",1,10391
+"st.ingbert,66836","sachsenhausen,darmstadt",1,38887
+"stade,21680","heligoland,pinneberg",1,32749
+"stade,21682","rankwitz,ostvorpommern",1,79084
+"stade,21682","sandbrink,diepholz",1,37851
+"stadtallendorf,35260","frielendorf,kassel",1,6914
+"stadthagen,31655","grömitz,ostholstein",1,62755
+"stadtilm,99326","rerik,rostock",1,99989
+"stadtoldendorf,37627","kappeln,schleswig-flensburg",1,82650
+"stapelburg,38871","tossens,wesermarsch",1,65786
+"staufenberg,34355","reinerzau,karlsruhe",1,92207
+"stavern,49777","dangast,friesland",1,22728
+"steffenberg,35239","dierhagen strand,nordvorpommern",1,123960
+"stegaurach,96135","stralsund,nordvorpommern",1,138566
+"stegaurach,96135","söcking,upper bavaria",1,55839
+"stein,83371","kaiserslautern,kaiserslautern",1,1481756
+"steinfurt,48565","kühlungsborn,rostock",1,97534
+"steinfurt,48565","sankt peter-ording,nordfriesland",1,67777
+"steinhagen,33803","kappeln,schleswig-flensburg",1,83883
+"steinhagen,33803","scharbeutz,ostholstein",1,73757
+"steinhagne,33803","dornumersiel,aurich",1,52760
+"steißlingen,78256","großwaabs,rendsburg-eckernförde",1,201434
+"stelle,21435","oberstdorf,swabia",1,177512
+"stemwede,32351","neuringe,emsland",1,26757
+"stendal,39576","kellenhusen,ostholstein",1,50159
+"stendal,39576","stiege,harz",1,31535
+"stipsdorf,23795","pelzerhaken,ostholstein",1,10023
+"stockelsdorf,23617","alt travemünde - rönnau,lübeck",1,4590
+"stockelsdorf,23617","todendorf,ostholstein",1,19157
+"stockstadt am rhein,64589","dagebüll,nordfriesland",1,146281
+"stolpe,24601","haffkrug,ostholstein",1,9534
+"storkow,15859","großwürden,wesermarsch",1,108704
+"storkow,15859","wilhelmsthal,upper franconia",1,74364
+"stralsund,18439","binz,rügen",1,9338
+"stralsund,18439","schierke,harz",1,87012
+"stralsund,18439","stralsund,nordvorpommern",1,354
+"strausberg,15344","priwall peninsula,lübeck",1,67773
+"stuhr,28816","boltenhagen,nordwestmecklenburg",1,52743
+"stuhr,28816","deggenhausertal,tübingen",1,155683
+"stuhr,28816","jordanshöhe,goslar",1,50275
+"stuhr,28816","priwall peninsula,lübeck",1,47323
+"stuttgart,6553","rerik,rostock",1,164581
+"stuttgart,70178","bad wurzach,tübingen",1,29327
+"stuttgart,70180","unterkirnach,freiburg",1,25871
+"stuttgart,70184","friedrichshafen,tübingen",1,33154
+"stuttgart,70184","mundelfingen,freiburg",1,30266
+"stuttgart,70192","oberperlasberg,lower bavaria",1,74450
+"stuttgart,70378","sankt peter-ording,nordfriesland",1,162972
+"stuttgart,70469","insel,swabia",1,39028
+"stuttgart,70563","berchtesgaden,upper bavaria",1,83853
+"stuttgart,70563","breitbrunn am chiemsee,upper bavaria",1,69755
+"stuttgart,70569","neutrauchburg,tübingen",1,36083
+"stuttgart,70597","unter-mossau,darmstadt",1,27804
+"stuttgart,d-70567","groß charlottengroden,wittmund",1,149214
+"stuttgart untertürkheim,70327","westerland,nordfriesland",1,182974
+"suhl,98528","untergöhren,mecklenburgische seenplatte",1,90578
+"suhl,98529","börgerende,rostock",1,107296
+"sukow,19079","juliusruh,rügen",1,44870
+"sulingen,27232","schwalenberg,detmold",1,23544
+"sulzbach saar,66280","kappeln,schleswig-flensburg",1,167472
+"sulzburg,79295","häusern,freiburg",1,9630
+"sundern,59846","warnemünde,rostock",1,112533
+"sundhagen,18519","gammendorf,ostholstein",1,36493
+"swisttal,53913","sandbrink,diepholz",1,60325
+"swisttal,53913","westerland,nordfriesland",1,127679
+"sömmerda,99610","gager,rügen",1,104112
+"südergellersen,21394","priwall peninsula,lübeck",1,24207
+"südharz,6536","röbel,mecklenburgische seenplatte",1,63213
+"südstadt köln,50968","sandbrink,diepholz",1,54326
+"tambach-dietharz,99897","feichten,upper bavaria",1,89204
+"tangerhütte,39517","rerik,rostock",1,49791
+"tarmstedt,27412","dorumer neufeld,cuxhaven",1,18062
+"tarmstedt,28412","kappeln,schleswig-flensburg",1,45123
+"teistungen,37339","wilhelmshagen,treptow-köpenick",1,69153
+"telgte,48291","eslohe,arnsberg",1,22976
+"tellingstedt,25782","dahme,ostholstein",1,31230
+"teltow,14513","babelsberg nord,potsdam-mittelmark",1,3271
+"teltow,14513","kappeln,schleswig-flensburg",1,89671
+"teltow,14513","koserow,ostvorpommern",1,51013
+"templin,17268","kühlungsborn ost,rostock",1,43386
+"templin,17268","wolgast,ostvorpommern",1,28106
+"teningen,79331","rerik,rostock",1,191352
+"test,123","kius,schleswig-flensburg",1,1919238
+"test,123","zempin,ostvorpommern",1,1988568
+"teterow,17166","warnemünde,rostock",1,14592
+"teuschnitz,96358","penzlin,mecklenburgische seenplatte",1,97361
+"teutschenthal,6179","bad doberan,rostock",1,78621
+"teutschenthal,6179","solkendorf,nordvorpommern",1,90364
+"thale,6502","haffkrug,ostholstein",1,68615
+"thalheim,9380","börgerende,rostock",1,103749
+"themar,98660","finsterbergen,gotha",1,9831
+"thierbach,6721","ravensberg,rostock",1,1629287
+"timmendorfer strand,23669","alt travemünde - rönnau,lübeck",1,1774
+"timmendorfer strand,23669","timmendorfer strand,ostholstein",1,0
+"tirpersdorf,8606","liebethal,dresden government region",1,36094
+"titisee-neustadt,79822","wieck a. darß,nordvorpommern",1,209110
+"torgau,4860","reutenen,stuttgart",1,101169
+"torgau,4860","rittersgrün,chemnitz",1,32049
+"tostedt,21255","lensterstrand,ostholstein",1,34448
+"treia,24896","friedrichskoog-spitze,dithmarschen",1,16783
+"tremsbüttel,22967","detershagen,rostock",1,27219
+"treuchtlingen,91757","stollhamm,wesermarsch",1,143451
+"trier,54290","ettringen,mayen-koblenz",1,21216
+"trier,54292","tübingen,tübingen",1,59244
+"troisdorf,53842","malchow,müritz",1,123540
+"trossin,4880","bentwisch,rostock",1,74567
+"trostberg,83308","neuenburg am rhein,freiburg",1,100166
+"tuttlingen,78532","wenningstedt-braderup,nordfriesland",1,206919
+"tutzing,82327","überlingen,tübingen",1,42229
+"twistringen,27239","brasselsberg,kassel",1,47147
+"tönisvorst,47918","klingberg,ostholstein",1,110823
+"tönisvorst,47918","norddeich,aurich",1,69213
+"tönisvorst,47918","wilhelmshaven,wilhelmshaven",1,72079
+"tübingen,72072","ferienpark himmelberg,bernkastel-wittlich",1,54778
+"tübingen,72072","oberdorf,swabia",1,39145
+"tülau,38474","neuschönberg,plön",1,54915
+"uedem,47589","ober-waroldern,kassel",1,50836
+"uelzen,29525","westerland,nordfriesland",1,69770
+"uetersen,25436","spandau,spandau",1,71533
+"uetersen,25436","wendtorfer strand,plön",1,24117
+"uetze,31311","burhave,wesermarsch",1,46558
+"ulm,89073","altefähr,rügen",1,185353
+"ulm,89075","pribbenow,mecklenburgische seenplatte",1,164963
+"ulrichstein,35327","innenstadt,lübeck",1,101484
+"unkel,53572","burhafe,wittmund",1,89357
+"unna,59423","bestwig,arnsberg",1,14001
+"unna,59425","burhave,wesermarsch",1,61345
+"unna,59427","prerow,nordvorpommern",1,123126
+"unna,59427","waddens,wesermarsch",1,61287
+"unstrut hainich ot weberstedt,99991","altefähr,rügen",1,106628
+"unterschleißheim,85716","jarplund,schleswig-flensburg",1,195945
+"uslar,37170","priwall peninsula,lübeck",1,71487
+"vaterstetten,85591","viechtach,lower bavaria",1,36198
+"vechta,49377","drochtersen,stade",1,34914
+"veitsrodt,55758","titisee,freiburg",1,57135
+"velbert,42549","tinnum,nordfriesland",1,108549
+"vellmar,34246","rerik,rostock",1,90326
+"venhaus,48480","priwall peninsula,lübeck",1,77259
+"verden,27283","ostseebad,rügen",1,89411
+"verden,27283","wustrow,nordvorpommern",1,69748
+"verl,33415","kappeln,schleswig-flensburg",1,86730
+"verl,33415","priwall peninsula,lübeck",1,74895
+"versmold,33775","molbitz,rositz",1,83882
+"versmold,33775","tossens,wesermarsch",1,45359
+"vettweiß - disternich,52391","usedom,ostvorpommern",1,164683
+"viernheim,68519","sankt peter-ording,nordfriesland",1,141016
+"viersen,41749","töttelstädt,erfurt",1,84702
+"vlotho,32602","kasnevitz,rügen",1,104294
+"volkach,97332","volkach,lower franconia",1,39
+"vollersroda,99438","stralsund,nordvorpommern",1,105153
+"vs-villingen,78050","biederbach,freiburg",1,9331
+"völkersen,27299","schönhagen,rendsburg-eckernförde",1,50457
+"wacgenheim,67157","ostholstein,ostholstein",1,148587
+"wachenroth,96193","müritz,rostock",1,135392
+"wackersberg,83646","gilgenhöfe,upper bavaria",1,1708
+"waffensen,27356","schönhagen,rendsburg-eckernförde",1,46733
+"waghäusel,68753","königsfeld,upper franconia",1,55391
+"waiblingen,71334","kappel,freiburg",1,37966
+"waibstadt,74915","brigach,freiburg",1,38210
+"wald-michelbach,69483","malchow,müritz",1,133348
+"waldbrunn,69429","jemgum,leer",1,117233
+"waldfeucht,52525","minsen,friesland",1,86216
+"waldkirchen,94065","ahrweiler,ahrweiler",1,136043
+"wallenhorst,49134","burhave,wesermarsch",1,37418
+"wallenhorst,49134","zingst,nordvorpommern",1,103307
+"wallerfangen,66798","merzalben,südwestpfalz",1,21250
+"wallerstein,86757","geierswalde,dresden government region",1,103953
+"walsrode,29664","cuxhaven,cuxhaven",1,33696
+"waltrop,45731","dornumersiel,aurich",1,60824
+"walzbachtal,75045","westerland,nordfriesland",1,175162
+"wanderup,24997","kappeln,schleswig-flensburg",1,10362
+"wandlitz,16348","ostseebad,rügen",1,46981
+"wanzleben,39164","zingst,nordvorpommern",1,73926
+"warburg,34414","heiligenhafen,ostholstein",1,92081
+"wardenburg,26203","sankt peter-ording,nordfriesland",1,38390
+"waren (müritz),17192","unterlohwies,lower bavaria",1,132180
+"warendorf,48231","boltenhagen,nordwestmecklenburg",1,83757
+"warendorf,48231","sandbrink,diepholz",1,18219
+"warin,19417","hohendorf,nordvorpommern",1,37083
+"warnemünde,18119","sassnitz,rügen",1,28809
+"wattenbek,24582","olpenitzdorf,schleswig-flensburg",1,14567
+"weddelbrook,24576","timmendorfer strand,ostholstein",1,16841
+"wedemark,30900","lütjenhorn,nordfriesland",1,67772
+"wedemark,30900","sankt peter-ording,nordfriesland",1,55641
+"wedemark,30900","sassnitz,rügen",1,90332
+"wedemark,30900","tossens,wesermarsch",1,40254
+"wehlen,1829","schillig,friesland",1,135928
+"weida,7570","rerik,rostock",1,99258
+"weil im schönbuch,71093","börgerende,rostock",1,172548
+"weimar,99423","rehbach,kassel",1,35246
+"weimar,99423","thale,harz",1,23359
+"weimar,99427","schwerin,ludwigslust-parchim",1,78485
+"weinheim,69469","lensterstrand,ostholstein",1,143724
+"weinstadt,71384","oberdorf,swabia",1,43947
+"weisenheim am sand,67256","friedrichskoog-spitze,dithmarschen",1,134692
+"weissenfels,6667","binz,rügen",1,99400
+"weitendorf,19412","kühlungsborn,rostock",1,12751
+"weißenhorn,89264","born a. darß,nordvorpommern",1,185834
+"weißenhorn,89264","vorderhindelang,swabia",1,24087
+"weißenthurm,56575","boltenhagen,nordwestmecklenburg",1,126124
+"weißwasser,2943","solkendorf,nordvorpommern",1,93078
+"welzheim,73642","buggensegel,tübingen",1,34669
+"wenden,57482","zirchow,ostvorpommern",1,142833
+"wennigsen,30974","wendtorfer strand,plön",1,65244
+"wentorf,21465","westerland,nordfriesland",1,53951
+"wentorf bei hamburg,21465","thale,harz",1,53712
+"wentorf bei hh,21465","priwall peninsula,lübeck",1,17453
+"werdau,8412","aschau im chiemgau,upper bavaria",1,88041
+"werdau,8412","sillens,wesermarsch",1,111001
+"wermelskirchen,42929","worms,worms",1,1997178
+"werne,59368","graal,rostock",1,113118
+"werne,59368","wissinghausen,arnsberg",1,23345
+"werneuchen ot seefeld,16356","hiddensee,rügen",1,58170
+"wernigerode,38855","alt travemünde - rönnau,lübeck",1,63147
+"wesel,46483","tossens,wesermarsch",1,63948
+"wesseling,50389","niendorf/ostsee,ostholstein",1,117303
+"westerburg,38836","neuendorf,ostvorpommern",1,73668
+"westerburg,56457","borod,westerwaldkreis",1,5610
+"westerstede,26655","norderney,aurich",1,18901
+"westoverledingen,26810","bad herrenalb,karlsruhe",1,130231
+"wettenberg,35435","kühlungsborn,rostock",1,118227
+"wettin-löbejün, o.t. merbitz,6193","timmendorfer strand,ostholstein",1,73492
+"wettringen,48493","hohenkirchen,friesland",1,43981
+"wetzlar,35583","hooksiel,friesland",1,91473
+"wiefelstede,26215","hasselfelde,harz",1,67940
+"wiehl,51674","roes,cochem-zell",1,21494
+"wiesbaden,65191","großenbrode,ostholstein",1,136908
+"wiesbaden,65191","zirchow,ostvorpommern",1,155613
+"wiesbaden,65195","tegernsee,upper bavaria",1,99375
+"wiesbaden,65197","merzalben,südwestpfalz",1,26553
+"wiesbaden,65199","plau am see,ludwigslust-parchim",1,125196
+"wiesbaden,65201","hofstetten,freiburg",1,53238
+"wiesbaden,65201","wangern,nordwestmecklenburg",1,130963
+"wiesbaden,65203","siedelsbrunn,darmstadt",1,18345
+"wiesbaum,54578","norddeich,aurich",1,97719
+"wiesensteig,73349","gschwall,upper bavaria",1,65668
+"wiesentheid,97353","litzldorf,upper bavaria",1,69037
+"wiesloch,69168","redewisch,nordwestmecklenburg",1,147156
+"wietmarschen,49835","strotzbüsch,vulkaneifel",1,71265
+"wietmarschen-lohne,49835","niederwasser,freiburg",1,129294
+"wietzen,31613","kellenhusen,ostholstein",1,56408
+"wildau,15745","teßmannsdorf,rostock",1,62836
+"wilhelmsdorf,88271","allmannsweier,freiburg",1,35897
+"wilhelmshaven,26382","au,upper bavaria",1,162178
+"wilhelmshaven,26388","drochtersen,stade",1,23475
+"willich,47877","norddeich,aurich",1,70960
+"willich,47877","stralsund,nordvorpommern",1,148877
+"wilsdruff,1723","großkoschen,oberspreewald-lausitz",1,16253
+"wilsdruff,1723","hohendorf,nordvorpommern",1,88580
+"wilsdruff,1723","koserow,ostvorpommern",1,89523
+"windhagen,53578","horressen,westerwaldkreis",1,10335
+"wingst,21789","unterwössen,upper bavaria",1,189875
+"winkelhaid,90610","nordholz,cuxhaven",1,139835
+"winsen,21423","neeberg,krummin",1,66544
+"winsen,21423","sieber,landkreis osterode am harz",1,47612
+"winsen luhe,21433","fehmarn,ostholstein",1,36759
+"winsen/luhe,21423","olpenitzdorf,schleswig-flensburg",1,38990
+"wismar,23966","schaprode,rügen",1,38155
+"wismar,23968","hohendorf,nordvorpommern",1,40723
+"wittdün,25946","jordanshöhe,goslar",1,94248
+"witten,58452","büsum,dithmarschen",1,85258
+"witten,58543","lensterstrand,ostholstein",1,103841
+"wittenberg,6886","zingst,nordvorpommern",1,76319
+"wittenberhe,19322","nenzhäuserhof,rhein-hunsrück-kreis",1,115108
+"wittenförden,19073","bärndorf,lower bavaria",1,141937
+"wittmund,26409","stiekelkamperfehn,leer",1,8284
+"wittstock/dosse ot wulfersdorf,16909","ahrenshoop,nordvorpommern",1,33660
+"wolfenbüttel,38300","büsum,dithmarschen",1,66314
+"wolfenbüttel,38300","wittdün,nordfriesland",1,83011
+"wolfenbüttel,38302","norddeich,aurich",1,74525
+"wolfenbüttel,38302","staberdorf,ostholstein",1,67717
+"wolfenbüttel,38304","eckernförde,rendsburg-eckernförde",1,69573
+"wolfhagen,34466","burhave,wesermarsch",1,68241
+"wolfratshausen,82515","wagensteig,freiburg",1,67259
+"wolfsburg,38440","norddeich,aurich",1,73645
+"wolfsburg,38442","burhave,wesermarsch",1,53841
+"wolfsburg,38444","altenau,goslar",1,17892
+"wolfsburg,38446","jordanshöhe,goslar",1,20634
+"wolfsburg,38446","wangern,nordwestmecklenburg",1,48599
+"wolfsburg,38448","wustrow,nordvorpommern",1,62821
+"wolgast,17438","binz,rügen",1,10838
+"wolgast,17438","woppenrieth,upper palatinate",1,169876
+"wolmirstedt,39326","kühlungsborn,rostock",1,56314
+"wolnzach,85283","warnemünde,rostock",1,165521
+"woringen,87789","altefähr,rügen",1,197944
+"worms,67547","elend,harz",1,76487
+"worms,67551","bolsterlang,swabia",1,73950
+"worpswede,27726","lüdingworth,cuxhaven",1,16998
+"worpswede,27726","olpenitzdorf,schleswig-flensburg",1,46154
+"worpswede,27726","seebad heringsdorf,ostvorpommern",1,94106
+"wulkenzin,17039","warnemünde,rostock",1,26660
+"wunstorf,31515","hafendorf,mecklenburgische seenplatte",1,65636
+"wunstorf,31515","kappeln,schleswig-flensburg",1,66995
+"wunstorf,31515","sierksdorf,ostholstein",1,54524
+"wuppertal,42103","cochem,cochem-zell",1,32929
+"wuppertal,42105","wallenborn,vulkaneifel",1,33841
+"wuppertal,42107","schwalefeld,kassel",1,27427
+"wuppertal,42109","krems ii,segeberg",1,98987
+"wuppertal,42109","prüm,bitburg-prüm",1,34648
+"wuppertal,42109","sandbrink,diepholz",1,42915
+"wuppertal,42109","warsingsfehn,leer",1,60672
+"wuppertal,42111","hooksiel,friesland",1,71141
+"wuppertal,42113","neßmersiel,aurich",1,71330
+"wuppertal,42115","oeventrop,arnsberg",1,19328
+"wuppertal,42117","rumphorst,münster",1,23760
+"wuppertal,42119","canow,mecklenburgische seenplatte",1,119741
+"wuppertal,42281","cochem,cochem-zell",1,33856
+"wuppertal,42283","timmel,aurich",1,62444
+"wuppertal,42283","wiesbaden,darmstadt",1,40622
+"wuppertal,42327","bansin,ostvorpommern",1,150932
+"wuppertal,42327","gerolstein,vulkaneifel",1,31248
+"wuppertal,42349","poel,nordwestmecklenburg",1,114127
+"wuppertal,42349","stanggaß,upper bavaria",1,154905
+"wuppertal,42349","titmaringhausen,arnsberg",1,28368
+"wuppertal,42369","medebach,arnsberg",1,28003
+"wuppertal - elberfeld,42111","neßmersiel,aurich",1,70679
+"wuppertaö,42285","hooksiel,friesland",1,72201
+"wurster-nordseeküste,27639","mönkebüll,nordfriesland",1,28399
+"wustermark,14641","kölpinsee,ostvorpommern",1,48333
+"wustermark,14641","triberg,freiburg",1,158557
+"wusterwitz,14789","harlesiel,wittmund",1,90608
+"wusterwitz,14789","hasselfelde,harz",1,34490
+"wächtersbach,63607","haffkrug,ostholstein",1,115799
+"wülfrath,42489","großenbrode,ostholstein",1,116733
+"würzburg,97082","kappeln,schleswig-flensburg",1,145392
+"würzburg,97084","stadlern,upper palatinate",1,51690
+"wüstenrot,71543","ichenheim,freiburg",1,37273
+"wüstenrot,71543","norderteil,cuxhaven",1,141279
+"zehdenick,16792","bansin,ostvorpommern",1,31683
+"zeil,97475","zachenberg,lower bavaria",1,55846
+"zeitz,6712","bad suderode,harz",1,28479
+"zerbst,39261","prora,rügen",1,78108
+"zeuthen,15738","prora,rügen",1,62164
+"ziepel,39291","sassnitz,rügen",1,76991
+"zinnowitz, ostseebad,17454","obertaching,upper bavaria",1,182982
+"zossen,15806","dagebüll,nordfriesland",1,111807
+"zwenkau,4442","issigau,upper franconia",1,27276
+"zwenkau,4442","sellin,rügen",1,97150
+"zwickau,8060","nienhagen,rostock",1,102381
+"zwingenberg,64673","sassnitz,rügen",1,169098
+"östringen,76684","unterlohwies,lower bavaria",1,84248
+"übach-palenberg,52531","dickenschied,rhein-hunsrück-kreis",1,39109
+"überlingen,88662","hessenwinkel,treptow-köpenick",1,163560

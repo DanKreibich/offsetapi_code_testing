@@ -1,0 +1,18 @@
+origin,destination,number of trips,CO2 in grams
+TXL,CGN,economy,1209870
+TXL,FRA,economy,452508
+TXL,STR,economy,498932
+TXL,MUC,economy,479255
+TXL,WAW,economy,215388
+TXL,WAW,business,188464
+TXL,DUS,economy,67608
+TXL,DUS,business,88736
+ZRH,TXL,economy,162674
+TXL,CPH,economy,113728
+BER,STR,business,185526
+WAW,ZRH,economy,104429
+ZRH,STR,economy,33284
+ZRH,MUC,economy,48524
+DUS,SZG,business,100928
+BER,BSL,economy,82800
+BER,GVA,economy,94525
