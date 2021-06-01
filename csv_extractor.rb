@@ -4,12 +4,12 @@ require_relative 'api_calls'
 require 'byebug'
 
 # change to respective CSV
-file = 'hy_flights.csv'
+file = 'logistics_cloud.csv'
 file_base_name = file.split('.').first
 
 def run_program(file, file_base_name)
-  input_array = get_data_flight(file) # ADJUST TO SPECIFIC FILE
-  output_array = get_carbon_data_flights(input_array) # ADJUST TO SPECIFIC ACTIVITY
+  input_array = get_data_truck(file) # ADJUST TO SPECIFIC FILE
+  output_array = get_carbon_data_truck(input_array) # ADJUST TO SPECIFIC ACTIVITY
   save_to_csv(output_array, file_base_name)
 end
 
@@ -64,26 +64,58 @@ def get_data_car(file)
   input_array
 end
 
-def get_carbon_data_flights(input_array)
-  output_array = []
-  input_array.each do |flight|
-    output_array << [flight[:origin], flight[:destination], flight[:booking_class], request_flight_emissions_csv(flight) * flight[:number_of_flights]]
+def get_data_truck(file)
+  input_array = []
+  CSV.foreach(file, headers: true) do |row|
+    values = row.to_s.split(';')
+    id = values[0]
+    origin = values[3]
+    destination = values[4]
+    weight_in_tonnes = values[1].to_f/1000
+    number_of_packages = values[2]
+
+    truck_hash = {  id: id,
+                    origin: origin,
+                    destination: destination,
+                    weight_in_tonnes: weight_in_tonnes,
+                    number_of_packages: number_of_packages.to_i
+                }
+
+    input_array << truck_hash
   end
-  output_array
+  input_array
 end
 
-def get_carbon_data_car(input_array)
+
+# def get_carbon_data_flights(input_array)
+#   output_array = []
+#   input_array.each do |flight|
+#     output_array << [flight[:origin], flight[:destination], flight[:booking_class], request_flight_emissions_csv(flight) * flight[:number_of_flights]]
+#   end
+#   output_array
+# end
+
+# def get_carbon_data_car(input_array)
+#   output_array = []
+#   input_array.each do |car_ride|
+#     puts car_ride[:origin] + " " + car_ride[:destination] + " " +  car_ride[:fuel_type] + " " +  car_ride[:car_type]
+#     output_array << [car_ride[:origin], car_ride[:destination], car_ride[:number_of_trips], request_car_emissions_address_type(car_ride[:origin], car_ride[:destination], car_ride[:fuel_type], car_ride[:car_type]) * car_ride[:number_of_trips]]
+#   end
+#   output_array
+# end
+
+def get_carbon_data_truck(input_array)
   output_array = []
-  input_array.each do |car_ride|
-    puts car_ride[:origin] + " " + car_ride[:destination] + " " +  car_ride[:fuel_type] + " " +  car_ride[:car_type]
-    output_array << [car_ride[:origin], car_ride[:destination], car_ride[:number_of_trips], request_car_emissions_address_type(car_ride[:origin], car_ride[:destination], car_ride[:fuel_type], car_ride[:car_type]) * car_ride[:number_of_trips]]
+  input_array.each do |truck_ride|
+    puts truck_ride[:id] + " | " +  truck_ride[:weight_in_tonnes].to_s + " | " + truck_ride[:origin] + " | " + truck_ride[:destination] + " | " +  truck_ride[:number_of_packages].to_s
+    output_array << [truck_ride[:id], truck_ride[:weight_in_tonnes], truck_ride[:number_of_packages], truck_ride[:origin], truck_ride[:destination], request_truck_address_emissions(truck_ride[:weight_in_tonnes], truck_ride[:origin], truck_ride[:destination]) * truck_ride[:number_of_packages]]
   end
   output_array
 end
 
 def save_to_csv(output_array, file__base_name)
   CSV.open(file__base_name + "_results.csv", 'wb') do |csv|
-    csv << ['origin', 'destination', 'number of trips', 'CO2 in grams'] # <-- ADJUST if needed
+    csv << ['id', 'weight_in_tonnes', 'number_of_packages', 'origin', 'destination', 'CO2_in_grams'] # <-- ADJUST if needed
     output_array.each { |x| csv << x }
   end
 end
